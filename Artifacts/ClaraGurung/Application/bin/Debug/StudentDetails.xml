@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<ArrayOfInformation>
+  <Information>
+    <StudentRegistrationDate>2020-01-03</StudentRegistrationDate>
+    <StudentID>1</StudentID>
+    <StudentName>Clara</StudentName>
+    <StudentAddress>Nabin Tole</StudentAddress>
+    <StudentContact>987654321</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-01-16</StudentRegistrationDate>
+    <StudentID>2</StudentID>
+    <StudentName>Amit</StudentName>
+    <StudentAddress>Bagar</StudentAddress>
+    <StudentContact>9876543210</StudentContact>
+    <StudentCourse>Networks And IT Security</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2019-12-05</StudentRegistrationDate>
+    <StudentID>3</StudentID>
+    <StudentName>Nirey</StudentName>
+    <StudentAddress>Airport</StudentAddress>
+    <StudentContact>9876543212</StudentContact>
+    <StudentCourse>Multimedia Technology</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-01-11</StudentRegistrationDate>
+    <StudentID>101</StudentID>
+    <StudentName>Rajan Gurung</StudentName>
+    <StudentAddress>Birauta</StudentAddress>
+    <StudentContact>99876543210</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-01-22</StudentRegistrationDate>
+    <StudentID>102</StudentID>
+    <StudentName>Rohit Gurung</StudentName>
+    <StudentAddress>Nagdhunga</StudentAddress>
+    <StudentContact>9878679065</StudentContact>
+    <StudentCourse>Multimedia Technology</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Agnes Lama</StudentName>
+    <StudentAddress>Simal-Chaur</StudentAddress>
+    <StudentContact>9807676890</StudentContact>
+    <StudentCourse>Networks And IT Security</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-14</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Sonu Lama</StudentName>
+    <StudentAddress>Hospital_Chowk</StudentAddress>
+    <StudentContact>9876098765</StudentContact>
+    <StudentCourse>Multimedia Technology</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Clara Gurung</StudentName>
+    <StudentAddress>Nabin _Tole</StudentAddress>
+    <StudentContact>9878909876</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-01-11</StudentRegistrationDate>
+    <StudentID>101</StudentID>
+    <StudentName>Rajan Gurung</StudentName>
+    <StudentAddress>Birauta</StudentAddress>
+    <StudentContact>99876543210</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-01-22</StudentRegistrationDate>
+    <StudentID>102</StudentID>
+    <StudentName>Rohit Gurung</StudentName>
+    <StudentAddress>Nagdhunga</StudentAddress>
+    <StudentContact>9878679065</StudentContact>
+    <StudentCourse>Multimedia Technology</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Agnes Lama</StudentName>
+    <StudentAddress>Simal-Chaur</StudentAddress>
+    <StudentContact>9807676890</StudentContact>
+    <StudentCourse>Networks And IT Security</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-14</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Sonu Lama</StudentName>
+    <StudentAddress>Hospital_Chowk</StudentAddress>
+    <StudentContact>9876098765</StudentContact>
+    <StudentCourse>Multimedia Technology</StudentCourse>
+  </Information>
+  <Information>
+    <StudentRegistrationDate>2020-02-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Clara Gurung</StudentName>
+    <StudentAddress>Nabin _Tole</StudentAddress>
+    <StudentContact>9878909876</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Information>
+</ArrayOfInformation>

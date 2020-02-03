@@ -1,0 +1,66 @@
+﻿<Window x:Class="Student_Information_System.AddStudents"
+         xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Information_System"
+        mc:Ignorable="d"
+        Title="AddStudents" Height="450" Width="800">
+    <Grid Background="DarkSeaGreen">
+        <Label Content="Registraton Form" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="20,10,0,0"/>
+        <Label Content="Registration Id :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="20,50,0,0"/>
+        <Label Content="Full Name :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="20,90,0,0"/>
+        <Label Content="Address :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="20,130,0,0" RenderTransformOrigin="0.522,3.616"/>
+        <Label Content="Contact :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="425,50,0,0"/>
+        <Label Content="Course Enroll :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="425,90,0,0"/>
+        <Label Content="Registration Date :" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="25" Width="115" Margin="425,130,0,0"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Margin="180,50,0,0"/>
+        <TextBox x:Name="txtfullname" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Margin="180,92,0,0"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Margin="180,132,0,0"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Margin="585,50,0,0"/>
+        <ComboBox x:Name="cbcourseEnroll" HorizontalAlignment="Left" VerticalAlignment="Top" Width="180" Margin="585,92,0,0" Height="23">
+            <ComboBoxItem Content="Application Development"></ComboBoxItem>
+            <ComboBoxItem Content="Artifical Intelligence"></ComboBoxItem>
+            <ComboBoxItem Content="Advanced Database"></ComboBoxItem>
+            <ComboBoxItem Content="Work Related Learning"></ComboBoxItem>
+        </ComboBox>
+        <DatePicker x:Name="dpRegistrationDate" SelectedDate="{x:Static sys:DateTime.Now}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="585,129,0,0" Height="26" Width="180"/>
+        <DataGrid  x:Name="DGStudentDetails" HorizontalAlignment="Left" Height="190" VerticalAlignment="Top" Width="725" Margin="28,220,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Registration ID"  Binding="{Binding ID}" Width="125" />
+                <DataGridTextColumn Header="Full Name" Binding="{Binding Fullname}" Width="125"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="125"/>
+                <DataGridTextColumn Header="Contact" Binding="{Binding Contact}" Width="120"/>
+                <DataGridTextColumn Header="Course Enroll" Binding="{Binding courseEnroll}" Width="125"/>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding RegistrationDate}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnRegister" Content="Register" HorizontalAlignment="Left" Margin="60,176,0,0" VerticalAlignment="Top" Width="75" Height="24" Click="SubmitRegistrationForm" Foreground="White" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#1F85DE" Offset="0"/>
+                    <GradientStop Color="#FF0F1AED" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Savebtn" Content="Save" HorizontalAlignment="Left" Margin="360,176,0,0" VerticalAlignment="Top" Width="75" Height="24" Click="Savebtnclick" Foreground="White" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#1F85DE" Offset="0"/>
+                    <GradientStop Color="#FF0F1AED" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Retrievebtn" Content="Retrieve" HorizontalAlignment="Left" Margin="640,176,0,0" VerticalAlignment="Top" Width="75" Height="24" Click="Retrievetnclick" Foreground="White" FontWeight="Bold">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#1F85DE" Offset="0"/>
+                    <GradientStop Color="#FF0F1AED" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+
+    </Grid>
+</Window>

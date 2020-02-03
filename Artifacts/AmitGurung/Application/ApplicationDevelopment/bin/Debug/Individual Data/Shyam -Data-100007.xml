@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Student>
+    <ID>1</ID>
+    <Name>Shyam </Name>
+    <Address>gandaki</Address>
+    <ContactNo>9876787654</ContactNo>
+    <Email>shyam@gmail.com</Email>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </Student>
+</NewDataSet>

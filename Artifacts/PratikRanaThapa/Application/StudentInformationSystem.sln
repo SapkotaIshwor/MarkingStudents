@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentInformationSystem", "StudentInformationSystem\StudentInformationSystem.csproj", "{9F30ED86-2A1E-4E6D-8655-5A952A2A630A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataHandler", "DataHandler\DataHandler.csproj", "{7A422C0D-61E6-4E57-802F-C5BE9922FDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F30ED86-2A1E-4E6D-8655-5A952A2A630A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F30ED86-2A1E-4E6D-8655-5A952A2A630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F30ED86-2A1E-4E6D-8655-5A952A2A630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F30ED86-2A1E-4E6D-8655-5A952A2A630A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A422C0D-61E6-4E57-802F-C5BE9922FDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A422C0D-61E6-4E57-802F-C5BE9922FDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A422C0D-61E6-4E57-802F-C5BE9922FDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A422C0D-61E6-4E57-802F-C5BE9922FDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD06AD3-99D6-4620-9B2E-F21619A394CF}
+	EndGlobalSection
+EndGlobal

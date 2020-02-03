@@ -1,0 +1,80 @@
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csprojResolveAssemblyReference.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.Cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+D:\Coursework\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\Coursework\CourseWorkSample\obj\Debug\StudentDetails.g.cs
+D:\Coursework\CourseWorkSample\obj\Debug\App.g.cs
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+D:\Coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+D:\Coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+D:\Coursework\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+D:\Coursework\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\Coursework\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\Coursework\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\Coursework\CourseWorkSample\obj\Debug\StudentDetails.baml
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+D:\Coursework\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+D:\Coursework\CourseWorkSample\obj\Debug\LoginForm.g.cs
+D:\Coursework\CourseWorkSample\obj\Debug\LoginForm.baml
+D:\Coursework\CourseWorkSample\bin\Debug\Sparrow.Chart.Wpf.35.xml
+D:\Coursework\CourseWorkSample\bin\Debug\OxyPlot.dll
+D:\Coursework\CourseWorkSample\bin\Debug\OxyPlot.Wpf.dll
+D:\Coursework\CourseWorkSample\bin\Debug\OxyPlot.xml
+D:\Coursework\CourseWorkSample\bin\Debug\OxyPlot.Wpf.xml
+D:\Coursework\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Coursework\CourseWorkSample\bin\Debug\WPFToolkit.dll
+D:\Coursework\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\Coursework\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+D:\Coursework\CourseWorkSample\obj\Debug\Chart.g.cs
+D:\Coursework\CourseWorkSample\obj\Debug\Chart.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\OxyPlot.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\OxyPlot.Wpf.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\WPFToolkit.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\OxyPlot.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\OxyPlot.Wpf.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\Sparrow.Chart.Wpf.35.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\Chart.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\LoginForm.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\StudentDetails.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\Chart.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\LoginForm.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\StudentDetails.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\CourseWorkSample\obj\Debug\CourseWorkSample.pdb

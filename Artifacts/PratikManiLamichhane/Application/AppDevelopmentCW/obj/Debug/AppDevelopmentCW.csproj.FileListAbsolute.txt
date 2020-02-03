@@ -1,0 +1,61 @@
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csprojAssemblyReference.cache
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\MainWindow.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\App.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW_MarkupCompile.cache
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW_MarkupCompile.lref
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.exe.config
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.exe
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\DataHandler.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\DataHandler.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\MainWindow.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.g.resources
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.Properties.Resources.resources
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.GenerateResource.cache
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.CoreCompileInputs.cache
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.CopyComplete
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.exe
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\Course.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WelcomePage.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\Course.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WelcomePage.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\StudentRegistration.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\StudentRegistration.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csprojAssemblyReference.cache
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\Course.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\MainWindow.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\pieChart.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\StudentRegistration.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WelcomePage.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\App.g.cs
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW_MarkupCompile.cache
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW_MarkupCompile.lref
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.exe.config
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.exe
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\AppDevelopmentCW.pdb
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\DataHandler.dll
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\DataHandler.pdb
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\Course.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\MainWindow.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\pieChart.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\StudentRegistration.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WelcomePage.baml
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.g.resources
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.Properties.Resources.resources
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.GenerateResource.cache
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.CoreCompileInputs.cache
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.csproj.CopyComplete
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.exe
+E:\Intern\New folder\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\AppDevelopmentCW.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\pieChart.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\pieChart.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WeeklyStudentReport.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\WeeklyStudentReport.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\login.g.cs
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\obj\Debug\login.baml
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\WPFtoolkitFramework.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\WPFToolkit.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\AppDevelopmentCW\bin\Debug\WPFToolkit.pdb

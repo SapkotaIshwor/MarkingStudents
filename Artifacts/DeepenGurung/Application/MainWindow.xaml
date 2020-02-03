@@ -1,0 +1,21 @@
+﻿<Window x:Class="StudentInformationSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="Login Page" Height="480" Width="650">
+    <Grid Background="WhiteSmoke">
+        <Image x:Name="loginImage" HorizontalAlignment="Left" Height="263" VerticalAlignment="Top" Width="300" Margin="10,131,0,0" Source="logo.png"/>
+        <Border BorderBrush="Black" CornerRadius="20" BorderThickness="0" HorizontalAlignment="Left" Height="400" Margin="320,26,0,0" VerticalAlignment="Top" Width="300" Background="Black">
+            <TextBox x:Name="txtUsername" Text="" Margin="37,88,28,271" BorderBrush="#FFABADB3" BorderThickness="5" TextWrapping="Wrap"/>
+        </Border>
+        <Label Content="Username" HorizontalAlignment="Center" Margin="357,70,52,0" VerticalAlignment="Top" Height="37" Width="233" Foreground="WhiteSmoke"  FontSize="25" FontFamily="Open Sans" FontWeight="Bold"/>
+        <Label Content="Password" HorizontalAlignment="Center" Margin="357,202,52,0" VerticalAlignment="Top" Height="37" Width="233" Foreground="WhiteSmoke" FontSize="25" FontFamily="Open Sans" FontWeight="Bold"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="357,244,0,0" Height="41" Width="233" BorderThickness="5" Panel.ZIndex="1" TextOptions.TextFormattingMode="Display" TextOptions.TextHintingMode="Animated"/>
+        <Button x:Name="btnLogin" Margin="357,328,177,68" Content="Login" Background="White" Foreground="Red" FontSize="25" FontWeight="Bold" Click="btnLogin_Click"></Button>
+        <Button x:Name="btnExit" Margin="486,328,52,68" Content="Exit" Background="White" Foreground="Red" FontSize="25" FontWeight="Bold" Click="btnExit_Click"></Button>
+
+    </Grid>
+</Window>

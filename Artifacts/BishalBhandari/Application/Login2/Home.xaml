@@ -1,0 +1,24 @@
+﻿<Window x:Class="Login2.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login2"
+        mc:Ignorable="d"
+        Title="Dashboard" Height="555" Width="980">
+    <Grid Background="#FF7B9DBA">
+        <Frame x:Name="Main"/>
+        <Menu x:Name="menubar" FontFamily="Open Sans" Margin="0,0,-0.4,487.6" FontSize="18">
+            <MenuItem Header="Student" Height="38" FontSize="16">
+                <MenuItem x:Name="addStudent" Header="Add Students" Click="AddStudent_Click"></MenuItem>
+                <MenuItem x:Name="import" Header="Import from CSV" Click="Import_Click" ></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Report" Height="38" FontSize="16">
+                <MenuItem x:Name="viewDetails" Header="View Student Details" Click="ViewDetails_Click"></MenuItem>
+                <MenuItem x:Name="viewReport" Header="View Weekly Report" Click="viewReport_Click"></MenuItem>
+                <MenuItem x:Name="viewChart" Header="View Chart" Click="viewChart_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

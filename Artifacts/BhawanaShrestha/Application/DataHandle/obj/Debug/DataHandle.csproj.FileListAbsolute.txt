@@ -1,0 +1,16 @@
+C:\Users\Bhawana Shrestha\source\repos\DataHandle\bin\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\source\repos\DataHandle\bin\Debug\DataHandle.pdb
+C:\Users\Bhawana Shrestha\source\repos\DataHandle\obj\Debug\DataHandle.csprojAssemblyReference.cache
+C:\Users\Bhawana Shrestha\source\repos\DataHandle\obj\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\source\repos\DataHandle\obj\Debug\DataHandle.pdb
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\DataHandle\bin\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\DataHandle\bin\Debug\DataHandle.pdb
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\DataHandle\obj\Debug\DataHandle.csprojAssemblyReference.cache
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\DataHandle\obj\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\DataHandle\obj\Debug\DataHandle.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\bin\Debug\DataHandle.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\bin\Debug\DataHandle.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\obj\Debug\DataHandle.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\obj\Debug\DataHandle.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\obj\Debug\DataHandle.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\DataHandle\obj\Debug\DataHandle.pdb

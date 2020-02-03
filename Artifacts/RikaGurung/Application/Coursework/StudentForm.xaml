@@ -1,0 +1,39 @@
+﻿<Window x:Class="Coursework.StudentForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StudentForm" Height="748.756" Width="802.48">
+    <Grid>
+        <Label Content="Student Form" HorizontalAlignment="Left" Margin="110,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="32,53,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="32,84,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="36,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact" HorizontalAlignment="Left" Margin="36,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="RegistrationDate" HorizontalAlignment="Left" Margin="0,208,0,0" VerticalAlignment="Top"/>
+        <Label Content="CourseEnroll" HorizontalAlignment="Left" Margin="22,177,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.784,1.224"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="300,53,0,0" VerticalAlignment="Top" Width="75" Click="buttonclick"/>
+        <TextBox x:Name="Studentid" HorizontalAlignment="Left" Height="23" Margin="116,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="Studentname" HorizontalAlignment="Left" Height="23" Margin="116,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="StudentAddress" HorizontalAlignment="Left" Height="23" Margin="116,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="Studentcontact" HorizontalAlignment="Left" Height="23" Margin="116,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="Regdate" HorizontalAlignment="Left" Margin="134,208,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Courseenroll" HorizontalAlignment="Left" Margin="116,177,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Networks and IT Security"/>
+            <ComboBoxItem Content="Multimedis Technologies"/>
+            <ComboBoxItem Content="Computing"/>
+        </ComboBox>
+        <Button Content="Import  from CSV" HorizontalAlignment="Left" Margin="274,84,0,0" VerticalAlignment="Top" Width="101" Click="import_click"/>
+        <DataGrid x:Name="DataGridXAML" HorizontalAlignment="Left" Margin="36,308,0,0" VerticalAlignment="Top" Height="276" Width="676">
+
+
+        </DataGrid>
+        <Button Content="Sort by name" HorizontalAlignment="Left" Margin="274,115,0,0" VerticalAlignment="Top" Width="116" Click="sort_name"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Sort by date" HorizontalAlignment="Left" Margin="274,144,0,0" VerticalAlignment="Top" Width="116" Click="sortdate"/>
+        <Button Content="Weekly Report" HorizontalAlignment="Left" Margin="274,183,0,0" VerticalAlignment="Top" Width="125" RenderTransformOrigin="-0.056,0.919" Click="weekreport">
+
+
+        </Button>
+        <Button Content="Chart" HorizontalAlignment="Left" Margin="274,219,0,0" VerticalAlignment="Top" Width="119" Click="chartclick"/>
+
+    </Grid>
+</Window>

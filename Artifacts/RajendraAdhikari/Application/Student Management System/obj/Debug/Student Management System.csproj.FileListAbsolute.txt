@@ -1,0 +1,71 @@
+C:\Users\DELL\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\DELL\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\DELL\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Home.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System_MarkupCompile.cache
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System_MarkupCompile.lref
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Home.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.g.resources
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\EnrollStudent.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\ImportFromCSV.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\StudentDetails.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\EnrollStudent.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\ImportFromCSV.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\StudentDetails.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Chart.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Report.g.cs
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Chart.baml
+C:\Users\DELL\source\repos\Student Management System\Student Management System\obj\Debug\Report.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\EnrollStudent.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Home.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\ImportFromCSV.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\StudentDetails.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Chart.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Report.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System_MarkupCompile.cache
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System_MarkupCompile.lref
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\EnrollStudent.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Home.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\ImportFromCSV.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\StudentDetails.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Chart.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Report.baml
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.g.resources
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\DELL\source\repos\StudentManagementSystem\Student Management System\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,18 @@
+﻿<Window x:Class="StudentInformationSystem.WeeklyTabularReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="WeeklyTabularReport" Height="400" Width="800" ResizeMode="NoResize">
+    <Grid Background="BurlyWood">
+        <DataGrid x:Name="grdWeeklyReport" HorizontalAlignment="Left" Height="138" Margin="82,73,0,0" VerticalAlignment="Top" Width="633" ItemsSource="{Binding}" AutoGenerateColumns="True"/>
+        <Button Content="Display weekly Report" HorizontalAlignment="Left" Margin="216,268,0,0" VerticalAlignment="Top" Width="136" Click="Btn_Weekly" Height="37"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="526,268,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Btn_Back_1" RenderTransformOrigin="0.132,0.458"/>
+        <Label Content="Weekly Report" HorizontalAlignment="Left" Margin="295,26,0,0" VerticalAlignment="Top" Width="204" FontWeight="ExtraBold" FontSize="24"/>
+        <Button Content="Display Chart" HorizontalAlignment="Left" Margin="380,268,0,0" VerticalAlignment="Top" Width="101" Height="37" Click="Btn_chart" RenderTransformOrigin="1.43,-0.944"/>
+
+
+    </Grid>
+</Window>

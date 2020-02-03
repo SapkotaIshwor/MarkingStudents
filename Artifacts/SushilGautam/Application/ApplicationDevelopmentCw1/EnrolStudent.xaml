@@ -1,0 +1,51 @@
+﻿<Window x:Class="ApplicationDevelopmentCw1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationDevelopmentCw1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="474.323" Width="835" ResizeMode="NoResize">
+    <Grid Margin="10,22,0,0" Height="411" VerticalAlignment="Top" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" HorizontalAlignment="Left" Width="804">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="155*"/>
+            <ColumnDefinition Width="74*"/>
+            <ColumnDefinition Width="575*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Welcome To Student Management System" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" Width="702" FontSize="24" Grid.ColumnSpan="3" BorderThickness="0" Height="44" FontFamily="Rockwell Extra Bold"/>
+        <Label Content="Registration No" HorizontalAlignment="Left" Margin="57,129,0,0" VerticalAlignment="Top" Width="98" Height="25" RenderTransformOrigin="0.161,0.517"/>
+        <TextBox x:Name="registrationNo" HorizontalAlignment="Left" Height="24" Margin="10,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="1"  Grid.ColumnSpan="2" IsReadOnly="True" Cursor="No"/>
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="57,164,0,0" VerticalAlignment="Top" Width="90" Height="28" RenderTransformOrigin="-0.011,0.65"/>
+        <TextBox x:Name="firstName" HorizontalAlignment="Left" Height="24" Margin="10,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Margin="57,196,0,0" VerticalAlignment="Top" Width="90" Height="28" RenderTransformOrigin="-0.011,0.65"/>
+        <Label Content="Contact No" HorizontalAlignment="Left" Margin="57,229,0,0" VerticalAlignment="Top" Width="90" Height="28" RenderTransformOrigin="-0.011,0.65"/>
+        <Label Content="Zone" HorizontalAlignment="Left" Margin="57,264,0,0" VerticalAlignment="Top" Width="90" Height="24" RenderTransformOrigin="-0.011,0.65"/>
+        <TextBox x:Name="contactNo" HorizontalAlignment="Left" Height="24" Margin="10,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="zone" HorizontalAlignment="Left" Height="24" Margin="10,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="Course Enroll" HorizontalAlignment="Left" Margin="184,130,0,0" VerticalAlignment="Top" Width="83" Height="24" RenderTransformOrigin="0.161,0.517" Grid.Column="2"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="184,194,0,0" VerticalAlignment="Top" Width="62" Height="24" RenderTransformOrigin="0.161,0.517" Grid.Column="2"/>
+        <TextBox x:Name="lastName" HorizontalAlignment="Left" Height="24" Margin="297,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="2"/>
+        <Label Content="Last Name" HorizontalAlignment="Left" Margin="184,163,0,0" VerticalAlignment="Top" Width="83" Height="24" RenderTransformOrigin="-0.011,0.65" Grid.Column="2"/>
+        <TextBox x:Name="email" HorizontalAlignment="Left" Height="24" Margin="297,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="2" RenderTransformOrigin="0.327,0.5" TextChanged="Email_TextChanged"/>
+        <TextBox x:Name="district" HorizontalAlignment="Left" Height="24" Margin="297,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="2" RenderTransformOrigin="0.497,-0.887"/>
+        <Label Content="District" HorizontalAlignment="Left" Margin="184,229,0,0" VerticalAlignment="Top" Width="62" Height="26" RenderTransformOrigin="-0.011,0.65" Grid.Column="2"/>
+        <ComboBox x:Name="courseEnrol" Grid.Column="2" HorizontalAlignment="Left" Margin="297,129,0,0" VerticalAlignment="Top" Width="220" Height="22">
+            <ComboBoxItem Content="Computing" IsSelected="True"/>
+            <ComboBoxItem Content="Multimedia Technologies"/>
+            <ComboBoxItem Content="Networking"/>
+            <ComboBoxItem Content="Artificial Intelligence"/>
+        </ComboBox>
+        <Button x:Name="clear" Content="Clear" Grid.Column="2" HorizontalAlignment="Left" Margin="442,358,0,0" VerticalAlignment="Top" Width="81" Click="Clear_Click"/>
+        <Button x:Name="addStudent" Content="ADD Student" Grid.Column="2" HorizontalAlignment="Left" Margin="297,358,0,0" VerticalAlignment="Top" Width="87" RenderTransformOrigin="0.96,0.6" Click="AddStudent_Click"/>
+        <Label Content="Registration  Date" HorizontalAlignment="Left" Margin="57,303,0,0" VerticalAlignment="Top" Width="108" Height="24" RenderTransformOrigin="-0.011,0.65" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="enrolDate" HorizontalAlignment="Left" Height="24" Margin="10,303,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Grid.Column="1" Grid.ColumnSpan="2" Cursor="No" IsReadOnly="True"/>
+        <ComboBox x:Name="genderCombo" Grid.Column="1" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Width="220" Grid.ColumnSpan="2" Height="28">
+            <ComboBoxItem Content="Male" IsSelected="True"/>
+            <ComboBoxItem Content="Female"/>
+            <ComboBoxItem Content="Others"/>
+        </ComboBox>
+
+
+    </Grid>
+</Window>

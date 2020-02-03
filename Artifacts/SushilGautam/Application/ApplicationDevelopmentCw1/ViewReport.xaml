@@ -1,0 +1,20 @@
+﻿<Window x:Class="ApplicationDevelopmentCw1.ViewReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationDevelopmentCw1"
+        mc:Ignorable="d"
+        Title="ViewReport" Height="663.192" Width="894.165">
+    <Grid HorizontalAlignment="Left" Width="884" Height="613" VerticalAlignment="Top">
+        <DataGrid x:Name="reportGrid" HorizontalAlignment="Left" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="169" Margin="0,98,0,0" VerticalAlignment="Top" Width="884" FontStyle="Italic" AlternatingRowBackground="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+        <Label Content="Enrolled  Students Report" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalAlignment="Top" Width="884" Height="59" FontSize="36" FontWeight="Bold" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+        <ComboBox x:Name="reports" HorizontalAlignment="Left" Margin="637,272,0,0" VerticalAlignment="Top" Width="247" RenderTransformOrigin="0.272,0.864" Height="40" SelectionChanged="Reports_SelectionChanged">
+            <ComboBoxItem Content="Sort by Date"/>
+            <ComboBoxItem Content="Sort by Name"/>
+        </ComboBox>
+        <Label Content="Students Enrolled This Week" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="0,317,0,0" VerticalAlignment="Top" Width="884" Height="59" FontSize="36" FontWeight="Bold" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}"/>
+        <DataGrid x:Name="weeklyReport" Height="166" Margin="0,437,422,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

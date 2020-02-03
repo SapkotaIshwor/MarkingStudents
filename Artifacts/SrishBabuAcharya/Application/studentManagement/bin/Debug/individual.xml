@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <studentIdNumber>12345</studentIdNumber>
+  <studentFullName>admin</studentFullName>
+  <studentAddress>admin</studentAddress>
+  <studentContact>9783623</studentContact>
+  <courseName>Application Development</courseName>
+  <registeredDate>1/10/2020</registeredDate>
+</Student>

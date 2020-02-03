@@ -1,0 +1,64 @@
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\HomePage.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\Login.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentAdd.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\App.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\HomePage.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\Login.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentAdd.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\Report.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\Report.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyTabularReport.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyTabularReport.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\ImportCsv.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\ImportCsv.baml
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\Syncfusion.Licensing.dll
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\WPFToolkit.dll
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\bin\Debug\WPFToolkit.pdb
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\DisplayChart.g.cs
+H:\courswork of Application development\StudentInformationSystem\StudentInformationSystem\obj\Debug\DisplayChart.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\WPFToolkit.dll
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\bin\Debug\WPFToolkit.pdb
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\DisplayChart.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\HomePage.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\ImportCsv.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\Login.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\Report.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentAdd.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyTabularReport.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\App.g.cs
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\DisplayChart.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\HomePage.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\ImportCsv.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\Login.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\Report.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentAdd.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyTabularReport.baml
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\mico_\OneDrive\Desktop\NEW\course-work-1-ishwor-magar-master\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb

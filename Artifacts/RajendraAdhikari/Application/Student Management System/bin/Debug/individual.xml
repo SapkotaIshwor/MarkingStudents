@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <studentID>1</studentID>
+  <firstName>Deepen</firstName>
+  <lastName>Gurung</lastName>
+  <address>Bajapatan</address>
+  <contactNo>9802123567</contactNo>
+  <courseName>Wordpress</courseName>
+  <enrolledDate>1/2/2020</enrolledDate>
+</Student>

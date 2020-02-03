@@ -1,0 +1,26 @@
+﻿<Window x:Class="Student_Management_System.Forms.Import"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        WindowStartupLocation="CenterScreen"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management_System.Forms"
+        mc:Ignorable="d"
+        Title="Import" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="#FFFCFFD7">
+        <DataGrid x:Name="importDatagrid" HorizontalAlignment="Left" Height="306" Margin="27,54,0,0" VerticalAlignment="Top" Width="736" IsReadOnly="True" AutoGenerateColumns="False" EnableColumnVirtualization="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}" />
+                <DataGridTextColumn Header="Student Name" Binding="{Binding Student_Name}" Width="150"/>
+                <DataGridTextColumn Header="Gender" Binding="{Binding Gender}" Width="90"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="150" />
+                <DataGridTextColumn Header="Contact" Binding="{Binding Contact}" Width="150"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="150"/>
+                <DataGridTextColumn Header="Programme" Binding="{Binding Programme}" Width="150" />
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding Registration_Date}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnOpen" Content="Open File" HorizontalAlignment="Left" Margin="27,10,0,0" VerticalAlignment="Top" Width="109" Height="35" Click="BtnOpen_Click"/>
+
+    </Grid>
+</Window>

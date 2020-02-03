@@ -1,0 +1,53 @@
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.dll
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.pdb
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Home.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegisterStudent.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentDetail.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Weekly.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.TotalData.resources
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.SortedByDate.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.dll
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.pdb
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Home.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegisterStudent.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.SortedByDate.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentDetail.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.TotalData.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Weekly.resources
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\study materials\Application development\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.dll
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\bin\Debug\BLL.pdb
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Home.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegisterStudent.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.SortedByDate.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentDetail.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.TotalData.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Weekly.resources
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\acer\Desktop\Sudhir\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

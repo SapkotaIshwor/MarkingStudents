@@ -1,0 +1,20 @@
+﻿<Window x:Class="Coursework.Weekreport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Weekreport" Height="283.566" Width="453.358">
+    <Grid>
+        <DataGrid x:Name="weekGrid" Margin="51,37,0,0" VerticalAlignment="Top" Width="321" Height="153"/>
+        <Button Content="Display weekly" HorizontalAlignment="Left" Margin="76,223,0,0" VerticalAlignment="Top" Width="99" Click="week"/>
+
+    </Grid>
+
+
+
+
+
+
+
+
+
+
+</Window>

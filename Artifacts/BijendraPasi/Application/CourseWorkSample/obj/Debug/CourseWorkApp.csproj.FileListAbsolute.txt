@@ -1,0 +1,38 @@
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkApp.csprojAssemblyReference.cache
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\Window2.baml
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\Window2.g.cs
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\App.g.cs
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkApp.csproj.GenerateResource.cache
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkApp.csproj.CopyComplete
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\Users\ITOFF\Desktop\Courseapp2\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkApp.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\Window2.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\Window2.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkApp.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkApp.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkApp.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bijendra22\CourseWorkSample\obj\Debug\CourseWorkSample.pdb

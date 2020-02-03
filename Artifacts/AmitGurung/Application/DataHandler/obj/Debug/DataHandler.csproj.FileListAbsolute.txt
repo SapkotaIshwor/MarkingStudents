@@ -1,0 +1,10 @@
+C:\Users\Amit Gurung\source\repos\ApplicationDevelopment\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\Amit Gurung\source\repos\ApplicationDevelopment\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\Amit Gurung\source\repos\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\Users\Amit Gurung\source\repos\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\Amit Gurung\source\repos\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.pdb
+C:\Users\Amit Gurung\Desktop\Git\course-work-1-amitgurung\ApplicationDevelopment\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\Amit Gurung\Desktop\Git\course-work-1-amitgurung\ApplicationDevelopment\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\Amit Gurung\Desktop\Git\course-work-1-amitgurung\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\Amit Gurung\Desktop\Git\course-work-1-amitgurung\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.pdb
+C:\Users\Amit Gurung\Desktop\Git\course-work-1-amitgurung\ApplicationDevelopment\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache

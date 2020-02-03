@@ -1,0 +1,17 @@
+﻿<Window x:Class="CourseWorkSample.SortByDate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        mc:Ignorable="d"
+        Title="SortByDate" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <DataGrid x:Name="gridSortDate" HorizontalAlignment="Left" Height="307" Margin="53,29,0,0" VerticalAlignment="Top" Width="683"/>
+            <Button x:Name="btnSortByDate" Content="Sort Student By Date" HorizontalAlignment="Left" Margin="264,360,0,0" VerticalAlignment="Top" Width="183" Height="36" FontSize="14" FontWeight="Bold" Click="SortDate_Click"/>
+
+        </Grid>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,132 @@
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\App.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\AD\coursework\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\AD\coursework\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\App.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_student.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_student.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\password.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\password.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_confirm.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_confirm.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\FileHelpers.dll
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\FileHelpers.xml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\FileHelpers.dll
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\FileHelpers.xml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ChartWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\password.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_confirm.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_student.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\WeeklyReportWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\App.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ChartWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\password.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_confirm.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_student.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\WeeklyReportWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ReportMainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ReportMainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\AllStudentWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\AllStudentWindow.baml
+X:\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+X:\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+X:\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+X:\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+X:\Student_info\Student_info\obj\Debug\Register_student.g.cs
+X:\Student_info\Student_info\obj\Debug\App.g.cs
+X:\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+X:\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+X:\Student_info\Student_info\obj\Debug\Student_info.exe
+X:\Student_info\Student_info\obj\Debug\Student_info.pdb
+X:\Student_info\Student_info\bin\Debug\Student_info.exe.config
+X:\Student_info\Student_info\bin\Debug\Student_info.exe
+X:\Student_info\Student_info\bin\Debug\Student_info.pdb
+X:\Student_info\Student_info\bin\Debug\FileHelpers.dll
+X:\Student_info\Student_info\bin\Debug\FileHelpers.xml
+X:\Student_info\Student_info\obj\Debug\MainWindow.baml
+X:\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+X:\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+X:\Student_info\Student_info\obj\Debug\Register_student.baml
+X:\Student_info\Student_info\obj\Debug\Student_info.g.resources
+X:\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+X:\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+X:\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+X:\Student_info\Student_info\obj\Debug\login.g.cs
+X:\Student_info\Student_info\obj\Debug\login.baml
+D:\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\Student_info\Student_info\bin\Debug\FileHelpers.dll
+D:\Student_info\Student_info\bin\Debug\FileHelpers.xml
+D:\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\Student_info\Student_info\obj\Debug\login.g.cs
+D:\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+D:\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+D:\Student_info\Student_info\obj\Debug\Register_student.g.cs
+D:\Student_info\Student_info\obj\Debug\App.g.cs
+D:\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\Student_info\Student_info\obj\Debug\login.baml
+D:\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+D:\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+D:\Student_info\Student_info\obj\Debug\Register_student.baml
+D:\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+D:\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\Student_info\Student_info\obj\Debug\Student_info.pdb

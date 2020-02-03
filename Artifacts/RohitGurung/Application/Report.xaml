@@ -1,0 +1,33 @@
+﻿<Page x:Class="CWAD.Report"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CWAD"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="900"
+      Title="Report">
+
+    <Grid Background="LightGray">
+        <Label Content="Sort Report by:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,715,400"/>
+        <RadioButton x:Name="rbtnStudentName" Content="Student's First Name" Margin="0,0,450,400" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="rbtnStudentName_Checked"/>
+        <RadioButton x:Name="rbtnRegistrationDate" Content="Student's Registration Date" Margin="0,0,100,400" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="rbtnRegistrationDate_Checked"/>
+        <Label Content="Generated Report:" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,700,300"/>
+        <Button x:Name="btnGenerate" Content="Generate Report" Margin="550,0,0,400" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="36" Click="btnGenerate_Click"/>
+        <DataGrid x:Name="dataGridReport" FontSize="10" HorizontalAlignment="Center" Height="350" VerticalAlignment="Center" Width="800" Margin="0,100,50,0" IsReadOnly="True" AutoGenerateColumns="True">
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Header="Registration ID" Binding="{Binding StudentRegistrationID}" CanUserResize="False" Width="80" />
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding StudentRegistrationDate}" CanUserResize="False" Width="90"/>
+                <DataGridTextColumn Header="Student ID" Binding="{Binding StudentID}" CanUserResize="False" Width="60"/>
+                <DataGridTextColumn Header="Student Name" Binding="{Binding StudentName}" CanUserResize="False" Width="100"/>
+                <DataGridTextColumn Header="Student Address" Binding="{Binding StudentAddress}" CanUserResize="False" Width="120"/>
+                <DataGridTextColumn Header="Student Email" Binding="{Binding StudentEmail}" CanUserResize="False" Width="130"/>
+                <DataGridTextColumn Header="Student Contact" Binding="{Binding StudentContact}" CanUserResize="False" Width="90"/>
+                <DataGridTextColumn Header="Course" Binding="{Binding StudentCourse}" CanUserResize="False" Width="140"/>
+            </DataGrid.Columns>-->
+        </DataGrid>
+
+
+
+    </Grid>
+</Page>

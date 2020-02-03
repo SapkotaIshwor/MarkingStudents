@@ -1,0 +1,17 @@
+﻿<Window x:Class="CourseWorkSample.Chart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+        Title="Chart" Height="450" Width="800">
+    <Grid>
+        <DVC:Chart>
+            <DVC:BarSeries x:Name="gridchart" Title="Total Days" IndependentValueBinding="{Binding Path=Key}"    
+            DependentValueBinding="{Binding Path=Value}" Margin="10,10,39,4">
+            </DVC:BarSeries>
+        </DVC:Chart>
+    </Grid>
+</Window>

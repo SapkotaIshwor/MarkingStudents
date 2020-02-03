@@ -1,0 +1,53 @@
+#PSEUDOCODE FOR STUDENT INFORMATION SYSTEM
+
+BEGIN
+DO
+    INPUT username && password
+    IF username && password == correct
+        THEN GET system Access
+        LOAD Main Window
+        DO
+            ADD Student Details to be recorded
+                INPUT Details
+                THEN ADD students
+
+                IF data is correct
+                    DO
+                        SAVE Data
+                    END DO
+                ELSE
+                    DO
+                        RESET and Enter valid data again
+                    END DO
+                END IF
+            SORT the saved Data
+            SORT BY StudentId
+            SORT BY RegistrationDate
+
+            IF Student is added
+                DO  
+                    EXPORT Student Files in XML Format
+                END DO
+            ELSE IF student file is exported
+                DO
+                    IMPORT CSV files from the System
+                END DO
+            END IF
+        END DO
+
+        DO
+            IF Student details are ready THEN
+                DO
+                    GENERATE PIE CHART FOR total Students enrolled on each program
+                    VIEW weekly Report FOR total Students enrolled on each program
+                END DO
+            ELSE IF
+                DO
+                    IF WORK IS DONE
+                    LOGOUT from the SYSTEM
+                END DO
+            END IF
+        END DO
+    END IF
+END DO
+END

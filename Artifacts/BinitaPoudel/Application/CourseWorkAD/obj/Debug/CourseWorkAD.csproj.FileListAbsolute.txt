@@ -1,0 +1,68 @@
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.cache
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.lref
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\bin\Debug\CourseWorkAD.exe.config
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\bin\Debug\CourseWorkAD.exe
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\bin\Debug\CourseWorkAD.pdb
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.g.resources
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.Properties.Resources.resources
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.exe
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.pdb
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\StudentForm.g.cs
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\StudentForm.baml
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\bin\Debug\Datahandler.dll
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\bin\Debug\Datahandler.pdb
+C:\Users\DELL\source\repos\CourseWorkAD\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\StudentForm.g.cs
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\App.g.cs
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.cache
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.lref
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.exe
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.pdb
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.exe.config
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.exe
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.pdb
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\Datahandler.dll
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\Datahandler.pdb
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\MainWindow.baml
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\StudentForm.baml
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.g.resources
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\bin\Debug\WPFToolkit.pdb
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\Chart1.g.cs
+C:\Users\DELL\OneDrive\Desktop\github\course-work-1-binitaa\CourseWorkAD\obj\Debug\Chart1.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\StudentForm.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\Chart1.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\CourseWorkAD.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\WPFToolkit.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\bin\Debug\WPFToolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\StudentForm.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\Chart1.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\CourseWorkAD\obj\Debug\CourseWorkAD.csproj.CopyComplete

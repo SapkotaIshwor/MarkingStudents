@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace Coursework
+{
+    /// <summary>
+    /// Interaction logic for ChartEnroll.xaml
+    /// </summary>
+    public partial class ChartEnroll : Window
+    {
+        public ChartEnroll()
+        {
+            InitializeComponent();
+            LoadPieChartData();
+        }
+        private void LoadPieChartData()
+        {
+            var dataset = new DataSet();
+            dataset.ReadXml(@"D:\student.xml");
+            DataTable stdReport = dataset.Tables[0];
+            int total_Com = 0;
+            int total_Mul = 0;
+            int total_Net = 0;
+
+            DataTable dt = new DataTable("tbl");
+            dt.Columns.Add("Course Enroll", typeof(String));
+            dt.Columns.Add("Total Students", typeof(int));
+
+            for (int i = 0; i < stdReport.Rows.Count; i++)
+            {
+
+
+                String col = stdReport.Rows[i]["CourseEnroll"].ToString();
+                if (col == "Computing")
+                {
+                    total_Com++;   // incrementing values of each course based on user input
+                }
+                else if (col == "Multimedia Technologies")
+                {
+                    total_Mul++;
+                }
+                else if (col == "Networks and IT Security")
+                {
+                    total_Net++;
+                }
+            }
+
+            dt.Rows.Add("Computing", total_Com);          // final assign
+            dt.Rows.Add("Multimedia Technologies", total_Mul);
+            dt.Rows.Add("Networks and IT Security", total_Net);
+            ((System.Windows.Controls.DataVisualization.Charting.PieSeries)course).ItemsSource =
+                new KeyValuePair<string, int>[]{
+        new KeyValuePair<string,int>("Computing", 12),
+        new KeyValuePair<string,int>("Multimedia Technologies.", 5),
+        new KeyValuePair<string,int>("Networks and IT Security", 10) };
+        }                
+    }
+}

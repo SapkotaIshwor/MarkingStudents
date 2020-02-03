@@ -1,0 +1,82 @@
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.exe
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.deps.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.dev.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Login.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.lref
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Login.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.g.resources
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfoInputs.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfo.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Add_Record.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Add_Record.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\retrieve_record.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\retrieve_record.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\generate_report.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\generate_report.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.csprojAssemblyReference.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.exe
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.deps.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.dev.json
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.csprojAssemblyReference.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Login.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.lref
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Login.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.g.resources
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfoInputs.cache
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfo.cs
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\source\repos\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.exe
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.deps.json
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.json
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.dev.json
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.csprojAssemblyReference.cache
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.cache
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.lref
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.g.resources
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfoInputs.cache
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfo.cs
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Login.g.cs
+C:\Users\Prashanta Timsina\Desktop\cw_s\Application Development CW1\Application Development CW2\Application Development CW1\obj\Debug\netcoreapp3.0\Login.baml
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.exe
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.deps.json
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.json
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.runtimeconfig.dev.json
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\bin\Debug\netcoreapp3.0\Application Development CW1.pdb
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.csprojAssemblyReference.cache
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Login.g.cs
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.cache
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1_MarkupCompile.lref
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Login.baml
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.g.resources
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfoInputs.cache
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.AssemblyInfo.cs
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.dll
+C:\Users\Sneha Gurung\Desktop\Git\course-work-1-gurungsneha\Application Development CW1\Application Development CW1\obj\Debug\netcoreapp3.0\Application Development CW1.pdb

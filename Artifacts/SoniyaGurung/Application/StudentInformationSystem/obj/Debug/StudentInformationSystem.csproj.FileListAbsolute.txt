@@ -1,0 +1,49 @@
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainWindow.g.cs
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentForm.g.cs
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\App.g.cs
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainWindow.baml
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentForm.baml
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyReport.g.cs
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\WeeklyReport.baml
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\Sorting.g.cs
+C:\Users\soniya\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\Sorting.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\MainWindow.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\Sorting.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentForm.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\WeeklyReport.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\App.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\MainWindow.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\Sorting.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentForm.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\WeeklyReport.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\WPFToolkit.dll
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\bin\Debug\WPFToolkit.pdb
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\Chart.g.cs
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\Chart.baml
+C:\Users\soniya\Desktop\3rd Year\Application Development\GitHub\course-work-1-soniya1998\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CopyComplete

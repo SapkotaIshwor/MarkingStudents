@@ -1,0 +1,40 @@
+﻿<Window x:Class="coursewoek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:coursewoek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="489.416" Width="800">
+    <Grid>
+        <Label x:Name="lname" Content="Name" HorizontalAlignment="Left" Margin="200,48,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.571,2.038" Height="26" Width="42"/>
+        <Button x:Name="btnok" Content="Save" HorizontalAlignment="Left" Margin="475,238,0,0" VerticalAlignment="Top" Width="75" Click="btnok_Click" RenderTransformOrigin="0.307,6.05" Height="20"/>
+        <TextBox x:Name="txtname" HorizontalAlignment="Left" Height="23" Margin="350,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="laddress" Content="Address" HorizontalAlignment="Left" Margin="200,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="26" Width="53">
+        </Label>
+        <TextBox x:Name="txtaddress" HorizontalAlignment="Left" Height="23" Margin="350,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="lid" Content="Id No." HorizontalAlignment="Left" Margin="200,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.524,0.615" Height="26" Width="42"/>
+        <TextBox x:Name="txtid" HorizontalAlignment="Left" Height="23" Margin="350,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="lcontact" Content="Contact" HorizontalAlignment="Left" Margin="200,124,0,0" VerticalAlignment="Top" Height="26" Width="51"/>
+        <TextBox x:Name="txtcontact" HorizontalAlignment="Left" Height="23" Margin="350,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="lprogram" Content="Program Enroll" HorizontalAlignment="Left" Margin="200,162,0,0" VerticalAlignment="Top" Height="26" Width="89"/>
+        <Label x:Name="lreg" Content="Registration Date" HorizontalAlignment="Left" Margin="200,200,0,0" VerticalAlignment="Top" Height="26" Width="101"/>
+        <DatePicker x:Name="txtreg" HorizontalAlignment="Left" Height="23" Margin="350,200,0,0" VerticalAlignment="Top" Width="200"/>
+        <Button x:Name="btnimport" Content="Import Student Details" HorizontalAlignment="Left" Margin="20,50,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btnreport" Content="Display Tabular Report" HorizontalAlignment="Left" Margin="20,202,0,0" VerticalAlignment="Top" Width="130" Click="btnreport_Click"/>
+        <Button x:Name="btnchart" Content="Display Charts" HorizontalAlignment="Left" Margin="20,240,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btnretrieve" Content="Retrieve Student Details" HorizontalAlignment="Left" Margin="20,88,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btnsortbyregt" Content="Sort by Date" HorizontalAlignment="Left" Margin="20,164,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btnsortbyname" Content="Sort by Name" HorizontalAlignment="Left" Margin="20,124,0,0" VerticalAlignment="Top" Width="130" Click="btnsortbyname_Click"/>
+        <DataGrid x:Name="grid" HorizontalAlignment="Left" Height="173" Margin="20,275,0,0" VerticalAlignment="Top" Width="752">
+            
+        </DataGrid>
+        <Button x:Name="btnclear" Content="Clear" HorizontalAlignment="Left" Margin="350,238,0,0" VerticalAlignment="Top" Width="75" Click="btnclear_Click"/>
+        <ComboBox x:Name="txtprogram" HorizontalAlignment="Left" Margin="350,162,0,0" VerticalAlignment="Top" Width="200" IsEditable="False">
+            <ComboBoxItem Content="Networks and IT Security" HorizontalAlignment="Left" Width="198" IsSelected="True"/>
+            <ComboBoxItem Content="Computing" HorizontalAlignment="Left" Width="198"/>
+            <ComboBoxItem Content="Multimedia Technologies" HorizontalAlignment="Left" Width="198"/>
+
+        </ComboBox>
+    </Grid>
+</Window>

@@ -1,0 +1,46 @@
+﻿<Window x:Class="StudentManagementSystem2._0.StudentRegistration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentManagementSystem2._0"
+        mc:Ignorable="d"
+        Title="Add Student" Height="450" Width="548.492">
+    <Window.Background>
+        <ImageBrush ImageSource="Image/backg.png" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="47*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblName" Content="Name:" HorizontalAlignment="Left" Margin="37,46,0,0" VerticalAlignment="Top" Height="32" Width="67" FontSize="14" Foreground="White"/>
+        <Label x:Name="lblAddress" Content="Address:" HorizontalAlignment="Left" Margin="37,94,0,0" VerticalAlignment="Top" Height="32" Width="67" FontSize="14" Foreground="White"/>
+        <Label x:Name="lblContact" Content="Contact No:" HorizontalAlignment="Left" Margin="37,143,0,0" VerticalAlignment="Top" Height="32" Width="86" FontSize="14" Foreground="White"/>
+        <Label x:Name="lblEmail" Content="Email Address:" HorizontalAlignment="Left" Margin="37,191,0,0" VerticalAlignment="Top" Height="32" Width="102" FontSize="14" Foreground="White"/>
+        <Label x:Name="lblCourseEnroll" Content="Course Enroll:" HorizontalAlignment="Left" Margin="37,238,0,0" VerticalAlignment="Top" Height="32" Width="119" FontSize="14" Foreground="White"/>
+        <Label x:Name="lblRegistrationDate" Content="Date of Registration:" HorizontalAlignment="Left" Margin="37,288,0,0" VerticalAlignment="Top" Height="32" Width="139" FontSize="14" Foreground="White"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Margin="250,46,0,0" FontSize="14" Grid.ColumnSpan="2" BorderBrush="White" Background="Transparent" Foreground="White" TextChanged="txtName_TextChanged"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Margin="250,94,0,0" FontSize="14" Grid.ColumnSpan="2" Background="Transparent" BorderBrush="White" Foreground="White" TextChanged="txtAddress_TextChanged"/>
+        <TextBox x:Name="txtContactNo" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Margin="250,143,0,0" FontSize="14" Grid.ColumnSpan="2" Background="Transparent" BorderBrush="White" Foreground="White"/>
+        <TextBox x:Name="txtEmailAddress" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Margin="250,191,0,0" FontSize="14" Grid.ColumnSpan="2" Background="Transparent" BorderBrush="White" Foreground="White"/>
+        <ComboBox x:Name="cbCourseEnroll" HorizontalAlignment="Left" Margin="250,238,0,0" VerticalAlignment="Top" Width="238" Height="32" SelectionChanged="cbCourseEnroll_SelectionChanged" Grid.ColumnSpan="2">
+            <ComboBoxItem Content="Computing" HorizontalAlignment="Left" Width="236"/>
+            <ComboBoxItem Content="Multimedia Technology" HorizontalAlignment="Left" Width="236"/>
+            <ComboBoxItem Content="Networking" HorizontalAlignment="Left" Width="236"/>
+
+        </ComboBox>
+        <DatePicker x:Name="dpRegistrationDate" HorizontalAlignment="Left" Margin="250,288,0,0" VerticalAlignment="Top" Height="32" Width="238" Grid.ColumnSpan="2">
+            <DatePicker.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                    <GradientStop Color="#FFA3AEB9" Offset="0"/>
+                    <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                    <GradientStop Color="#FF718597" Offset="0.375"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </DatePicker.BorderBrush>
+        </DatePicker>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="155,348,0,0" Height="43" Background="#005AA7CB" FontSize="14" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="btnAdd_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="27,348,0,0" Height="43" Background="#FFDE7272" FontSize="14" FontWeight="Bold" BorderBrush="White" Foreground="White" Click="btnCancel_Click" Grid.Column="1"/>
+    </Grid>
+</Window>

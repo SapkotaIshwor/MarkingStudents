@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\BLL\bin\Debug\BLL.dll
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.dll
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.pdb
+C:\Users\user\source\repos\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\study materials\Application development\Sudhir\StudentManagementSystem\BLL\bin\Debug\BLL.dll
+D:\study materials\Application development\Sudhir\StudentManagementSystem\BLL\bin\Debug\BLL.pdb
+D:\study materials\Application development\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\study materials\Application development\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.dll
+D:\study materials\Application development\Sudhir\StudentManagementSystem\BLL\obj\Debug\BLL.pdb

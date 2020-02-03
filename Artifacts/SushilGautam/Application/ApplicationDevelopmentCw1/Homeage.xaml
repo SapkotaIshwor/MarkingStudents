@@ -1,0 +1,18 @@
+﻿<Window x:Class="ApplicationDevelopmentCw1.Homeage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationDevelopmentCw1"
+        mc:Ignorable="d"
+        Title="Homeage" Height="450" Width="800" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="images/homepage.PNG"/>
+    </Window.Background>
+    <Grid Margin="0,0,2,0">
+        <Button x:Name="btnEnrolStudent" Content="Enrol Student"  HorizontalAlignment="Left" Margin="66,241,0,0" VerticalAlignment="Top" Width="129" Height="41" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="BtnEnrolStudent_Click" FontSize="14" FontWeight="Bold"/>
+        <Button Content="View Chart" HorizontalAlignment="Left" Margin="620,241,0,0" VerticalAlignment="Top" Width="119" Height="41" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" RenderTransformOrigin="0.347,0.608" FontWeight="Bold" FontSize="14" Click="btnViewChart"/>
+        <Button x:Name="btnViewReport1" Content="View Reports" HorizontalAlignment="Left" Margin="66,315,0,0" VerticalAlignment="Top" Width="129" Height="41" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="btnViewReport" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="btnImportData1" Content="Import Data" HorizontalAlignment="Left" Margin="620,315,0,0" VerticalAlignment="Top" Width="119" Height="41" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Click="btnImportData" FontWeight="Bold" FontSize="14"/>
+    </Grid>
+</Window>

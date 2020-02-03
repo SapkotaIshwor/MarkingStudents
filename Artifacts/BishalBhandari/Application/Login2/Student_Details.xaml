@@ -1,0 +1,35 @@
+﻿<Page x:Class="Login2.Student_Details"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login2"
+      mc:Ignorable="d" 
+      d:DesignHeight="555" d:DesignWidth="980"
+      Title="Student_Details">
+
+    <Page.Resources>
+        <XmlDataProvider x:Key="XmlData" Source="bin/Debug/studentDetails.xml"/>
+    </Page.Resources>
+
+    <Grid Background="#FF4F5D75">
+        <Label Content="Student Details" HorizontalAlignment="Left" Margin="370,27,0,0" VerticalAlignment="Top" Foreground="White" Height="48" Width="179" FontSize="24"/>
+        <DataGrid x:Name="dgStudentDetails" Background="RED" Foreground="White" AutoGenerateColumns="True" HorizontalAlignment="Left" Height="394" Margin="41,88,0,0" VerticalAlignment="Top" Width="888" HorizontalScrollBarVisibility="Disabled" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID No" Binding="{Binding ID}" />
+                <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}" Width="137"/>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}" Width="137"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="120"/>
+                <DataGridTextColumn Header="Contact No" Binding="{Binding ContactNo}" Width="125"/>
+                <DataGridTextColumn Header="Course Enrolled" Binding="{Binding CourseName}" Width="170"/>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding RegisterDate}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox HorizontalAlignment="Left" Margin="803,41,0,0" VerticalAlignment="Top" Width="120"  Background="White">
+            <ComboBoxItem Content="Date" FontSize="14" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Name" Margin="0,0,0.4,0" FontSize="14" Selected="ComboBoxItem_Selected_1"/>
+        </ComboBox>
+        <Label Content="Sort by" HorizontalAlignment="Left" Margin="733,35,0,0" VerticalAlignment="Top" Foreground="White" Height="48" Width="70" FontSize="18"/>
+
+    </Grid>
+</Page>

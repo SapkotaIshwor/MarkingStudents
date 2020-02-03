@@ -1,0 +1,53 @@
+﻿<Page x:Class="StudentInfoSystem.AddStudents"
+      xmlns:sys="clr-namespace:System;assembly=mscorlib"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:StudentInfoSystem"
+      mc:Ignorable="d" 
+      d:DesignHeight="520" d:DesignWidth="900"
+      Title="AddStudents" FontFamily="Open Sans">
+
+    <Grid Background="#FF4F5D75">
+        <Label Content="ID Number:" HorizontalAlignment="Left" Margin="12,15,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtID" HorizontalAlignment="Left" Height="25" Margin="100,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139"/>
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="12,63,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Height="25" Margin="100,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139" PreviewTextInput="CheckName"/>
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="12,110,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Height="25" Margin="100,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139" PreviewTextInput="CheckName"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="12,161,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="25" Margin="100,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139"/>
+        <Label Content="Contact No:" HorizontalAlignment="Left" Margin="331,16,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="25" Margin="455,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139" PreviewTextInput="CheckNumber"/>
+        <Label Content="Course Enrol:" HorizontalAlignment="Left" Margin="331,65,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Registration Date:" HorizontalAlignment="Left" Margin="331,112,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <ComboBox x:Name="cbCourse" HorizontalAlignment="Left" Margin="455,65,0,0" VerticalAlignment="Top" Width="139" BorderBrush="#FFF6F6F6" Height="25">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem Content="Application Development"></ComboBoxItem>
+            <ComboBoxItem Content="Artifical Intelligence"></ComboBoxItem>
+            <ComboBoxItem Content="Advanced Database"></ComboBoxItem>
+        </ComboBox>
+        <DatePicker x:Name="dpRegister" SelectedDate="{x:Static sys:DateTime.Now}" HorizontalAlignment="Left" Margin="455,112,0,0" VerticalAlignment="Top" Height="25" Width="139"/>
+        <Button x:Name="ButtonEnrol" Margin="332,158,466,328" Content="Enrol Student" Background="#FF2D3142" Foreground="White" RenderTransformOrigin="0.502,0.506" Click="ButtonEnrol_Click"/>
+        <Button x:Name="ButtonRetrieve" Margin="653,158,140,328" Content="Retrieve Data" Background="#FF2D3142" Foreground="White" Click="ButtonRetrieve_Click"/>
+        <DataGrid x:Name="dgFirst" HorizontalAlignment="Left" Height="262" Margin="19,237,0,0" VerticalAlignment="Top" Width="860" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID No" Binding="{Binding idNumber}" />
+                <DataGridTextColumn Header="First Name" Binding="{Binding firstName}" Width="137"/>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding lastName}" Width="137"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding address}" Width="120"/>
+                <DataGridTextColumn Header="Contact No" Binding="{Binding contactNo}" Width="125"/>
+                <DataGridTextColumn Header="Course Enrolled" Binding="{Binding courseName}" Width="170"/>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding registerDate}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ButtonSave" Margin="488,158,305,328" Content="Save Data" Background="#FF2D3142" Foreground="White" Click="ButtonSave_Click"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="CourseWorkSample.StudentDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        mc:Ignorable="d"
+        Title="StudentDetails" Height="558" Width="1223.46">
+	<Grid Margin="0,-19,2,-2" Background="#FF361C1C" HorizontalAlignment="Right" Width="1213">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0*"/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="0*"/>
+			<ColumnDefinition Width="7*"/>
+			<ColumnDefinition Width="125*"/>
+		</Grid.ColumnDefinitions>
+		<DataGrid Name="grdStd" Margin="265,30,60,0" VerticalAlignment="Top" Height="399" ItemsSource="{Binding}" AutoGenerateColumns="True" Grid.Column="2" Grid.RowSpan="2" Background="#FF1F4634" />
+		<Button x:Name="btn_sortname" Content="Short by  Name" HorizontalAlignment="Left" Margin="24,129,0,0" VerticalAlignment="Top" Width="174" Height="43" Click="btn_sortname_Click" Grid.RowSpan="2" Grid.Column="1" Background="#FF0BB9E0" FontSize="20" Grid.ColumnSpan="2"/>
+		<Button x:Name="btn_sortregistrationdate" Content="Sort by Registration Date" HorizontalAlignment="Left" Margin="24,299,0,0" VerticalAlignment="Top" Width="247" Height="43" Click="btn_sortregistrationdate_Click" Grid.RowSpan="2" Grid.Column="1" Background="#FF10D5E0" FontSize="20" Grid.ColumnSpan="2"/>
+		<Button x:Name="btn_weeklyreport" Content="Weekly Report" HorizontalAlignment="Left" Margin="24,210,0,0" VerticalAlignment="Top" Width="192" Height="43" Click="btn_weeklyreport_Click" Grid.RowSpan="2" Grid.Column="1" Background="#FF0BA6E0" FontSize="20" Grid.ColumnSpan="2"/>
+		<Button x:Name="btn_chart" Content="Chart" HorizontalAlignment="Left" Margin="24,48,0,0" VerticalAlignment="Top" Width="149" Height="43" Grid.RowSpan="2" Grid.Column="1" Background="#FF12D5DE" FontSize="20" Grid.ColumnSpan="2" Click="btn_chart_Click"/>
+		<Button x:Name="btn_import" Content=" Import From CSV" Grid.Column="1" HorizontalAlignment="Left" Margin="24,386,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="261" Height="43" Click="Btn_import_Click" Background="#FF17C4CD" FontSize="24" Grid.ColumnSpan="2"/>
+		<Button Content="Back" Grid.Column="2" HorizontalAlignment="Left" Margin="959,470,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="173" FontSize="20" Height="49" Click="Button_Click" Background="#FFE21212"/>
+
+
+	</Grid>
+</Window>

@@ -1,0 +1,43 @@
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainPage.g.cs
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\MainPage.baml
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentEnroll.g.cs
+C:\Users\HP\source\repos\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentEnroll.baml
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\MainPage.g.cs
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\MainWindow.g.cs
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentEnroll.g.cs
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\App.g.cs
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\MainPage.baml
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\MainWindow.baml
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentEnroll.baml
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.g.resources
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\WeeklyReport.g.cs
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\WeeklyReport.baml
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\WPFToolkit.dll
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\bin\Debug\WPFToolkit.pdb
+F:\3rd Year 17Sep\Application Development\Coursework\github\course-work-1-sumanbdrstha\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CopyComplete

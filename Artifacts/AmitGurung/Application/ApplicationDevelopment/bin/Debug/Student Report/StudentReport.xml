@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <StudentReport>
+    <ID>1</ID>
+    <RegistrationNo>100000</RegistrationNo>
+    <Name>Amit Gurung</Name>
+    <Address>adhikaritole</Address>
+    <ContactNo>987647284</ContactNo>
+    <Email>amit.grg@yahoo.com</Email>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2019/11/12</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>2</ID>
+    <RegistrationNo>100001</RegistrationNo>
+    <Name>Abisek Lamichhane</Name>
+    <Address>bhatgau</Address>
+    <ContactNo>9826482912</ContactNo>
+    <Email>abi.lami@hotmail.com</Email>
+    <CourseEnroll>Multimedia Technologies</CourseEnroll>
+    <RegistrationDate>2019/07/30</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>3</ID>
+    <RegistrationNo>100002</RegistrationNo>
+    <Name>Ashish Thapa</Name>
+    <Address>amarsinghchowk</Address>
+    <ContactNo>9836273845</ContactNo>
+    <Email>ashish.thapa@icp.edu.np</Email>
+    <CourseEnroll>Networks and IT Security</CourseEnroll>
+    <RegistrationDate>2020/01/01</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>4</ID>
+    <RegistrationNo>100003</RegistrationNo>
+    <Name>Nire Gurung</Name>
+    <Address>gharipatan</Address>
+    <ContactNo>9827364837</ContactNo>
+    <Email>niraj.grg@gmail.com</Email>
+    <CourseEnroll>Networks and IT Security</CourseEnroll>
+    <RegistrationDate>2019/11/20</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>5</ID>
+    <RegistrationNo>100004</RegistrationNo>
+    <Name>Ankit Gurung</Name>
+    <Address>chorepatan</Address>
+    <ContactNo>9825375983</ContactNo>
+    <Email>ankit.grg@gmail.com</Email>
+    <CourseEnroll>Multimedia Technologies</CourseEnroll>
+    <RegistrationDate>2019/11/06</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>6</ID>
+    <RegistrationNo>100005</RegistrationNo>
+    <Name>Prajwal Rana</Name>
+    <Address>Ghairapatan</Address>
+    <ContactNo>9846557283</ContactNo>
+    <Email>rana.praj@gmail.com</Email>
+    <CourseEnroll>Multimedia Technologies</CourseEnroll>
+    <RegistrationDate>2019/08/12</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>7</ID>
+    <RegistrationNo>100006</RegistrationNo>
+    <Name>Ram KC</Name>
+    <Address>bagar</Address>
+    <ContactNo>9875456787</ContactNo>
+    <Email>ram.kc@gmail.com</Email>
+    <CourseEnroll>Networks and IT Security</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>8</ID>
+    <RegistrationNo>100007</RegistrationNo>
+    <Name>Shyam </Name>
+    <Address>gandaki</Address>
+    <ContactNo>9876787654</ContactNo>
+    <Email>shyam@gmail.com</Email>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>9</ID>
+    <RegistrationNo>100008</RegistrationNo>
+    <Name>Hari Prasad</Name>
+    <Address>Pokhara</Address>
+    <ContactNo>9836574832</ContactNo>
+    <Email>hari.prasad@gmail.com</Email>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2020/01/01</RegistrationDate>
+  </StudentReport>
+</NewDataSet>

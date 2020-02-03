@@ -1,0 +1,22 @@
+﻿<Window x:Class="AppDevCoursewrk.OpenCsv"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppDevCoursewrk"
+        mc:Ignorable="d"
+        Title="OpenCsv" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF02F7EC" Offset="0"/>
+                <GradientStop Color="#FF1B22B9" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Label Content="Excel File Import" HorizontalAlignment="Left" Margin="261,25,0,0" VerticalAlignment="Top" Width="193" FontSize="25" FontStyle="Italic"/>
+        <DataGrid x:Name="dataGrid1" HorizontalAlignment="Left" Height="188" Margin="121,92,0,0" VerticalAlignment="Top" Width="545" ItemsSource="{Binding}"/>
+        <Button x:Name="btnImport" Content="Import" HorizontalAlignment="Left" Margin="304,306,0,0" VerticalAlignment="Top" Width="182" Click="btnImport_Click" Height="45" FontSize="25"/>
+
+    </Grid>
+</Window>

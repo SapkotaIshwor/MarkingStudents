@@ -1,0 +1,10 @@
+C:\Users\SaT KaR\source\repos\ADCourseWork\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\SaT KaR\source\repos\ADCourseWork\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\SaT KaR\source\repos\ADCourseWork\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\Users\SaT KaR\source\repos\ADCourseWork\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\SaT KaR\source\repos\ADCourseWork\DataHandler\obj\Debug\DataHandler.pdb
+E:\myfiles\Application Development\Github\course-work-1-satcar123\CourseWork\DataHandler\bin\Debug\DataHandler.dll
+E:\myfiles\Application Development\Github\course-work-1-satcar123\CourseWork\DataHandler\bin\Debug\DataHandler.pdb
+E:\myfiles\Application Development\Github\course-work-1-satcar123\CourseWork\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+E:\myfiles\Application Development\Github\course-work-1-satcar123\CourseWork\DataHandler\obj\Debug\DataHandler.dll
+E:\myfiles\Application Development\Github\course-work-1-satcar123\CourseWork\DataHandler\obj\Debug\DataHandler.pdb

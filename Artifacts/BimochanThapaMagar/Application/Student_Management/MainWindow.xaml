@@ -1,0 +1,27 @@
+﻿<Window x:Class="Student_Management.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" ResizeMode="CanMinimize">
+    <Grid Background="#FF336E7D" Margin="6,2,-6.4,-2">
+        <Border BorderBrush="Black" CornerRadius="55" BorderThickness="0" HorizontalAlignment="Left" Height="307" Margin="50,83,0,0" VerticalAlignment="Top" Width="494" Background="White">
+            <Label Content="PASSWORD :" HorizontalAlignment="Center" Margin="19,151,164.8,0" VerticalAlignment="Top" Height="37" Width="141" Foreground="#FF394038" FontSize="18" FontFamily="Bookman Old Style" FontWeight="Bold"/>
+
+        </Border>
+
+        <Button Content="Login" BorderThickness="0" FontSize="18" Padding="1" HorizontalAlignment="Left" Margin="263,325,0,0" VerticalAlignment="Top" Width="99" RenderTransformOrigin="0.348,0.809" Background="#FF209525" Height="39" Foreground="#FFFDF7F7" FontWeight="Bold" Click="Button_Click" FontFamily="Bookman Old Style"/>
+        <TextBox x:Name="usernameBox" HorizontalAlignment="Left" 
+                 Padding="5" FontSize="18" Height="39" Margin="302,136,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147" Panel.ZIndex="1" RenderTransformOrigin="0.5,0.5" FontFamily="Comic Sans MS" FontWeight="Bold" Foreground="#FF443636" TextChanged="usernameBox_TextChanged"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" 
+            Padding="5" FontSize="18" Height="39" Margin="302,231,0,0"  VerticalAlignment="Top" Width="147" Panel.ZIndex="1" RenderTransformOrigin="0.5,0.5" FontFamily="Comic Sans MS" FontWeight="Bold" TextOptions.TextFormattingMode="Display" TextOptions.TextHintingMode="Animated">
+           
+        </PasswordBox>
+        <Label Content="USERNAME :" HorizontalAlignment="Center" Margin="163,138,292,0" VerticalAlignment="Top" Height="37" Width="139" Foreground="#FF394038" FontSize="18" FontFamily="Bookman Old Style" FontWeight="Bold" RenderTransformOrigin="1.009,0.541"/>
+        <Button Content="Exit" BorderThickness="0" FontSize="18" Padding="1" HorizontalAlignment="Left" Margin="407,325,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.348,0.809" Background="#FFE23A1F" Height="39" Foreground="#FFFDF7F7" FontWeight="Bold" Click="Exit_Click" FontFamily="Bookman Old Style"/>
+        <Label Content="    Login" HorizontalAlignment="Center" Margin="201,10,210,0" VerticalAlignment="Top" Height="58" Width="183" FontWeight="Bold" Foreground="Black" FontSize="35" FontFamily="Microsoft Sans Serif" Background="Gray"/>
+
+    </Grid>
+</Window>

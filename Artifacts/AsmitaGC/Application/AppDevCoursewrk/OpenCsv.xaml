@@ -1,0 +1,16 @@
+﻿<Window x:Class="AppDevCoursewrk.OpenCsv"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppDevCoursewrk"
+        mc:Ignorable="d"
+        Title="OpenCsv" Height="450" Width="800">
+    <Grid>
+       
+            <Label Content="Import Record" HorizontalAlignment="Left" Margin="278,56,0,0" VerticalAlignment="Top" Width="193" FontSize="25"/>
+        <DataGrid x:Name="dataGrid1" HorizontalAlignment="Left" Height="188" Margin="98,114,0,0" VerticalAlignment="Top" Width="545" ItemsSource="{Binding}"/>
+        <Button x:Name="btnImport" Content="Import" HorizontalAlignment="Left" Margin="272,326,0,0" VerticalAlignment="Top" Width="199" Click="btnImport_Click" Height="43" FontSize="25"/>
+
+    </Grid>
+</Window>

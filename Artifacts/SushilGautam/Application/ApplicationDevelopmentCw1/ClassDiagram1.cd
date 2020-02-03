@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApplicationDevelopmentCw1.DataHandler">
+    <Position X="1.5" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>DataHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAIAAAAAIAAQgAAABAAAAAAAAAAAAAIAAAAEA=</HashCode>
+      <FileName>EnrolStudent.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.ExcelData" BaseTypeListCollapsed="true">
+    <Position X="2" Y="2.25" Width="1.75" />
+    <InheritanceLine Type="System.Windows.Window" ManuallyRouted="true">
+      <Path>
+        <Point X="15.25" Y="2.25" />
+        <Point X="15.25" Y="1.25" />
+        <Point X="3.87" Y="1.25" />
+        <Point X="3.87" Y="4.954" />
+        <Point X="2.875" Y="4.954" />
+        <Point X="2.875" Y="4.704" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEgAAAAAAAAACAAAAAEAAAAEAAAA=</HashCode>
+      <FileName>ExcelData.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.Homeage" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAQAABAA=</HashCode>
+      <FileName>Homeage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.Login" BaseTypeListCollapsed="true">
+    <Position X="8" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.StudentInfo">
+    <Position X="3.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAWAAACAAAACEABAAAAAQAAAAAAAAAAABIAAAAgg=</HashCode>
+      <FileName>StudentInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.viewChart" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>viewChart.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.Bar">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>viewChart.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationDevelopmentCw1.ViewReport" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAEAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewReport.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="14.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDevCoursewrk", "AppDevCoursewrk\AppDevCoursewrk.csproj", "{D1517174-1BE9-4591-B66C-C4479640320C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datahandler", "Datahandler\Datahandler.csproj", "{4972EB89-5449-4B88-B1CA-A6C57A736A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1517174-1BE9-4591-B66C-C4479640320C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1517174-1BE9-4591-B66C-C4479640320C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1517174-1BE9-4591-B66C-C4479640320C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1517174-1BE9-4591-B66C-C4479640320C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4972EB89-5449-4B88-B1CA-A6C57A736A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4972EB89-5449-4B88-B1CA-A6C57A736A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4972EB89-5449-4B88-B1CA-A6C57A736A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4972EB89-5449-4B88-B1CA-A6C57A736A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60339DA9-149B-40F8-8B82-78B947A010F0}
+	EndGlobalSection
+EndGlobal

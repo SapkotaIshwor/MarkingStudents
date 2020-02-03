@@ -1,0 +1,19 @@
+﻿<Window x:Class="Coursework.Weeklyreport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Weeklyreport" Height="338.209" Width="414.627">
+    <Grid>
+        <DataGrid x:Name="WeeklyGrid" HorizontalAlignment="Left" Margin="33,42,0,0" VerticalAlignment="Top" Height="185" Width="348" RenderTransformOrigin="0.5,0.5">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.263"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.592"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Button Content="weekly report" HorizontalAlignment="Left" Margin="144,265,0,0" VerticalAlignment="Top" Width="87" Height="22" Click="button_click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Student_Information_System.StudentReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Information_System"
+        mc:Ignorable="d"
+        Title="StudentReport" Height="415.611" Width="842.869">
+
+    <Grid>
+        <Button x:Name="btnDate" Content="Sort Date" HorizontalAlignment="Left" Margin="713,166,0,0" VerticalAlignment="Top" Width="90" Click="Btn_Date" Height="40"/>
+        <Button x:Name="btnSort" Content="Sort Name" HorizontalAlignment="Left" Margin="713,106,0,0" VerticalAlignment="Top" Width="90" Click="Btn_SortName" Height="40"/>
+        <Button x:Name="btnRetrive" Content="Retrive" HorizontalAlignment="Left" Margin="713,43,0,0" VerticalAlignment="Top" Width="90" Click="Btn_Retrive" Height="40"/>
+        <Button x:Name="btn_WeeklyReport" Content="Weekly Report" HorizontalAlignment="Left" Margin="713,226,0,0" VerticalAlignment="Top" Width="90" Click="Btn_WeeklyReport_Click" Height="40"/>
+
+
+        <DataGrid x:Name="DataGrid2" HorizontalAlignment="Left" Height="307" Margin="43,31,0,0" VerticalAlignment="Top" Width="601">
+
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFE4E4AB"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0 0 1 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+
+
+        </DataGrid>
+        <Button Content="Chart" HorizontalAlignment="Left" Margin="713,286,0,0" VerticalAlignment="Top" Width="90" Click="BtnChart" Height="40"/>
+
+
+
+    </Grid>
+</Window>

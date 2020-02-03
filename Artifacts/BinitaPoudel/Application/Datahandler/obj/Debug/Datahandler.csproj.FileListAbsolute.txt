@@ -1,0 +1,20 @@
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+G:\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+G:\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+G:\Datahandler\Datahandler\obj\Debug\Datahandler.csprojResolveAssemblyReference.cache
+G:\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+G:\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+C:\Users\DELL\Downloads\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+C:\Users\DELL\Downloads\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+C:\Users\DELL\Downloads\Datahandler\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+C:\Users\DELL\Downloads\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\obj\Debug\Datahandler.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\obj\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\binitaa\Datahandler\obj\Debug\Datahandler.pdb

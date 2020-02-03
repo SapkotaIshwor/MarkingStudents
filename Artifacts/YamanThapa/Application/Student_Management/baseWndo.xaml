@@ -1,0 +1,58 @@
+﻿<Window x:Class="Student_Management.baseWndo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management"
+        mc:Ignorable="d"
+        Title="baseWndo" Height="590" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF63D463" Offset="0.149"/>
+                <GradientStop Color="#FFC3F5BA" Offset="0.953"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="&#x9;&#x9;Student management system" HorizontalAlignment="Left" VerticalAlignment="Top" Width="792" Height="47" Foreground="White" FontSize="28" FontFamily="Arial Rounded MT Bold" FontStretch="Expanded" FontWeight="Bold"/>
+
+        <Button x:Name="registerNewStd" BorderThickness="0" Padding="10" Content="Register  New Student" HorizontalAlignment="Left" Margin="350,89,0,0" VerticalAlignment="Top" Width="286" 
+                Background="White" Height="56" FontSize="20
+                " Panel.ZIndex="1" IsCancel="True" Click="registerNewStd_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF1768F5"/>
+            </Button.Effect>
+        </Button>
+
+        <Button x:Name="view_chart" Content="View Chart"  BorderThickness="0" Background="WhiteSmoke" FontSize="20"  Height="56" Padding="10px" HorizontalAlignment="Left" Margin="350,342,0,0"  
+                VerticalAlignment="Top" Width="286" Click="view_chart_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF1768F5"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="exit"  Content="Exit" FontSize="13" HorizontalAlignment="Left" Margin="565,499,0,0" VerticalAlignment="Top" Width="74" BorderThickness="0" Height="36" Background="#FFFB3A3A" Click="exit_btn" Foreground="White">
+
+        </Button>
+        <Button x:Name="logout"  Content="Logout" FontSize="13" HorizontalAlignment="Left" Margin="463,499,0,0" VerticalAlignment="Top" Width="74" BorderThickness="0" Height="36" Background="#FFFB3A3A" Click="logout_btn" Foreground="White"/>
+        <Button x:Name="register_bulk" BorderThickness="0" Padding="10" Content="Register  Bulk From File" HorizontalAlignment="Left" Margin="350,175,0,0" VerticalAlignment="Top" Width="286" 
+           Background="White" Height="56" FontSize="20" Panel.ZIndex="1" Click="register_bulk_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF1768F5"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="view_register_std" BorderThickness="0" Padding="10" Content="View Registered Student" HorizontalAlignment="Left" Margin="350,259,0,0" VerticalAlignment="Top" Width="286" 
+            Background="White" Height="56" FontSize="20" Panel.ZIndex="1" Click="view_register_std_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF1768F5"/>
+            </Button.Effect>
+        </Button>
+        <Image Margin="0,10,386,84" Source="kisspng-student-cartoon-estudante-welcome-college-students-5a9cb52ec10eb7.8630163215202194387908 (1).png" Stretch="Fill"/>
+        <Button x:Name="weekly_report" Content="View Weekly Report"  BorderThickness="0" Background="WhiteSmoke" FontSize="20"  Height="56" Padding="10px" HorizontalAlignment="Left" Margin="353,419,0,0"  
+            VerticalAlignment="Top" Width="286" Click="weekly_report_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF1768F5"/>
+            </Button.Effect>
+        </Button>
+
+
+    </Grid>
+</Window>

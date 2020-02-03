@@ -1,0 +1,156 @@
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\StudentInformationSystem.exe.config
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\StudentInformationSystem.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\StudentInformationSystem.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\Home.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\login.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\Home.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\login.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.g.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\StudentInformationSystem.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe.config
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\login.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\App.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\login.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.g.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.dll
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.baml
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.dll
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.g.cs
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.g.cs
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\login.g.cs
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\App.g.cs
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.baml
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.baml
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\login.baml
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.pdb
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\StudentInformationSystem.pdb
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.dll
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.g.cs
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.g.cs
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\login.g.cs
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\App.g.cs
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Chart.baml
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\Home.baml
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\login.baml
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\Git\course-work-1-Ashish-Thapa\StudentInformationSystem\CourseWorkSample\obj\Debug\StudentInformationSystem.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\WPFToolkit.dll
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\bin\Debug\WPFToolkit.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\Chart.g.cs
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\Home.g.cs
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\login.g.cs
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\App.g.cs
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\Chart.baml
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\Home.baml
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\login.baml
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.g.resources
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.exe
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\StudentInformationSystem.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\WPFToolkit.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\bin\Debug\WPFToolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\Chart.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\Home.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\login.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\Chart.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\Home.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\login.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\Ashish-Thapa\StudentInformationSystem\CourseWork\obj\Debug\StudentInformationSystem.pdb

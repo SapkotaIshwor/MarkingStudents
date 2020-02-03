@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\newstu\\StudentInformationSys\\propet\\StudentInformationSystem\\StudentInformationSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\DataHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\DataHandler.csproj",
+        "projectName": "DataHandler",
+        "projectPath": "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\DataHandler.csproj",
+        "packagesPath": "C:\\Users\\bisha\\.nuget\\packages\\",
+        "outputPath": "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bisha\\Downloads\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem\\bin": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\newstu\\StudentInformationSys\\propet\\StudentInformationSystem\\StudentInformationSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\newstu\\StudentInformationSys\\propet\\StudentInformationSystem\\StudentInformationSystem.csproj",
+        "projectName": "StudentInformationSystem",
+        "projectPath": "C:\\newstu\\StudentInformationSys\\propet\\StudentInformationSystem\\StudentInformationSystem.csproj",
+        "packagesPath": "C:\\Users\\bisha\\.nuget\\packages\\",
+        "outputPath": "C:\\newstu\\StudentInformationSys\\propet\\StudentInformationSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bisha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bisha\\Downloads\\StudentInformationSystem\\StudentInformationSystem\\StudentInformationSystem\\bin": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\DataHandler.csproj": {
+                "projectPath": "C:\\newstu\\StudentInformationSys\\propet\\DataHandler\\DataHandler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Chart.js": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "System.Windows.Controls.DataVisualization.Toolkit": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

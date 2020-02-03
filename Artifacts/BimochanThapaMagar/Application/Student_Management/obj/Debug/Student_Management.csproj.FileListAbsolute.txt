@@ -1,0 +1,81 @@
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.exe.config
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.exe
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.pdb
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\App.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\MainWindow.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.g.resources
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\baseWndo.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\registerFromFile.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\registerFromFile.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewChart.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.exe.config
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.exe
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.pdb
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\registerFromFile.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\App.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\baseWndo.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\MainWindow.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\registerFromFile.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\RegisterStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewChart.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.g.resources
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\WeeklyReport.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\WeeklyReport.baml
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\App.g.cs
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+C:\Users\ashis\Desktop\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\RegisterFromFile.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\viewregistration.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\WeeklyReport.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\App.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\RegisterFromFile.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\viewregistration.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\WeeklyReport.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref

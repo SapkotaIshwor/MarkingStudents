@@ -1,0 +1,25 @@
+F:\AD\Student Information System\bin\Debug\Student Information System.exe.config
+F:\AD\Student Information System\bin\Debug\Student Information System.exe
+F:\AD\Student Information System\bin\Debug\Student Information System.pdb
+F:\AD\Student Information System\obj\Debug\AddStudentControl.g.cs
+F:\AD\Student Information System\obj\Debug\CourseEnrollment.g.cs
+F:\AD\Student Information System\obj\Debug\GenerateReport.g.cs
+F:\AD\Student Information System\obj\Debug\ImportControl.g.cs
+F:\AD\Student Information System\obj\Debug\MainWindow.g.cs
+F:\AD\Student Information System\obj\Debug\WeeklyReport.g.cs
+F:\AD\Student Information System\obj\Debug\App.g.cs
+F:\AD\Student Information System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\AD\Student Information System\obj\Debug\Student Information System_MarkupCompile.cache
+F:\AD\Student Information System\obj\Debug\Student Information System_MarkupCompile.lref
+F:\AD\Student Information System\obj\Debug\AddStudentControl.baml
+F:\AD\Student Information System\obj\Debug\CourseEnrollment.baml
+F:\AD\Student Information System\obj\Debug\GenerateReport.baml
+F:\AD\Student Information System\obj\Debug\ImportControl.baml
+F:\AD\Student Information System\obj\Debug\MainWindow.baml
+F:\AD\Student Information System\obj\Debug\WeeklyReport.baml
+F:\AD\Student Information System\obj\Debug\Student Information System.g.resources
+F:\AD\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+F:\AD\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+F:\AD\Student Information System\obj\Debug\Student Information System.exe
+F:\AD\Student Information System\obj\Debug\Student Information System.pdb
+F:\AD\Student Information System\obj\Debug\Student Information System.csprojAssemblyReference.cache

@@ -1,0 +1,41 @@
+﻿<Window x:Class="StudentInformationSystem.StudentAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="StudentAdd" Height="700" Width="1000" ResizeMode="NoResize">
+    <Grid Background="Silver">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="394*"/>
+            <RowDefinition Height="277*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Last Name :" HorizontalAlignment="Left" Margin="74,149,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="SemiBold" RenderTransformOrigin="-0.079,0.435"/>
+
+        <TextBox x:Name="txtLast" HorizontalAlignment="Left" Height="46" Margin="229,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Button Content="Enroll Student" HorizontalAlignment="Left" Margin="191,283,0,0" VerticalAlignment="Top" Width="142" Height="44" FontSize="20" Click="Button_Click_1" FontWeight="Bold"/>
+        <Label Content="Address :" HorizontalAlignment="Left" Margin="588,38,0,0" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="-0.002,0.386" FontWeight="SemiBold"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="46" Margin="724,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Label Content="Contact :" HorizontalAlignment="Left" Margin="595,95,0,0" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="0.534,1.84" FontWeight="SemiBold"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="46" Margin="724,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Label Content="Registration No :" HorizontalAlignment="Left" Margin="28,30,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="SemiBold"/>
+        <TextBox x:Name="txtRegNo" HorizontalAlignment="Left" Height="46" Margin="229,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <DataGrid Name="grdStd" HorizontalAlignment="Left" Margin="47,44.4,0,0" VerticalAlignment="Top" Height="201" Width="882" ItemsSource="{Binding}" AutoGenerateColumns="True" Grid.Row="1"/>
+        <DatePicker x:Name="txtRegistrationDt" HorizontalAlignment="Left" Margin="724,147,0,0" VerticalAlignment="Top" Width="183" Height="51" FontSize="24"/>
+        <Label Content="Registration Date :" HorizontalAlignment="Left" Margin="502,158,0,0" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="0.534,1.84" FontWeight="SemiBold"/>
+        <Label Content="Course Enroll :" HorizontalAlignment="Left" Margin="47,213,0,0" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="0.534,1.84" FontWeight="SemiBold"/>
+        <ComboBox x:Name="txtCombo" HorizontalAlignment="Left" Margin="233,213,0,0" VerticalAlignment="Top" Width="183" Height="40" FontSize="24">
+            <ComboBoxItem Content="Application Development"></ComboBoxItem>
+            <ComboBoxItem Content="Artifical Intelligence"></ComboBoxItem>
+            <ComboBoxItem Content="Advanced Database"></ComboBoxItem>
+        </ComboBox>
+        <Button Content="Clear All" HorizontalAlignment="Left" Margin="390,283,0,0" VerticalAlignment="Top" Width="109" Height="44" FontSize="20" FontWeight="Bold" Click="Btn_Clear"/>
+
+        <Label Content="First Name :" HorizontalAlignment="Left" Margin="70,91,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="SemiBold"/>
+        <TextBox x:Name="txtFirst" HorizontalAlignment="Left" Height="46" Margin="229,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" VerticalContentAlignment="Center" FontSize="20"/>
+        <Label Content="Currenlty Added File" HorizontalAlignment="Left" Margin="305,375,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="ExtraBold" Grid.RowSpan="2"/>
+        <Button Content="Back To Home Page" HorizontalAlignment="Left" Margin="701,283,0,0" VerticalAlignment="Top" Width="206" Height="47" FontSize="16" FontWeight="ExtraBold" Click="Btn_BackHome"/>
+
+    </Grid>
+</Window>

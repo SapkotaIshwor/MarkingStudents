@@ -1,0 +1,35 @@
+﻿<Window x:Class="Student_Management.WeeklyReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management"
+        mc:Ignorable="d"
+        Title="WeeklyReport" Height="450" Width="800">
+    <Grid Margin="0,0,0,-2">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF3ADE16" Offset="0"/>
+                <GradientStop Color="#FF67F974" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="backBtn"  Content="Cancel" FontSize="18" HorizontalAlignment="Left" Margin="54,318,0,0" VerticalAlignment="Top" Width="120" BorderThickness="0" Height="44" Background="#FF1E77D1" Click="cancel" Foreground="White" FontWeight="Bold" RenderTransformOrigin="0.592,2.929">
+
+        </Button>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="148" Margin="41,128,0,0" VerticalAlignment="Top" Width="704" Background="#FFFBFBFB"/>
+        <Label Content="Computing" FontSize="16" HorizontalAlignment="Left" Margin="54,160,0,0" VerticalAlignment="Top" Width="158"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="144" Margin="432,129,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+
+        </Border>
+        <Label Content="Multimedia Technology" FontSize="16" HorizontalAlignment="Left" Margin="54,191,0,0" VerticalAlignment="Top" Width="198"/>
+        <Label Content="Network and IT security" FontSize="16" HorizontalAlignment="Left" Margin="54,227,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Content="Programme" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="54,129,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="Total Student" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="438,128,0,0" VerticalAlignment="Top" Width="320"/>
+
+        <Label x:Name="computing_lbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,164,0,0" VerticalAlignment="Top" Width="158"/>
+
+        <Label x:Name="mtLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,195,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="ntLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,227,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="                                                           Weekly Report" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Height="49" Width="792" Foreground="White"/>
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="ApplicationDevelopment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationDevelopment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="430.8" Width="334.4">
+    <Grid Margin="-236,0,4,-20.2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="261*"/>
+            <RowDefinition Height="160*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblName" Content="Name:" HorizontalAlignment="Left" Margin="261,82,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="51"/>
+        <TextBox Name="txtName" HorizontalAlignment="Left" Height="23" Margin="335,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontFamily="Rockwell" FontSize="14"/>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="323,20.2,0,0" VerticalAlignment="Top" Width="155" Height="30" Click="Button_Click" FontFamily="Rockwell" FontSize="14" Grid.Row="1"/>
+        <Label x:Name="lblAddr" Content="Address:" HorizontalAlignment="Left" Margin="261,109,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="69"/>
+        <TextBox x:Name="txtAddr" HorizontalAlignment="Left" Height="23" Margin="335,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontFamily="Rockwell" FontSize="14"/>
+        <Label x:Name="lblContact" Content="Contact:" HorizontalAlignment="Left" Margin="261,135,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="64"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="23" Margin="335,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontFamily="Rockwell" FontSize="14"/>
+        <Label x:Name="lblEmail" Content="Email:" HorizontalAlignment="Left" Margin="261,163,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="51"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="335,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontFamily="Rockwell" FontSize="14"/>
+        <Label x:Name="lblProgram" Content="Course:" HorizontalAlignment="Left" Margin="261,191,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="61"/>
+        <Label x:Name="lblDate" Content="Date:" HorizontalAlignment="Left" Margin="261,219,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="43"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="323,55.2,0,0" VerticalAlignment="Top" Width="155" Height="30" Click="btnClear_Click" FontFamily="Rockwell" FontSize="14" Grid.Row="1"/>
+        <Label x:Name="lblResNo" Content="Res No:" HorizontalAlignment="Left" Margin="261,55,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="14" Height="27" Width="59"/>
+        <TextBox x:Name="txtResNo" HorizontalAlignment="Left" Height="23" Margin="335,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" FontFamily="Rockwell" FontSize="14"/>
+        <ComboBox x:Name="comboProgram" HorizontalAlignment="Left" Margin="335,196,0,0" VerticalAlignment="Top" Width="203" IsDropDownOpen="True" Height="22">
+            <ComboBoxItem Content="Computing" HorizontalAlignment="Left" Width="118.4"/>
+            <ComboBoxItem Content="Multimedia Technologies" HorizontalAlignment="Left" Width="179"/>
+            <ComboBoxItem Content="Networks and IT Security" HorizontalAlignment="Left" Width="147"/>
+        </ComboBox>
+        <Button x:Name="btnDetails" Content="Retrive Data" HorizontalAlignment="Left" Height="30" Margin="323,90.2,0,0" VerticalAlignment="Top" Width="155" Click="btnDetails_Click" Grid.Row="1" FontFamily="Rockwell" FontSize="14"
+                />
+        <Label x:Name="lblAddForm" Content="Add Student Details" HorizontalAlignment="Left" Margin="285,12,0,0" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="24" Height="38" Width="229" />
+        <DatePicker x:Name="Date_Pick" HorizontalAlignment="Left" Margin="335,226,0,0" VerticalAlignment="Top" Width="203" Height="30"/>
+
+    </Grid>
+</Window>

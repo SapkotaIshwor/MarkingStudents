@@ -1,0 +1,60 @@
+﻿<Window x:Class="CourseWork1.StudentDetailForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork1"
+        mc:Ignorable="d"
+        Title="StudentDetailForm" Height="669.334" Width="800">
+    <Grid Margin="10,0,0.333,59.333">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="298*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Name :" HorizontalAlignment="Left" Margin="21,83,0,0" VerticalAlignment="Top" FontSize="22" Height="39" Width="78" Grid.Column="3"/>
+
+        <TextBox Name="txtName" HorizontalAlignment="Left" Height="33" Margin="225,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="24" Grid.Column="3"/>
+        <Label Name="Address" Content="Address :" HorizontalAlignment="Left" Margin="19,189,0,0" VerticalAlignment="Top" FontSize="22" Height="40" Width="98" Grid.Column="3"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="34" Margin="225,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="24" Grid.Column="3"/>
+        <Label Name="Contact" Content="Contact :" HorizontalAlignment="Left" Margin="19,133,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84" Height="39" Width="96" Grid.Column="3"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="29" Margin="225.333,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="24" Grid.Column="3"/>
+        <Label Name="RegNo" Content="Reg No :" HorizontalAlignment="Left" Margin="19,39,0,0" VerticalAlignment="Top" FontSize="22" Height="39" Width="98" Grid.Column="3"/>
+        <TextBox x:Name="regNo" HorizontalAlignment="Left" Height="33" Margin="225.333,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="24" Grid.Column="3"/>
+        <DataGrid Name="grdStd" HorizontalAlignment="Left" Margin="0.333,425,0,0" VerticalAlignment="Top" Height="154" Width="730" ItemsSource="{Binding}" AutoGenerateColumns="True" Grid.Column="3">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFE4E4AB"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0 0 1 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Reg No" Binding="{Binding RegNo}" Width="40"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="100"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="100"/>
+                <DataGridTextColumn Header="Contact" Binding="{Binding Contact}" Width="100"/>
+                <DataGridTextColumn Header="Course Enrol" Binding="{Binding CourseEnrol}" Width="100"/>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding RegistrationDate}" Width="*"/>
+            </DataGrid.Columns> />
+        </DataGrid>
+        <Label Content="Course Enrol :" HorizontalAlignment="Left" Margin="19,297,0,0" VerticalAlignment="Top" FontSize="22" Height="39" Width="144" Grid.Column="3"/>
+        <ComboBox  Name="courseEnrol" HorizontalAlignment="Left" Margin="222,302,0,0" VerticalAlignment="Top" Width="184" Height="30" Grid.Column="3">
+            <ComboBoxItem Content="Computing" HorizontalAlignment="Left" Width="180.666666666667"/>
+            <ComboBoxItem Content="Multimedia Technologies" HorizontalAlignment="Left" Width="180.666666666667"/>
+            <ComboBoxItem Content="Networks and IT Security" HorizontalAlignment="Left" Width="180.666666666667"/>
+        </ComboBox>
+        <Label Content="Registration Date :" HorizontalAlignment="Left" Margin="15,246,0,0" VerticalAlignment="Top" FontSize="22" Height="39" Width="188" Grid.Column="3"/>
+        <DatePicker  Name="registrationDate" HorizontalAlignment="Left" Margin="224,249,0,0" VerticalAlignment="Top" Width="182" Height="33" Grid.Column="3"/>
+        <Button Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="36,365,0,0" VerticalAlignment="Top" Width="103" Height="34" FontSize="24" Click="BtnSave_Click" Grid.Column="3"/>
+        <Button Name="btnImport" Content="Import Student Details" HorizontalAlignment="Left" Margin="464.333,32,0,0" VerticalAlignment="Top" Width="268" Height="43" FontSize="24" RenderTransformOrigin="6.307,0.559" Click="BtnImport_Click" Grid.Column="3"/>
+        <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="306,363,0,0" VerticalAlignment="Top" Width="103" Height="36" FontSize="24" RenderTransformOrigin="5.263,-0.418" Click="BtnClear_Click" Grid.Column="3"/>
+        <Button Name="btnDispalyReport" Content="Display Tabular Report" HorizontalAlignment="Left" Margin="462.333,138,0,0" VerticalAlignment="Top" Width="268" Height="43" FontSize="24" Click="BtnDispalyReport_Click" Grid.Column="3"/>
+        <Button Name="btnDispalyCharts" Content="Dispaly Charts" HorizontalAlignment="Left" Margin="464.333,227,0,0" VerticalAlignment="Top" Width="268" Height="43" FontSize="24" Grid.Column="3" Click="BtnDispalyCharts_Click"/>
+        <Label x:Name="txtTitle" Content="Student Information System" Grid.Column="3" HorizontalAlignment="Left" Margin="306.333,2,0,0" VerticalAlignment="Top" Width="244" FontSize="15"/>
+    </Grid>
+</Window>

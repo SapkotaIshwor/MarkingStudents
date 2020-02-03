@@ -1,0 +1,79 @@
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.exe.config
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.exe
+D:\Application Development\coursework\Student_Management\Student_Management\bin\Debug\Student_Management.pdb
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\App.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\MainWindow.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.g.resources
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\baseWndo.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\registerFromFile.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\registerFromFile.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\RegisterStd.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewChart.baml
+D:\Application Development\coursework\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.exe.config
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.exe
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\Student_Management.pdb
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\registerFromFile.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\App.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\baseWndo.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\MainWindow.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\registerFromFile.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\RegisterStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewChart.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.baml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.g.resources
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\WeeklyReport.g.cs
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\WeeklyReport.baml
+C:\Software\Student_Management\Student_Management\bin\Debug\Student_Management.exe.config
+C:\Software\Student_Management\Student_Management\bin\Debug\Student_Management.exe
+C:\Software\Student_Management\Student_Management\bin\Debug\Student_Management.pdb
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.csprojAssemblyReference.cache
+C:\Software\Student_Management\Student_Management\obj\Debug\baseWndo.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\MainWindow.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\registerFromFile.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\RegisterStd.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\ViewChart.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\WeeklyReport.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\App.g.cs
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.cache
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management_MarkupCompile.lref
+C:\Software\Student_Management\Student_Management\obj\Debug\baseWndo.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\MainWindow.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\registerFromFile.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\RegisterStd.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\ViewChart.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\ViewRegisteredStd.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\WeeklyReport.baml
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.g.resources
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.exe
+C:\Software\Student_Management\Student_Management\obj\Debug\Student_Management.pdb
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Application Development\coursework 1\Student_Management\Student_Management\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Application Development\coursework 1\Student_Management\Student_Management\obj\Debug\Student_Management.csproj.CopyComplete

@@ -1,0 +1,50 @@
+﻿<Window x:Class="StudentInformationSystem.DisplayReport" Closing="Window_Closing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="DisplayReport" Height="795" Width="1107.5" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="{x:Type DataGridRow}" BasedOn="{StaticResource {x:Type DataGridRow}}">
+            <Setter Property="BorderThickness" Value="0" />
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,-8,0">
+
+        <!--<ComboBox x:Name="ComboSort" SelectedIndex="0" Padding="5" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="71,60,0,0" VerticalAlignment="Top" Width="163" Height="38">
+            <ComboBoxItem Content="Sort By Name" Width="163" Height="38"/>
+            <ComboBoxItem Content="Sort By Date" Width="163" Height="38"/>
+        </ComboBox>-->
+        <DataGrid
+            IsReadOnly="True" x:Name="ReportGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" 
+            ScrollViewer.CanContentScroll="True" 
+            ScrollViewer.HorizontalScrollBarVisibility="Auto" 
+            ScrollViewer.VerticalScrollBarVisibility="Auto" Height="229" Margin="54,120,0,0" VerticalAlignment="Top" Width="1020" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ID}" Header="ID" Width="*"/>
+                <DataGridTextColumn Binding="{Binding RegID}" Header="RegID" Width="*"/>
+                <DataGridTextColumn Binding="{Binding FirstName}" Width="*" Header="FirstName"/>
+                <DataGridTextColumn Binding="{Binding LastName}" Width="*" Header="LastName"/>
+                <DataGridTextColumn Binding="{Binding Address}" Width="*" Header="Address"/>
+                <DataGridTextColumn Binding="{Binding ContactNo}" Header="ContactNo" Width="*"/>
+                <DataGridTextColumn Binding="{Binding CourseEnroll}" Header="CourseEnroll" Width="*"/>
+                <DataGridTextColumn Binding="{Binding RegistrationDate}" Header="RegistrationDate" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid IsReadOnly="True" x:Name="WeeklyReportGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="229" Margin="54,459,0,0" VerticalAlignment="Top" Width="1020" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding CourseEnroll}" Header="CourseEnroll" Width="*"/>
+                <DataGridTextColumn Binding="{Binding TotalStudents}" Header="TotalStudents" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="BtnSortName" Content="Sort By Name" HorizontalAlignment="Left" Margin="728,56,0,0" VerticalAlignment="Top" Width="164" Click="BtnSortByName" Height="44" RenderTransformOrigin="2.236,0.068"/>
+        <Button x:Name="BtnSortDate" Content="Sort By Date" HorizontalAlignment="Left" Margin="911,56,0,0" VerticalAlignment="Top" Width="163" Click="BtnSortByDate" Height="44"/>
+
+        <Button x:Name="BtnWeeklyReport" Content="Display Weekly Report" HorizontalAlignment="Left" Margin="54,396,0,0" VerticalAlignment="Top" Width="166" Click="BtnWeeklyReport_Click" Height="44"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="911,708,0,0" VerticalAlignment="Top" Width="163" Height="34" Click="BtnCancel"/>
+        <TextBlock HorizontalAlignment="Left" Margin="54,56,0,0" TextWrapping="Wrap" Text="Students List Retrieved from XML" VerticalAlignment="Top" Height="44" Width="516" FontSize="25" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

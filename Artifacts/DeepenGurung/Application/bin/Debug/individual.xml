@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <idNumber>987654</idNumber>
+  <fullName>Raju Adhikari</fullName>
+  <address>Lakeside</address>
+  <contactNo>23456789</contactNo>
+  <courseName>Advanced Database</courseName>
+  <registerDate>29/11/2019</registerDate>
+</Student>

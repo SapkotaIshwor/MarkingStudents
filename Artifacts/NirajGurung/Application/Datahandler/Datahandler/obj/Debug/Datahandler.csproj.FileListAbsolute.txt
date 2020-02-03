@@ -1,0 +1,14 @@
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+D:\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Datahandler\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+D:\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+D:\CW\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\CW\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\CW\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\CW\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+D:\CW\Datahandler\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache

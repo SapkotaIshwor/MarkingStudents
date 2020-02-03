@@ -1,0 +1,169 @@
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\AD\coursework\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\App.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\AD\coursework\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\AD\coursework\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\AD\coursework\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\AD\coursework\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\App.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_student.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_student.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\password.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\password.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_confirm.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Register_confirm.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\FileHelpers.dll
+D:\Application Development\coursework\Student_info\Student_info\bin\Debug\FileHelpers.xml
+D:\Application Development\coursework\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.exe.config
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.exe
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\Student_info.pdb
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\FileHelpers.dll
+D:\Application Development\coursework 1\Student_info\Student_info\bin\Debug\FileHelpers.xml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ChartWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\HomeWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\MainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\password.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterMainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_confirm.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_student.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\WeeklyReportWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\App.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ChartWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\HomeWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\MainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\password.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\RegisterMainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_confirm.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Register_student.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\WeeklyReportWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.g.resources
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.exe
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\Student_info.pdb
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ReportMainWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\ReportMainWindow.baml
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\AllStudentWindow.g.cs
+D:\Application Development\coursework 1\Student_info\Student_info\obj\Debug\AllStudentWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Student_info.exe.config
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Student_info.exe
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Student_info.pdb
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\FileHelpers.dll
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\FileHelpers.xml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\AllStudentWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\ChartWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\HomeWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\MainWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\password.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\RegisterMainWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Register_confirm.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Register_student.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\ReportMainWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\WeeklyReportWindow.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\App.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\AllStudentWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\ChartWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\HomeWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\MainWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\password.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\RegisterMainWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Register_confirm.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Register_student.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\ReportMainWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\WeeklyReportWindow.baml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.g.resources
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.exe
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\Student_info.pdb
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ashis\github\course-work-1-ashishBhandari17-1\Student_info\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Student_info.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Student_info.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Student_info.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\FileHelpers.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Syncfusion.Licensing.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\FileHelpers.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\AllStudentWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\ChartWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\HomeWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\password.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\RegisterBulkStdWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\RegisterMainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Register_confirm.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Register_student.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\ReportMainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\WeeklyReportWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\AllStudentWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\ChartWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\HomeWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\password.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\RegisterBulkStdWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\RegisterMainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Register_confirm.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Register_student.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\ReportMainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\WeeklyReportWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\ashishBhandari17\Student_info\obj\Debug\Student_info.pdb

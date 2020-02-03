@@ -1,0 +1,236 @@
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+E:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+E:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\BarGraph.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+E:\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\BarGraph.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+E:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Applicstion Development\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Applicstion Development\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+F:\others\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+F:\others\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+F:\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+F:\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\suman\applicationdevelopment\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\suman\applicationdevelopment\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Charting.dll
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\suman\StudentRegistration\bin\Debug\netcoreapp3.1\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\App.g.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.cache
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration_MarkupCompile.lref
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\AddCourse.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\AddStudent.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\ExcelImport.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\HomePage.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\ViewReport.baml
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.g.resources
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CopyComplete
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+D:\suman\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache

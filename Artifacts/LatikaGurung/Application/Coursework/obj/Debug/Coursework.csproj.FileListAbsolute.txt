@@ -1,0 +1,28 @@
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.exe.config
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\MainWindow.baml
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\StudentForm.baml
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\StudentForm.g.cs
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\App.g.cs
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.g.resources
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.exe
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.pdb
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.exe
+c:\users\lal grg\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\LAL GRG\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Datahandler.dll
+C:\Users\LAL GRG\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Datahandler.pdb
+C:\Users\LAL GRG\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Weeklyreport.baml
+C:\Users\LAL GRG\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Weeklyreport.g.cs
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\obj\Debug\Chart.baml
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\obj\Debug\Chart.g.cs
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\bin\Debug\WPFToolkit.dll
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\LAL GRG\Documents\Visual Studio 2013\Projects\Coursework\Coursework\bin\Debug\WPFToolkit.pdb
+C:\Users\LAL GRG\gitlab\course-work-1-latikagurung\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\LAL GRG\gitlab\course-work-1-latikagurung\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\LAL GRG\gitlab\course-work-1-latikagurung\Coursework\Coursework\obj\Debug\Coursework.pdb

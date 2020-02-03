@@ -1,0 +1,82 @@
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csprojResolveAssemblyReference.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.Cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\App.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\AddStddetails.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\AddStddetails.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\SortByDate.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\SortByName.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\SortByDate.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\SortByName.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\Stddetails.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\Stddetails.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\Chart.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\WeeklyReport.g.cs
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\WPFToolkit.dll
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\Chart.baml
+C:\Users\Aseem\Downloads\Compressed\coursework\CourseWorkSample\obj\Debug\WeeklyReport.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\WPFToolkit.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\bin\Debug\WPFToolkit.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\AddStddetails.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\Chart.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\SortByDate.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\SortByName.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\Stddetails.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\WeeklyReport.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\AddStddetails.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\Chart.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\SortByDate.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\SortByName.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\Stddetails.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\WeeklyReport.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\satishad\Documentation\coursework\CourseWorkSample\obj\Debug\CourseWorkSample.pdb

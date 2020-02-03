@@ -1,0 +1,17 @@
+﻿<Window x:Class="StudentInformationSystem.DisplayChart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+        Title="DisplayChart" Height="450" Width="800">
+    <Grid Background="AntiqueWhite">
+        <DVC:Chart Margin="46,79,48.6,76" >
+            <DVC:PieSeries x:Name="chartDisplay" IndependentValueBinding="{Binding Path=Key}" DependentValueBinding="{Binding Path=Value}" ></DVC:PieSeries>
+        </DVC:Chart>
+        <Label Content="Chart " HorizontalAlignment="Left" Margin="348,22,0,0" VerticalAlignment="Top" Width="83" FontSize="24" FontWeight="ExtraBold"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="611,359,0,0" VerticalAlignment="Top" Width="75" Height="34" Click="Button_Click"/>
+    </Grid>
+</Window>

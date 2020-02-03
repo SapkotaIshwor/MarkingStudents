@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentInformationSystem/1.0.0": {
+        "dependencies": {
+          "Chart.js": "2.9.3",
+          "DataHandler": "1.0.0",
+          "System.Windows.Controls.DataVisualization.Toolkit": "4.0.0"
+        },
+        "runtime": {
+          "StudentInformationSystem.dll": {}
+        }
+      },
+      "Chart.js/2.9.3": {},
+      "System.Windows.Controls.DataVisualization.Toolkit/4.0.0": {
+        "runtime": {
+          "lib/net40-Client/System.Windows.Controls.DataVisualization.Toolkit.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "DataHandler/1.0.0": {
+        "runtime": {
+          "DataHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentInformationSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chart.js/2.9.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SY8PuXOJANgsEGMtuXPb/gxazfXdySUuFwTPbQUbw/YKiltR6FJ3mXrLFpr6N2MSCS7oUtfOhTotxLifyJcQNA==",
+      "path": "chart.js/2.9.3",
+      "hashPath": "chart.js.2.9.3.nupkg.sha512"
+    },
+    "System.Windows.Controls.DataVisualization.Toolkit/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UqBiEXh2YmYdJE5BpJC9c1I+AzcmFlzZ1h7fn5iU2lhOLn3snSxqf46/2XHpoJetJBN4HAavqG77wzaBi5jxfQ==",
+      "path": "system.windows.controls.datavisualization.toolkit/4.0.0",
+      "hashPath": "system.windows.controls.datavisualization.toolkit.4.0.0.nupkg.sha512"
+    },
+    "DataHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

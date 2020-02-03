@@ -1,0 +1,75 @@
+﻿<Window x:Class="StudentRegistration.HomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentRegistration"
+        mc:Ignorable="d"
+        Title="HomePage" Height="450" Width="800" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="login_bg.jpg"/>
+    </Window.Background>
+    <Grid Margin="0,0,-169.6,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="776">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.138"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Button x:Name="addStudent" Margin="430,67,170,232" RenderTransformOrigin="-1.768,-0.197"  Content="Add Student" Foreground="White" FontFamily="Arial" FontSize="16" FontWeight="Bold" Click="addStudent_Click" >
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.29" SpreadMethod="Pad">
+                    <GradientStop Color="#FF062A7D"/>
+                    <GradientStop Color="#FF0C55FF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="bulkUpload" Margin="428,235,168,63" RenderTransformOrigin="-1.768,-0.197" Content="Bulk Upload" FontFamily="Arial" FontSize="16" Foreground="White" FontWeight="Bold" Click="bulkUpload_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.3">
+                    <GradientStop Color="#FF1012EE" Offset="0"/>
+                    <GradientStop Color="#FF11085F" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="viewReport" Margin="171,240,428,59" RenderTransformOrigin="-1.768,-0.197" Content="View Report" FontFamily="Arial" FontSize="16" Foreground="White" FontWeight="Bold" Click="viewReport_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.3">
+                    <GradientStop Color="#FF1012EE" Offset="0"/>
+                    <GradientStop Color="#FF11085F" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="addCourse" Margin="176,60,425,239" RenderTransformOrigin="-1.768,-0.197" Content="Add Course" FontFamily="Arial" FontSize="16" Foreground="White" FontWeight="Bold" Click="addCourse_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+            </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.3">
+                    <GradientStop Color="#FF1012EE" Offset="0"/>
+                    <GradientStop Color="#FF11085F" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+
+</Window>

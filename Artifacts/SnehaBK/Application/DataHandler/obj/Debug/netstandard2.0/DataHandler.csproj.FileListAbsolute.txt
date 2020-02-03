@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.deps.json
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\bin\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
+C:\Users\Lenovo\Desktop\Informatics\CW\CourseWorkSample\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\tech inn\Documents\Application Development\DataHandler\bin\Debug\netstandard2.0\DataHandler.deps.json
+C:\Users\tech inn\Documents\Application Development\DataHandler\bin\Debug\netstandard2.0\DataHandler.dll
+C:\Users\tech inn\Documents\Application Development\DataHandler\bin\Debug\netstandard2.0\DataHandler.pdb
+C:\Users\tech inn\Documents\Application Development\DataHandler\obj\Debug\netstandard2.0\DataHandler.csproj.CoreCompileInputs.cache
+C:\Users\tech inn\Documents\Application Development\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfoInputs.cache
+C:\Users\tech inn\Documents\Application Development\DataHandler\obj\Debug\netstandard2.0\DataHandler.AssemblyInfo.cs
+C:\Users\tech inn\Documents\Application Development\DataHandler\obj\Debug\netstandard2.0\DataHandler.dll
+C:\Users\tech inn\Documents\Application Development\DataHandler\obj\Debug\netstandard2.0\DataHandler.pdb

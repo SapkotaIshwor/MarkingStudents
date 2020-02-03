@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Student>
+    <ID>1</ID>
+    <Name>Abisek Lamichhane</Name>
+    <Address>bhatgau</Address>
+    <ContactNo>9826482912</ContactNo>
+    <Email>abi.lami@hotmail.com</Email>
+    <CourseEnroll>Multimedia Technologies</CourseEnroll>
+    <RegistrationDate>2019/07/30</RegistrationDate>
+  </Student>
+</NewDataSet>

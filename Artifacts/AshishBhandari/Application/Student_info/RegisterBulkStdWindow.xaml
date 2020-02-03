@@ -1,0 +1,39 @@
+﻿<Window x:Class="Student_info.RegisterBulkStdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_info"
+        mc:Ignorable="d"
+        Title="RegisterBulkStdWindow" ResizeMode="CanMinimize" Height="700" Width="1000" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,-2">
+
+        <Label Content="&#x9;&#x9;                    Student Bulk Register" Padding="5"  HorizontalAlignment="Left" VerticalAlignment="Top" 
+            Width="792" Height="45"  FontFamily="Yu Gothic UI Semibold" FontSize="22" Foreground="#FFFFFBFB" FontWeight="Bold"  />
+
+        <Label Content="Browse Excel File:" HorizontalAlignment="Left" Margin="31,102,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.345,5" FontSize="18" Panel.ZIndex="1"/>
+        <Button x:Name="fileChooseBtn" Content="Choose" Padding="5" HorizontalAlignment="Right" Margin="0,102,610,0" VerticalAlignment="Top" Width="114"  FontSize="18" Panel.ZIndex="2" Height="34" Background="#FF5D89E8" Foreground="#FFF3EBEB" Click="fileChooseBtn_Click"/>
+        <DataGrid x:Name="gridView"  HorizontalAlignment="Left" Height="424" Margin="10,158,0,0" VerticalAlignment="Top" Width="961" SelectionChanged="gridView_SelectionChanged"/>
+        <Border BorderBrush="Black" BorderThickness="0" CornerRadius="5" HorizontalAlignment="Left" Height="67" Margin="10,86,0,0" VerticalAlignment="Top" Width="397">
+            <Border.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFF7F2F2"/>
+                    <GradientStop Color="#FFE0E0E0" Offset="1"/>
+                </RadialGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <Button x:Name="registerBtn" Content="Register All" HorizontalAlignment="Left" Margin="736,601,0,0" VerticalAlignment="Top" Width="128" 
+                BorderThickness="0" Padding="8" FontSize="18" FontWeight="Bold" Height="44" Foreground="White" Background="#FF556DD8" Click="registerBtn_Click" />
+        <Button x:Name="cancelBtn" Content="Back" HorizontalAlignment="Left" Margin="608,601,0,0" VerticalAlignment="Top" Width="88" 
+            BorderThickness="0" Padding="8" FontSize="18" FontWeight="Bold" Height="44" Foreground="White" Background="#FF32A2BB" Click="cancelBtn_Click"/>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF63C0D4" Offset="0"/>
+                <GradientStop Color="#FFD5F1F7" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+    </Grid>
+</Window>

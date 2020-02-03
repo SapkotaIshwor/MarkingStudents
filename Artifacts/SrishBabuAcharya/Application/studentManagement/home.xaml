@@ -1,0 +1,36 @@
+﻿<Window x:Class="studentManagement.home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:studentManagement"
+        mc:Ignorable="d"
+        Title="Student Management System" Height="600" Width="1000" Icon="login.png" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel>
+            <Menu Background="#e0dbd7" HorizontalAlignment="Left" Height="25" Margin="0,0,-0.4,0" VerticalAlignment="Top" Width="994">
+                <MenuItem Header="Student">
+                    <MenuItem Header="Enroll Student" x:Name="enrollStudent" Click="enrollStudent_Click"></MenuItem>
+                    <MenuItem Header="Import" x:Name="import" Click="importCSV_Click"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Report">
+                    <MenuItem Header="Student Details" x:Name="studentDetails" Click="studentDetails_Click"></MenuItem>
+                    <MenuItem Header="Weekly Report" x:Name="weeklyReport" Click="weeklyReport_Click"></MenuItem>
+                    <MenuItem Header="Chart" x:Name="chart" Click="chart_Click"></MenuItem>
+                </MenuItem>
+
+                <MenuItem Header="Exit" x:Name="MenuExit" Click="ExitApp_Click"></MenuItem>
+            </Menu>
+
+        </StackPanel>
+
+        <Frame x:Name="Main" Margin="10,29,9.6,52.4" NavigationUIVisibility="Hidden">
+            <Frame.Background >
+                <ImageBrush ImageSource="login.png"/>
+            </Frame.Background>
+
+        </Frame>
+        <Label Content="Student Management System" HorizontalAlignment="Left" Margin="217,503,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.844,1.328" FontSize="40" FontWeight="ExtraBold"/>
+
+    </Grid>
+</Window>

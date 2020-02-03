@@ -1,0 +1,31 @@
+﻿<Page x:Class="Student_Management_System.ViewChart"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:cht="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+      xmlns:local="clr-namespace:Student_Management_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Chart">
+    <Page.Resources>
+        <local:CourseCollection x:Key="CourseCollection"/>
+    </Page.Resources>
+
+    <Grid>
+        <cht:Chart Name="populationChart" Title="No of Students in a Course" 
+
+    Background="LightBlue">
+            <cht:Chart.Series>
+                <cht:ColumnSeries Title="Total Students" 
+
+    ItemsSource="{StaticResource CourseCollection}" 
+
+    IndependentValueBinding="{Binding Path=subName}" 
+
+    DependentValueBinding="{Binding Path=total}">
+                </cht:ColumnSeries>
+            </cht:Chart.Series>
+        </cht:Chart>
+    </Grid>
+</Page>

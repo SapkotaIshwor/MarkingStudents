@@ -1,0 +1,64 @@
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\bin\Debug\coursewoek.exe.config
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\bin\Debug\coursewoek.exe
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\bin\Debug\coursewoek.pdb
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.csprojAssemblyReference.cache
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\Login.g.cs
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\MainWindow.g.cs
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\App.g.cs
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek_MarkupCompile.cache
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek_MarkupCompile.lref
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\Login.baml
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\MainWindow.baml
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.g.resources
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.Properties.Resources.resources
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.csproj.GenerateResource.cache
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.exe
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.pdb
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\bin\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\bin\Debug\DataHandle.pdb
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\coursewoek.csproj.CopyComplete
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\WeeklyReport.g.cs
+C:\Users\Bhawana Shrestha\source\repos\coursewoek\obj\Debug\WeeklyReport.baml
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\bin\Debug\coursewoek.exe.config
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\bin\Debug\coursewoek.exe
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\bin\Debug\coursewoek.pdb
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\bin\Debug\DataHandle.dll
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\bin\Debug\DataHandle.pdb
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.csprojAssemblyReference.cache
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\Login.g.cs
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\MainWindow.g.cs
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\WeeklyReport.g.cs
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\App.g.cs
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek_MarkupCompile.cache
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek_MarkupCompile.lref
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\Login.baml
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\MainWindow.baml
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\WeeklyReport.baml
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.g.resources
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.Properties.Resources.resources
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.csproj.GenerateResource.cache
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.csproj.CopyComplete
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.exe
+C:\Users\Bhawana Shrestha\Desktop\Git\course-work-1-BhawanaStha\coursewoek\obj\Debug\coursewoek.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\bin\Debug\coursewoek.exe.config
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\bin\Debug\coursewoek.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\bin\Debug\coursewoek.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\bin\Debug\DataHandle.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\bin\Debug\DataHandle.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\Login.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\MainWindow.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\WeeklyReport.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\App.g.cs
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek_MarkupCompile.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek_MarkupCompile.lref
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\Login.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\MainWindow.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\WeeklyReport.baml
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.g.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.Properties.Resources.resources
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.csproj.GenerateResource.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.csproj.CopyComplete
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\BhawanaStha\coursewoek\obj\Debug\coursewoek.pdb

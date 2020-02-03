@@ -1,0 +1,30 @@
+﻿<Window x:Class="StudentInformationSystem.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="Student Information System" Icon="logo.png" Height="500" Width="900"  ResizeMode="NoResize">
+    <Grid>
+        <StackPanel>
+            <Menu Height="35" Background="DarkCyan" FontFamily="Open Sans">
+                <MenuItem Header="Student" Height="35" FontSize="13" Width="113">
+                    <MenuItem x:Name="enrolStudent" Header="Enrol Students" Click="EnrolStudent_Click"></MenuItem>
+                    <MenuItem x:Name="import" Header="Import from CSV" Click="import_Click" ></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Reports" Height="35" FontSize="13" Width="131">
+                    <MenuItem x:Name="viewDetails" Header="View Student Details" Click="viewDetails_Click"/>
+                    <MenuItem x:Name="viewReport" Header="View Weekly Report" Click="viewReport_Click"/>
+                    <MenuItem x:Name="Chart" Header="Chart" Click="Chart_Click"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+
+        <Frame x:Name="Main" Margin="0,35,0,-0.4" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="Std.jpg"/>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>

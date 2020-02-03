@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Application Development CW1/1.0.0": {
+        "runtime": {
+          "Application Development CW1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application Development CW1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

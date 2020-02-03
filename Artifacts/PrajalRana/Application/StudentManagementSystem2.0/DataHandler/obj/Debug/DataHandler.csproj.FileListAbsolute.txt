@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\StudentManagementSystem2.0\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\Hp\Desktop\StudentManagementSystem2.0\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\Hp\Desktop\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\Hp\Desktop\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.pdb
+C:\Users\Hp\Desktop\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\course-work-1-Prajalr20\StudentManagementSystem2.0\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\Hp\Desktop\course-work-1-Prajalr20\StudentManagementSystem2.0\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\Hp\Desktop\course-work-1-Prajalr20\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\course-work-1-Prajalr20\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\Hp\Desktop\course-work-1-Prajalr20\StudentManagementSystem2.0\DataHandler\obj\Debug\DataHandler.pdb

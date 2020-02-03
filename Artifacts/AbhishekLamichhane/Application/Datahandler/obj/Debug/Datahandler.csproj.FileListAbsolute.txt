@@ -1,0 +1,18 @@
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+D:\Coursework\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Coursework\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Coursework\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Coursework\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+D:\Coursework\Datahandler\bin\Debug\Datahandler.dll
+D:\Coursework\Datahandler\bin\Debug\Datahandler.pdb
+D:\Coursework\Datahandler\obj\Debug\Datahandler.dll
+D:\Coursework\Datahandler\obj\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\bin\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\bin\Debug\Datahandler.pdb
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\obj\Debug\Datahandler.csproj.CoreCompileInputs.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\obj\Debug\Datahandler.dll
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\abhisheklamichhane\SchoolManagementSystem\Datahandler\obj\Debug\Datahandler.pdb

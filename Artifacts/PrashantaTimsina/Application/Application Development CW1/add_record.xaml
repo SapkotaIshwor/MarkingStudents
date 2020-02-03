@@ -1,0 +1,29 @@
+﻿<Window x:Class="Application_Development_CW1.add_record"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Application_Development_CW1"
+        mc:Ignorable="d"
+        Title="add_record" Height="450" Width="400">
+    <Grid>
+        <Label Content="Add Student Record" HorizontalAlignment="Left" Margin="47,34,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Arial Black"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="47,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="47,118,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="47,149,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact No" HorizontalAlignment="Left" Margin="47,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="47,211,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enrolled Program" HorizontalAlignment="Left" Margin="47,242,0,0" VerticalAlignment="Top"/>
+        <Label Content="Registration Date" HorizontalAlignment="Left" Margin="47,272,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbox_id" HorizontalAlignment="Left" Margin="153,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_name" HorizontalAlignment="Left" Margin="153,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_address" HorizontalAlignment="Left" Margin="153,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_contactno" HorizontalAlignment="Left" Margin="153,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_email" HorizontalAlignment="Left" Margin="153,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_enrolledprogram" HorizontalAlignment="Left" Margin="153,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <TextBox x:Name="tbox_regdate" HorizontalAlignment="Left" Margin="153,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Height="18"/>
+        <Button x:Name="button_addrecord" Content="Add Record" HorizontalAlignment="Left" Margin="58,322,0,0" VerticalAlignment="Top" Width="80" Click="button_addrecord_Click"/>
+        <Button x:Name="button_clear" Content="Clear" HorizontalAlignment="Left" Margin="172,322,0,0" VerticalAlignment="Top" Width="80" Click="button_clear_Click"/>
+
+    </Grid>
+</Window>

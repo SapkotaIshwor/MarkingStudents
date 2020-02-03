@@ -1,0 +1,5 @@
+C:\Users\prasa\source\repos\StudentInformationSystems\DataHandler\bin\Debug\DataHandler.dll
+C:\Users\prasa\source\repos\StudentInformationSystems\DataHandler\bin\Debug\DataHandler.pdb
+C:\Users\prasa\source\repos\StudentInformationSystems\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache
+C:\Users\prasa\source\repos\StudentInformationSystems\DataHandler\obj\Debug\DataHandler.dll
+C:\Users\prasa\source\repos\StudentInformationSystems\DataHandler\obj\Debug\DataHandler.pdb

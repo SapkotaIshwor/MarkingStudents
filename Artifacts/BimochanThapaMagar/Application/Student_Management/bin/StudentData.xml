@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  
+  <StudentInfo>
+    <StudentID>1</StudentID>
+    <Name>Cmant Gurung</Name>
+    <StudentPhone>9826161485</StudentPhone>
+    <Email>iamsimant@hotmail.com</Email>
+    <Program>Multimedia Technology</Program>
+    <Address>Bindabashini</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/10/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+  <StudentInfo>
+    <StudentID>2</StudentID>
+    <Name>Bimochan Thapa Magar</Name>
+    <StudentPhone>9805892874</StudentPhone>
+    <Email>mgrbimochan2@gmail.com.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Amarsingh-10</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/11/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+  <StudentInfo>
+    <StudentID>3</StudentID>
+    <Name>Ashmita Sen</Name>
+    <StudentPhone>9815114895</StudentPhone>
+    <Email>asmitasen@gmail.com</Email>
+    <Program>Computing</Program>
+    <Address>Matepani</Address>
+    <Gender>Female</Gender>
+    <RegistrationDate>1/12/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+  <StudentInfo>
+    <StudentID>4</StudentID>
+    <Name>Chahana Pun</Name>
+    <StudentPhone>9854565488</StudentPhone>
+    <Email>chahana22@gmail.com</Email>
+    <Program>Multimedia Technology</Program>
+    <Address>Harichowk</Address>
+    <Gender>Female</Gender>
+    <RegistrationDate>1/14/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+  <StudentInfo>
+    <StudentID>5</StudentID>
+    <Name>Yaman Thapa</Name>
+    <StudentPhone>9819146805</StudentPhone>
+    <Email>yaman223@gmail.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Bindabashini</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/15/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>6</StudentID>
+    <Name>Kamala Gurung</Name>
+    <StudentPhone>9805988555</StudentPhone>
+    <Email>kamala99@gmail.com</Email>
+    <Program>Multimedia Technology</Program>
+    <Address>Ghalechowk</Address>
+    <Gender>Famele</Gender>
+    <RegistrationDate>1/16/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>7</StudentID>
+    <Name>Prajit shrestha</Name>
+    <StudentPhone>061589223</StudentPhone>
+    <Email>pry77@gmail.com</Email>
+    <Program>Multimedia Technology</Program>
+    <Address>Rambazar</Address>
+    <Gender>Female</Gender>
+    <RegistrationDate>1/17/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>8</StudentID>
+    <Name>Satish Thapa</Name>
+    <StudentPhone>9805866665</StudentPhone>
+    <Email>satish789@gmail.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Hemja</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/18/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>5</StudentID>
+    <Name>Dipendra Magar</Name>
+    <StudentPhone>9804158965</StudentPhone>
+    <Email>yaman223@gmail.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Mahendrapol</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/19/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>9</StudentID>
+    <Name>Gaurab Thapa</Name>
+    <StudentPhone>9816148995</StudentPhone>
+    <Email>gaurab66@gmail.com</Email>
+    <Program>Computing</Program>
+    <Address>Damauli</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/20/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>10</StudentID>
+    <Name>Supriya Gurung</Name>
+    <StudentPhone>9815559625</StudentPhone>
+    <Email>supriii2@gmail.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Kathmandu</Address>
+    <Gender>Female</Gender>
+    <RegistrationDate>1/21/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>11</StudentID>
+    <Name>Priya Gurung</Name>
+    <StudentPhone>9816589992</StudentPhone>
+    <Email>priyagrg2@gmail.com</Email>
+    <Program>Computing</Program>
+    <Address>0 km</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/22/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+   <StudentInfo>
+    <StudentID>12</StudentID>
+    <Name>Dilip Thapa</Name>
+    <StudentPhone>061541225</StudentPhone>
+    <Email>thapadilip@gmail.com</Email>
+    <Program>Networks and IT security</Program>
+    <Address>Bindabashini</Address>
+    <Gender>Male</Gender>
+    <RegistrationDate>1/23/2020 12:00:00 AM</RegistrationDate>
+  </StudentInfo>
+  
+</NewDataSet>

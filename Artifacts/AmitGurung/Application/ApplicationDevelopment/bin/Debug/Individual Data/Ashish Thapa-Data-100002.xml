@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Student>
+    <ID>1</ID>
+    <Name>Ashish Thapa</Name>
+    <Address>amarsinghchowk</Address>
+    <ContactNo>9836273845</ContactNo>
+    <Email>ashish.thapa@icp.edu.np</Email>
+    <CourseEnroll>Networks and IT Security</CourseEnroll>
+    <RegistrationDate>2020/01/01</RegistrationDate>
+  </Student>
+</NewDataSet>

@@ -1,0 +1,32 @@
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\baseWndo.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\MainWindow.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\RegisterFromFile.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\RegisterStd.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\ViewChart.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\viewregistration.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\WeeklyReport.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\App.g.cs
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management_MarkupCompile.cache
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management_MarkupCompile.lref
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\bin\Release\Student_Management.exe.config
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\bin\Release\Student_Management.exe
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\bin\Release\Student_Management.pdb
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\baseWndo.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\MainWindow.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\RegisterFromFile.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\RegisterStd.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\ViewChart.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\viewregistration.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\WeeklyReport.baml
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.g.resources
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.Properties.Resources.resources
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.csproj.GenerateResource.cache
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.csproj.CopyComplete
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.exe
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.pdb
+C:\Users\Bimochan\source\repos\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.csprojAssemblyReference.cache
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.exe
+C:\tmp\Course Work 1 -01-22-2020-09-12-07\bimochan222\S18 CS6004NP CW1 17031940 BimochanThapaMagar\Development\Coursework\Student_Management\Student_Management\obj\Release\Student_Management.pdb

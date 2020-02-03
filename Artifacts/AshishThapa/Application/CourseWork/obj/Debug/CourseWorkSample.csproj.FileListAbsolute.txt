@@ -1,0 +1,58 @@
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csprojResolveAssemblyReference.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.Cache
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+D:\Projects\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\Home.g.cs
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\login.g.cs
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\Home.baml
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\CourseWorkSample\obj\Debug\login.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe.config
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\CourseWorkSample.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.dll
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\bin\Debug\Datahandler.pdb
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csprojAssemblyReference.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\Home.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\login.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\App.g.cs
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample_MarkupCompile.lref
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\Home.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\login.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\MainWindow.baml
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.g.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.Properties.Resources.resources
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.GenerateResource.cache
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.csproj.CopyComplete
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.exe
+D:\ICP-3rd-YEAR\Course\Application Development\Coursework\CourseWorkSample\CourseWorkSample\obj\Debug\CourseWorkSample.pdb

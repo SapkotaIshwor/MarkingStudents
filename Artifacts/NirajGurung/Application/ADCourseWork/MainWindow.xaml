@@ -1,0 +1,42 @@
+﻿<Window x:Class="CourseWorkSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        mc:Ignorable="d"
+        Title="Student Management System" Height="618.333" Width="1064.667">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF0DF3E9" Offset="0.98"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Name :" HorizontalAlignment="Left" Margin="338,169,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+        <TextBox Name="txtName" HorizontalAlignment="Left" Height="46" Margin="461,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" FontSize="24"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="521,489,0,0" VerticalAlignment="Top" Width="103" Height="43" FontSize="24" Click="saveStuDetails_Click" RenderTransformOrigin="0.515,0.512"/>
+        <Label Content="Address :" HorizontalAlignment="Left" Margin="338,240,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="46" Margin="461,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" FontSize="24"/>
+        <Label Content="Contact :" HorizontalAlignment="Left" Margin="338,299,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="46" Margin="461,299,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" FontSize="24"/>
+        <Label Content="Reg No :" HorizontalAlignment="Left" Margin="338,110,0,0" VerticalAlignment="Top" FontSize="22" Width="96"/>
+        <TextBox x:Name="txtRegNo" HorizontalAlignment="Left" Height="46" Margin="461,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="301" FontSize="24"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="338,364,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <DatePicker x:Name="date" HorizontalAlignment="Left" Margin="461,364,0,0" VerticalAlignment="Top" FontSize="22" Width="301"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="461,424,0,0" VerticalAlignment="Top" Width="301" Height="34">
+            <ComboBoxItem Content="BBA" HorizontalAlignment="Left" Width="301" FontSize="22" Margin="0,0,-2,0"/>
+            <ComboBoxItem Content="BIT" HorizontalAlignment="Left" Width="301" FontSize="22" Margin="0,0,-2,0"/>
+            <ComboBoxItem Content="BHM" HorizontalAlignment="Left" Width="296" FontSize="22"/>
+        </ComboBox>
+
+        <Label Content="Program" HorizontalAlignment="Left" Margin="338,424,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.468,1.538"/>
+        <Label Content="Student Registration" HorizontalAlignment="Left" Margin="414,49,0,0" VerticalAlignment="Top" FontSize="30"/>
+        <Menu HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="1057">
+            <MenuItem x:Name="menuStudentDetails" Header="Student Details" Height="24" Width="100" Click="MenuStuDetails_Click"/>
+            <MenuItem x:Name="menuReport" Header="Report" Height="24" Width="62" Click="menuReport_Click"/>
+        </Menu>
+
+    </Grid>
+</Window>

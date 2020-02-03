@@ -1,0 +1,76 @@
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.baml
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.baml
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.baml
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.baml
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.g.cs
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.baml
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Sujan PC\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\GenerateChart.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\ViewChart.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\AddStudents.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\GenerateChart.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\Home.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\ImportCSV.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentDetails.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\ViewChart.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\WeeklyReport.baml
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Sujan PC\Desktop\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb

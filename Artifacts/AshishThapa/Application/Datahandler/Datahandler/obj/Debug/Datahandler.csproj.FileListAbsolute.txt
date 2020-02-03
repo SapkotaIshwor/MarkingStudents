@@ -1,0 +1,17 @@
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+D:\Projects\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\CourseWorkSample\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\Git\A18 Application Development 17030706 AshishThapa\StudentInformationSystem\Datahandler\Datahandler\obj\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\Datahandler\Datahandler\bin\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\Datahandler\Datahandler\bin\Debug\Datahandler.pdb
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\Datahandler\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\Datahandler\Datahandler\obj\Debug\Datahandler.dll
+C:\Users\New\OneDrive\Desktop\StudentInformationSystem\Datahandler\Datahandler\obj\Debug\Datahandler.pdb

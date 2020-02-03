@@ -1,0 +1,29 @@
+﻿<Window x:Class="Student_Management_System.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management_System"
+        mc:Ignorable="d"
+        Title="Home" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Menu Background="#36b5b0" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="792">
+            <MenuItem Header="Student">
+                <MenuItem x:Name="EnrollStudent" Header="Add Students" Click="EnrollStudent_Click"></MenuItem>
+                <MenuItem x:Name="Import" Header="Import from CSV" Click="Import_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Report">
+                <MenuItem x:Name="ViewDetails" Header=" View Student Details" Click="ViewDetails_Click"></MenuItem>
+                <MenuItem x:Name="Report" Header="View Weekly Report" Click="Report_Click"></MenuItem>
+                <MenuItem x:Name="Chart" Header="View Chart" Click="Chart_Click"></MenuItem>
+             </MenuItem>
+        </Menu>
+        </StackPanel>
+        <Frame x:Name="Main" Margin="0,30,0,0" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="homepage.jpg" Stretch="None"/>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>

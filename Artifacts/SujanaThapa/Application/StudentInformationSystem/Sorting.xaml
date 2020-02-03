@@ -1,0 +1,24 @@
+﻿<Window x:Class="StudentInformationSystem.Sorting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="Sorting" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <DataGrid x:Name="DataGridSorting"  Height="203" Margin="61,35,237,0" VerticalAlignment="Top">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFE4E4AB"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0 0 1 2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Button x:Name="btnRetrieve" Content="Retrieve" HorizontalAlignment="Left" Margin="613,55,0,0" VerticalAlignment="Top" Width="126" FontSize="20" Click="btn_Retrieve" />
+        <Button x:Name="btnSortByName" Content="Sort By Name" HorizontalAlignment="Left" Margin="613,121,0,0" VerticalAlignment="Top" Width="126" FontSize="20" Click="btn_SortByName" />
+        <Button x:Name="btnSortByDate" Content="Sort By Date" HorizontalAlignment="Left" Margin="613,182,0,0" VerticalAlignment="Top" Width="126" FontSize="20" Click="btn_SortByDate"/>
+    </Grid>
+</Window>

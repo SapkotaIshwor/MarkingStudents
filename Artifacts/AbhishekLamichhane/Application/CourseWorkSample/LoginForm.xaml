@@ -1,0 +1,21 @@
+﻿<Window x:Class="CourseWorkSample.LoginForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        mc:Ignorable="d"
+        Title="LoginForm" Height="533.193" Width="759.664">
+	<Grid HorizontalAlignment="Left" Width="750" Margin="0,0,0,-1" Background="#FFC3BE50">
+		<Label Content="Welcome To School Management System" HorizontalAlignment="Left" Margin="155,10,0,0" VerticalAlignment="Top" FontSize="24"/>
+		<Image Margin="178,104,190,249" Source="Logo-Only.png" Stretch="Fill"/>
+		<Label Content="Username" HorizontalAlignment="Left" Margin="178,315,0,0" VerticalAlignment="Top" Width="106" FontSize="20"/>
+		<Label Content="Password" HorizontalAlignment="Left" Margin="178,357,0,0" VerticalAlignment="Top" Width="106" FontSize="20"/>
+		<TextBox x:Name="txt_username" HorizontalAlignment="Left" Height="29" Margin="345,323,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" FontSize="20"/>
+		<Button x:Name="btn_login" Content="Login" HorizontalAlignment="Left" Margin="42,433,0,0" VerticalAlignment="Top" Width="75" FontSize="20" Click="btn_login_Click" Background="#FF22A4AA"/>
+		<Button x:Name="btn_cancel" Content="Cancel" HorizontalAlignment="Left" Margin="637,440,0,0" VerticalAlignment="Top" Width="75" FontSize="20" Click="btn_cancel_Click" Background="#FF0D9EE2"/>
+		<PasswordBox x:Name="txt_password" HorizontalAlignment="Left" Margin="345,365,0,0" VerticalAlignment="Top" Width="223" FontSize="24" Height="29"/>
+		<Label Content="Login Form" HorizontalAlignment="Left" Margin="289,57,0,0" VerticalAlignment="Top" FontSize="24"/>
+
+	</Grid>
+</Window>

@@ -1,0 +1,98 @@
+﻿<Window x:Class="StudentInformationSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="Student Information System" Height="465.784" Width="572.379">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="379" Margin="50,35,0,0" VerticalAlignment="Top" Width="461" SelectionChanged="TabControl_SelectionChanged">
+            <TabItem x:Name="tabEnrolStd" Header="Enrol Student">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="165.857,15,0,0" TextWrapping="Wrap" Text="Enrol Student" VerticalAlignment="Top" FontSize="15" Height="20"/>
+                    <Label x:Name="lblName" Content="Name" Grid.Column="1" HorizontalAlignment="Left" Margin="72.857,50,0,0" VerticalAlignment="Top" Height="27" VerticalContentAlignment="Center"/>
+                    <TextBox x:Name="txtName" Grid.Column="1" HorizontalAlignment="Left" Height="27" Margin="165.857,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center"/>
+                    <Label x:Name="lblDob" Content="DOB" Grid.Column="1" HorizontalAlignment="Left" Margin="79.857,92,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Height="27"/>
+                    <DatePicker x:Name="txtDob" Grid.Column="1" HorizontalAlignment="Left" Margin="166.286,92,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="180" Height="27"/>
+                    <Label x:Name="lblAddress" Content="Address" Grid.Column="1" HorizontalAlignment="Left" Margin="61.857,134,0,0" VerticalAlignment="Top" Height="27" VerticalContentAlignment="Center"/>
+                    <TextBox x:Name="txtAddress" Grid.Column="1" HorizontalAlignment="Left" Height="27" Margin="165.857,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center"/>
+                    <Label x:Name="lblContact" Content="Contact No." Grid.Column="1" HorizontalAlignment="Left" Margin="40.857,176,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Height="27"/>
+                    <TextBox x:Name="txtContact" Grid.Column="1" HorizontalAlignment="Left" Height="27" Margin="165.857,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center"/>
+                    <Label x:Name="lblCourse" Content="Course" Grid.Column="1" HorizontalAlignment="Left" Margin="66.857,218,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Height="27"/>
+                    <ComboBox x:Name="txtCourse" Grid.Column="1" HorizontalAlignment="Left" Margin="165.857,218,0,0" VerticalAlignment="Top" Width="180" Height="27" VerticalContentAlignment="Center">
+                        <ComboBoxItem Content="Advance Database"></ComboBoxItem>
+                        <ComboBoxItem Content="Application Development"></ComboBoxItem>
+                        <ComboBoxItem Content="Artificial Intelligence"></ComboBoxItem>
+                    </ComboBox>
+                    <Label x:Name="lblRegistrationDate" Content="Registration Date" Grid.Column="1" HorizontalAlignment="Left" Margin="12.286,260,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Height="27"/>
+                    <DatePicker x:Name="txtRegistrationDate" Grid.Column="1" HorizontalAlignment="Left" Margin="166.286,260,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="180" Height="27"/>
+                    <Button x:Name="btnEnrol" Content="Enrol" Grid.Column="1" HorizontalAlignment="Left" Margin="165.857,302,0,0" VerticalAlignment="Top" Width="75" Height="27" Click="btnEnrol_Click"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabImportStudents" Header="Import Students">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="147.286,15,0,0" TextWrapping="Wrap" Text="Import Students" VerticalAlignment="Top" FontSize="15" Height="20"/>
+                    <Button x:Name="btnImport" Content="Import" Grid.Column="1" HorizontalAlignment="Left" Margin="165.857,50,0,0" VerticalAlignment="Top" Width="75" Height="27" Click="btnImport_Click"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabStudents" Header="Students">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="162.286,15,0,0" TextWrapping="Wrap" Text="Students" VerticalAlignment="Top" FontSize="15" Height="20"/>
+                    <DataGrid x:Name="gridStudents" Grid.Column="1" HorizontalAlignment="Left" Height="226" Margin="0.286,54,0,0" VerticalAlignment="Top" Width="396" ColumnHeaderHeight="25" VerticalContentAlignment="Center"/>
+                    <Button x:Name="btnSortName" Content="Sort by Name" Grid.Column="1" HorizontalAlignment="Left" Margin="138.286,303,0,0" VerticalAlignment="Top" Height="27" Width="90" Click="btnSortName_Click"/>
+                    <Button x:Name="btnSortRegistrationDate" Content="Sort by Registration Date" Grid.Column="1" HorizontalAlignment="Left" Margin="248.286,303,0,0" VerticalAlignment="Top" Height="27" Width="148" Click="btnSortRegistrationDate_Click"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabReport" Header="Report">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="172.286,15,0,0" TextWrapping="Wrap" Text="Report" VerticalAlignment="Top" FontSize="15" Height="20"/>
+                    <DataGrid x:Name="gridReport" Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="0.286,54,0,0" VerticalAlignment="Top" Width="396" ColumnHeaderHeight="25" VerticalContentAlignment="Center"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabChart" Header="Chart">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="148.286,15,0,0" TextWrapping="Wrap" Text="Chart Report" VerticalAlignment="Top" FontSize="15" Height="20"/>
+                    <Grid Grid.Column="1" HorizontalAlignment="Left" Height="255" Margin="0.286,53,0,0" VerticalAlignment="Top" Width="396">
+                        <lvc:PieChart x:Name="pieChart" LegendLocation="Bottom" DataClick="Chart_OnDataClick" Hoverable="False" DataTooltip="{x:Null}" Margin="0,0,0,-14"/>
+                    </Grid>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabLogout" Header="Logout">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="43*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

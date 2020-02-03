@@ -1,0 +1,47 @@
+﻿<Window x:Class="StudentInformationSystem.StudentEnroll"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="StudentEnroll" Height="448.398" Width="1132.191" WindowStartupLocation="CenterScreen">
+    <Grid Background="Aquamarine">
+        <StackPanel HorizontalAlignment="Left" Height="340" Margin="10,10,0,0" VerticalAlignment="Top" Width="127">
+            <Label Content="Id" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+            <Label Content="Full Name" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+            <Label Content="Address" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+            <Label Content="Gender" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+            <Label Content="Phone No" Margin="10,10,10,10"  FontFamily="Arial" FontSize="16"/>
+            <Label Content="Course Enroll" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+            <Label Content="Date" Margin="10,10,10,10" FontFamily="Arial" FontSize="16"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="340" Margin="137,10,0,0" VerticalAlignment="Top" Width="239">
+            <TextBox x:Name="autoid" Margin="10,15,10,10" Height="25" TextWrapping="Wrap" FontFamily="Arial" FontSize="16"/>
+            <TextBox x:Name="editfullname" Margin="10,10,10,10" Height="25" TextWrapping="Wrap" FontFamily="Arial" FontSize="16"/>
+            <TextBox x:Name="editaddress" Margin="10,10,10,10" Height="25" TextWrapping="Wrap" FontFamily="Arial" FontSize="16"/>
+            <ComboBox x:Name="combogender" Margin="10,15,10,10" FontFamily="Arial" FontSize="16">
+                <ComboBoxItem Content="Male"/>
+                <ComboBoxItem Content="Female"/>
+            </ComboBox>
+            <TextBox x:Name="editphone" Margin="10,13,10,10" Height="23" TextWrapping="Wrap" FontFamily="Arial" FontSize="16"/>
+            <ComboBox x:Name="combocourse" Margin="10,15,10,10" FontFamily="Arial" FontSize="16">
+                <ComboBoxItem Content="Computing"/>
+                <ComboBoxItem Content="Multimedia Technologies"/>
+                <ComboBoxItem Content="Networks and IT Security"/>
+            </ComboBox>
+            <DatePicker x:Name="datepick" Margin="10,15,10,10" FontFamily="Arial" FontSize="16"/>
+        </StackPanel>
+        <Button x:Name="btnimport" Content="Import" HorizontalAlignment="Left" Margin="417,22,0,0" VerticalAlignment="Top" Width="94" Height="24" FontFamily="Arial" FontSize="16" Click="btnimport_Click"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="331" 
+                  Margin="417,67,0,0" VerticalAlignment="Top" Width="691" 
+                  FontFamily="Arial" FontSize="16" CanUserResizeColumns="False" 
+                  CanUserSortColumns="False" CanUserResizeRows="False">
+        </DataGrid>
+        <Button x:Name="btnsave" Content="Save" HorizontalAlignment="Left" Margin="301,363,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FF61F368" FontFamily="Arial" FontSize="16" Click="btnsave_Click"/>
+        <ComboBox x:Name="datasort" HorizontalAlignment="Left" Margin="870,26,0,0" VerticalAlignment="Top" Width="238" Height="24" FontFamily="Arial" FontSize="16" SelectionChanged="datasort_SelectionChanged">
+            <ComboBoxItem Content="Sort by Name" FontSize="16" FontFamily="Arial"/>
+            <ComboBoxItem Content="Sort by Date" FontSize="16" FontFamily="Arial"/>
+        </ComboBox>
+    </Grid>
+</Window>

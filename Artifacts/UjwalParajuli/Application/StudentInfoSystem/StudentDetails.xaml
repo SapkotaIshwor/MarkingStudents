@@ -1,0 +1,31 @@
+﻿<Page x:Class="StudentInfoSystem.StudentDetails"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:StudentInfoSystem"
+      mc:Ignorable="d" 
+      d:DesignHeight="520" d:DesignWidth="900"
+      Title="Student Details" FontFamily="Open Sans">
+
+    
+
+    <Grid Background="#FF4F5D75">
+        <Label Content="Student Details" HorizontalAlignment="Left" Margin="352,19,0,0" VerticalAlignment="Top" Foreground="White" Height="48" Width="179" FontSize="24"/>
+        <DataGrid x:Name="dgThird" HorizontalAlignment="Left" Height="286" Margin="17,80,0,0" VerticalAlignment="Top" Width="862" HorizontalScrollBarVisibility="Disabled" IsReadOnly="True" AutoGenerateColumns="False" EnableColumnVirtualization="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID No" Binding="{Binding idNumber}"  />
+                <DataGridTextColumn Header="First Name" Binding="{Binding firstName}" Width="137"/>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding lastName}" Width="137"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding address}"  Width="120"/>
+                <DataGridTextColumn Header="Contact No" Binding="{Binding contactNo}" Width="125"/>
+                <DataGridTextColumn Header="Course Enrolled"  Binding="{Binding courseName}" Width="170"/>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding registerDate}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ButtonView" Margin="18,418,744,68" Content="View Student Details" Background="#FF2D3142" Foreground="White" RenderTransformOrigin="0.502,0.506" Click="ButtonView_Click" />
+        <Button x:Name="ButtonSortByName" Margin="384,414,384,72" Content="Sort by First Name" Background="#FF2D3142" Foreground="White" RenderTransformOrigin="0.502,0.506" Click="ButtonSortByName_Click" />
+        <Button x:Name="ButtonSortByDate" Margin="717,411,24,75" Content="Sort by Registration Date" Background="#FF2D3142" Foreground="White" RenderTransformOrigin="0.502,0.506" Click="ButtonSortByDate_Click" />
+
+    </Grid>
+</Page>

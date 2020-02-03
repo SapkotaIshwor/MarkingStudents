@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <StudentReport>
+    <ID>1</ID>
+    <RegNo>17031901</RegNo>
+    <Name>Pawan Tiwari</Name>
+    <Address>Lamjung</Address>
+    <ContactNo>9816423465</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020/01/03</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>2</ID>
+    <RegNo>17031902</RegNo>
+    <Name>Anish Thapa</Name>
+    <Address>Kathmandu</Address>
+    <ContactNo>9867134562</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>2020/01/03</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>3</ID>
+    <RegNo>17031903</RegNo>
+    <Name>Anil Rai</Name>
+    <Address>Pokhara</Address>
+    <ContactNo>9806587885</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>2020/01/04</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>4</ID>
+    <RegNo>17031904</RegNo>
+    <Name>Sonam Gurung</Name>
+    <Address>Pokhara</Address>
+    <ContactNo>9806645233</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>5</ID>
+    <RegNo>17031905</RegNo>
+    <Name>Roshan Tiwari</Name>
+    <Address>Chitwan</Address>
+    <ContactNo>9815178342</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>6</ID>
+    <RegNo>17031906</RegNo>
+    <Name>Rahul Pun</Name>
+    <Address>Baglung</Address>
+    <ContactNo>9814110934</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020/01/08</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>7</ID>
+    <RegNo>17031907</RegNo>
+    <Name>Manoj Thapa</Name>
+    <Address>Palpa</Address>
+    <ContactNo>9856084501</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>2020/01/09</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>8</ID>
+    <RegNo>17031908</RegNo>
+    <Name>Naresh Rai</Name>
+    <Address>Manang</Address>
+    <ContactNo>9814172993</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020/01/10</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>9</ID>
+    <RegNo>17031909</RegNo>
+    <Name>Rakesh Baral</Name>
+    <Address>Butwal</Address>
+    <ContactNo>9856021844</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020/01/10</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>10</ID>
+    <RegNo>17031910</RegNo>
+    <Name>Ritesh Gurung</Name>
+    <Address>Kathmandu</Address>
+    <ContactNo>9814123904</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>2020/01/10</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>11</ID>
+    <RegNo>17031920</RegNo>
+    <Name>Sam Gurung</Name>
+    <Address>Pokhara</Address>
+    <ContactNo>9806578023</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>11/11/2019 00:00:00</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>12</ID>
+    <RegNo>17031921</RegNo>
+    <Name>Anish Rana</Name>
+    <Address>Lamjung</Address>
+    <ContactNo>9814164544</ContactNo>
+    <CourseEnroll>BIT</CourseEnroll>
+    <RegistrationDate>29/10/2019 00:00:00</RegistrationDate>
+  </StudentReport>
+</NewDataSet>

@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="yes"?>
+<ArrayOfData>
+  <Data>
+    <StudentRegistrationID>333</StudentRegistrationID>
+    <StudentRegistrationDate>2020/01/09</StudentRegistrationDate>
+    <StudentID>12</StudentID>
+    <StudentName>sdfsdf</StudentName>
+    <StudentAddress>fdsdf</StudentAddress>
+    <StudentContact>45345</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>1</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Monica</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9805642575</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>2</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Chandler</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9807642532</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>3</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Ross</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9807648234</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>4</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-22</StudentRegistrationDate>
+    <StudentID>106</StudentID>
+    <StudentName>Rachel</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9803667845</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>5</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-29</StudentRegistrationDate>
+    <StudentID>107</StudentID>
+    <StudentName>Joey</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9808965466</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>6</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-30</StudentRegistrationDate>
+    <StudentID>108</StudentID>
+    <StudentName>Phoebe</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9807752413</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>1</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Monica</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9805642575</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>2</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Chandler</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9807642532</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>3</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Ross</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9807648234</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>4</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-22</StudentRegistrationDate>
+    <StudentID>106</StudentID>
+    <StudentName>Rachel</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9803667845</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>5</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-29</StudentRegistrationDate>
+    <StudentID>107</StudentID>
+    <StudentName>Joey</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9808965466</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>6</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-30</StudentRegistrationDate>
+    <StudentID>108</StudentID>
+    <StudentName>Phoebe</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9807752413</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>1</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Monica</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9805642575</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>2</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Chandler</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9807642532</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>3</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Ross</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9807648234</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>4</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-22</StudentRegistrationDate>
+    <StudentID>106</StudentID>
+    <StudentName>Rachel</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9803667845</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>5</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-29</StudentRegistrationDate>
+    <StudentID>107</StudentID>
+    <StudentName>Joey</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9808965466</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>6</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-30</StudentRegistrationDate>
+    <StudentID>108</StudentID>
+    <StudentName>Phoebe</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9807752413</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID />
+    <StudentRegistrationDate />
+    <StudentID />
+    <StudentName />
+    <StudentAddress />
+    <StudentContact />
+    <StudentCourse />
+  </Data>
+  <Data>
+    <StudentRegistrationID>234</StudentRegistrationID>
+    <StudentRegistrationDate>2020-01-01</StudentRegistrationDate>
+    <StudentID>12</StudentID>
+    <StudentName>Apple</StudentName>
+    <StudentAddress>Pkr</StudentAddress>
+    <StudentContact>980837322</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>1</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-03</StudentRegistrationDate>
+    <StudentID>103</StudentID>
+    <StudentName>Monica</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9805642575</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>2</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>104</StudentID>
+    <StudentName>Chandler</StudentName>
+    <StudentAddress>Kathmandu</StudentAddress>
+    <StudentContact>9807642532</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>3</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-15</StudentRegistrationDate>
+    <StudentID>105</StudentID>
+    <StudentName>Ross</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9807648234</StudentContact>
+    <StudentCourse>Network and It Security</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>4</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-22</StudentRegistrationDate>
+    <StudentID>106</StudentID>
+    <StudentName>Rachel</StudentName>
+    <StudentAddress>Pokhara</StudentAddress>
+    <StudentContact>9803667845</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>5</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-29</StudentRegistrationDate>
+    <StudentID>107</StudentID>
+    <StudentName>Joey</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9808965466</StudentContact>
+    <StudentCourse>Multimedia Technologies</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID>6</StudentRegistrationID>
+    <StudentRegistrationDate>2019-12-30</StudentRegistrationDate>
+    <StudentID>108</StudentID>
+    <StudentName>Phoebe</StudentName>
+    <StudentAddress>Butwal</StudentAddress>
+    <StudentContact>9807752413</StudentContact>
+    <StudentCourse>Computing</StudentCourse>
+  </Data>
+  <Data>
+    <StudentRegistrationID />
+    <StudentRegistrationDate />
+    <StudentID />
+    <StudentName />
+    <StudentAddress />
+    <StudentContact />
+    <StudentCourse />
+  </Data>
+</ArrayOfData>

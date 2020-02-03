@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="StudentRegistration.AddCourse" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAYAAAAAIAAAAAAABQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddCourse.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistration.AddStudent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAICAQAAOAAAAAIAACIAAAAQAAAAIAAAAAAAAAAAARY=</HashCode>
+      <FileName>AddStudent.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentRegistration.ExcelImport" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAAAAAAAEAAAAAAAACAAAAAEAEAAAAAAAAA=</HashCode>
+      <FileName>ExcelImport.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistration.StudentInfo" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAWAAACAAAAAEABAAgAAAAAAAAQAAAAABIAEAAAg=</HashCode>
+      <FileName>ExcelImport.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistration.HomePage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQUAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>HomePage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistration.Login" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistration.ViewReport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAIgABgAAAAAgAAAEAIBAAKAAAgQgwACAAAAA=</HashCode>
+      <FileName>ViewReport.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataHandler.datahandler" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Handler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

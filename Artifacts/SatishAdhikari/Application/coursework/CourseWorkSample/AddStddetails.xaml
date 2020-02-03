@@ -1,0 +1,52 @@
+﻿<Window x:Class="CourseWorkSample.AddStddetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWorkSample"
+        mc:Ignorable="d"
+        Title="AddStddetails" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <DataGrid x:Name="gridStudentDetails" HorizontalAlignment="Left" Height="409" Margin="163,4,0,0" VerticalAlignment="Top" Width="619"/>
+        <Button Content="Import CSV" HorizontalAlignment="Left" Margin="25,130,0,0" VerticalAlignment="Top" Width="114" Height="45" FontWeight="Bold" FontSize="18" Click="ImportCSV_Click"/>
+        <Button Content="Show Students" HorizontalAlignment="Left" Margin="25,206,0,0" VerticalAlignment="Top" Width="114" Height="45" FontWeight="Bold" FontSize="15" Click="stddetails_Click"/>
+        <Label Content="Name :" HorizontalAlignment="Left" Margin="202,63,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+        <TextBox Name="txtName" HorizontalAlignment="Left" Height="41" Margin="343,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Button Content="OK" HorizontalAlignment="Left" Margin="178,348,0,0" VerticalAlignment="Top" Width="90" Height="32" FontSize="20" Click="Save_Click" />
+        <Label Content="Address :" HorizontalAlignment="Left" Margin="202,106,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="41" Margin="343,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Label Content="Contact :" HorizontalAlignment="Left" Margin="202,150,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84"/>
+        <TextBox x:Name="txtContact" HorizontalAlignment="Left" Height="41" Margin="343,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Label Content="Reg No :" HorizontalAlignment="Left" Margin="202,18,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="txtRegNo" HorizontalAlignment="Left" Height="39" Margin="343,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24"/>
+        <Label Content="Date:" HorizontalAlignment="Left" Margin="202,189,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84" Width="90"/>
+        <DatePicker x:Name="RegistrationDate" HorizontalAlignment="Left" Margin="343,193,0,0" VerticalAlignment="Top" Height="36" Width="183">
+            <DatePicker.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                    <GradientStop Color="#FFA3AEB9" Offset="0"/>
+                    <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                    <GradientStop Color="#FF718597" Offset="0.375"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </DatePicker.BorderBrush>
+        </DatePicker>
+        <Label Content="Program:" HorizontalAlignment="Left" Margin="202,273,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84" Width="99"/>
+        <ComboBox x:Name="cbCourseEnroll" HorizontalAlignment="Left" Margin="343,271,0,0" VerticalAlignment="Top" Width="198" Height="39" FontSize="15">
+            <ComboBoxItem Content="Computing" HorizontalAlignment="Left" Width="180.4"/>
+            <ComboBoxItem Content="Multimedia Technologies" HorizontalAlignment="Left" Width="180.4"/>
+            <ComboBoxItem Content="Networks and IT Security" HorizontalAlignment="Left" Width="180.4"/>
+        </ComboBox>
+        <Button Content="Sort By Date" HorizontalAlignment="Left" Margin="307,348,0,0" VerticalAlignment="Top" Width="134" Height="32" FontSize="20" Click="SortDate_Click" />
+        <Button Content="Sort By Name" HorizontalAlignment="Left" Margin="471,348,0,0" VerticalAlignment="Top" Width="134" Height="32" FontSize="20" Click="SortName_Click" />
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="74,437,0,0" VerticalAlignment="Top" Width="103" Height="42" FontSize="24" />
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="630,348,0,0" VerticalAlignment="Top" Width="134" Height="32" FontSize="20" Click="Delete_Click" />
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="202,236,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="0.534,1.84" Width="99"/>
+        <TextBox x:Name="txtemail" HorizontalAlignment="Left" Height="34" Margin="343,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" FontSize="24" />
+
+
+    </Grid>
+</Window>

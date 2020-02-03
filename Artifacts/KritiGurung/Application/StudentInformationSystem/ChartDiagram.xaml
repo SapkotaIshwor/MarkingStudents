@@ -1,0 +1,32 @@
+﻿<Window x:Class="StudentInformationSystem.ChartDiagram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"       
+        mc:Ignorable="d"
+        Title="Pie Chart Diagram Page"
+        Height="500" Width="630"
+        Background="Cornsilk">
+
+    <Grid>
+        <Button  HorizontalAlignment="Left" Margin="27,10,0,0" VerticalAlignment="Top" Width="30" Height="20" Click="Button_Click" RenderTransformOrigin="0.7,-0.667">
+            <Button.Background>
+                <ImageBrush ImageSource="home-icon.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+        <Label Content="BAR CHART DIAGRAM"  FontWeight="ExtraBlack"  FontFamily="Copperplate Gothic" FontSize="15.7" Padding="10"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="161,10,143,0" Width="318" Height="36" />
+        <Label Content="Note: Hover to see the total numbers of students."   FontSize="14"   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="27,59,277,0" Width="318" Height="36" />
+
+
+        <DVC:Chart Margin="27,100,10,20">
+            <DVC:PieSeries x:Name="display_pie_chart" IndependentValueBinding ="{Binding Path=Key}"
+                           DependentValueBinding="{Binding Path=Value}" Margin="44,10,39,10">
+            </DVC:PieSeries>
+        </DVC:Chart>
+    </Grid>
+
+
+
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="StudentInformationSystem.ImportCsv"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="ImportCsv" Height="400" Width="800">
+    <Grid Background="AliceBlue">
+        <DataGrid x:Name="grdDataImport" HorizontalAlignment="Left" Height="210" Margin="94,88,0,0" VerticalAlignment="Top" Width="590" ItemsSource="{Binding}" AutoGenerateColumns="True"/>
+        <TextBox x:Name="txt_ImportPth" HorizontalAlignment="Left" Height="23" Margin="266,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="233"/>
+        <Button Content="Import" HorizontalAlignment="Left" Margin="546,32,0,0" VerticalAlignment="Top" Width="75" Click="Button_Csv"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="675,32,0,0" VerticalAlignment="Top" Width="75" Click="Btn_Back3"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Class="StudentInformationSystem.Sorting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="Sorting" Height="400" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFC3EBFF">
+        <Button Content="Sort Data by Name" HorizontalAlignment="Left" Margin="197,36,0,0" VerticalAlignment="Top" Width="212" FontFamily="Arial" FontSize="20" Click="BtnIName" FontWeight="Bold" Height="40" Background="#FF8AC0DB"/>
+        <Button Content="Retrieve Data" HorizontalAlignment="Left" Margin="24,36,0,0" VerticalAlignment="Top" Width="133" FontFamily="Arial" FontSize="20" Click="BtnRdata" FontWeight="Bold" Height="40" Background="#FF8AC0DB"/>
+        <Button Content="Sort Data By Registration Date" HorizontalAlignment="Left" Margin="448,36,0,0" VerticalAlignment="Top" Width="323" FontFamily="Arial" FontSize="20" Click="BtnIRDate" FontWeight="Bold" Height="40" Background="#FF8AC0DB"/>
+        <DataGrid x:Name="DataGridSorting" HorizontalAlignment="Left" Height="275" Margin="24,81,0,0" VerticalAlignment="Top" Width="747" FontFamily="Arial" FontSize="15" Background="#FF94DAFC"/>
+
+    </Grid>
+</Window>

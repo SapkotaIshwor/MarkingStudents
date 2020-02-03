@@ -1,0 +1,57 @@
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System.csprojAssemblyReference.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\MainWindow.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\App.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System_MarkupCompile.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System_MarkupCompile.lref
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\MainWindow.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System.g.resources
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\StudentInfo.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\StudentInfo.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\StudentReport.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\Student Information System\Student Information System\obj\Debug\StudentReport.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Student Information System.exe.config
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Student Information System.exe
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Student Information System.pdb
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.csprojAssemblyReference.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Chart.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\MainWindow.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\StudentInfo.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\StudentReport.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\App.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System_MarkupCompile.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System_MarkupCompile.lref
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Chart.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\MainWindow.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\StudentInfo.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\StudentReport.baml
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.g.resources
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.exe
+D:\Study Materials\Study Materials Year 3\1st Semester\Application Development\Coursework\github\course-work-1-niruta1\Student Information System\obj\Debug\Student Information System.pdb

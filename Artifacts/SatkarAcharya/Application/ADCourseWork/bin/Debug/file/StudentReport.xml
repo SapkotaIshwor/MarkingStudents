@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <StudentReport>
+    <ID>1001</ID>
+    <RegNo>1</RegNo>
+    <Name>satkar</Name>
+    <Address>bagmara</Address>
+    <ContactNo>9845125122</ContactNo>
+    <Gender>Male</Gender>
+    <CourseEnroll>BBS</CourseEnroll>
+    <RegistrationDate>Friday, January 10, 2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>1002</ID>
+    <RegNo>2</RegNo>
+    <Name>pratik</Name>
+    <Address>lekhnath</Address>
+    <ContactNo>9874320</ContactNo>
+    <Gender>Male</Gender>
+    <CourseEnroll>BEIT</CourseEnroll>
+    <RegistrationDate>Thursday, January 9, 2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>1003</ID>
+    <RegNo>3</RegNo>
+    <Name>mira</Name>
+    <Address>lamjung</Address>
+    <ContactNo>98712102</ContactNo>
+    <Gender>Female</Gender>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>Friday, January 10, 2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>1004</ID>
+    <RegNo>4</RegNo>
+    <Name>ram</Name>
+    <Address>kathmandu</Address>
+    <ContactNo>8753212</ContactNo>
+    <Gender>Male</Gender>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>Wednesday, January 1, 2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>1005</ID>
+    <RegNo>5</RegNo>
+    <Name>prabesh</Name>
+    <Address>pokhara</Address>
+    <ContactNo>98745632</ContactNo>
+    <Gender>Male</Gender>
+    <CourseEnroll>BBS</CourseEnroll>
+    <RegistrationDate>Sunday, January 5, 2020</RegistrationDate>
+  </StudentReport>
+</NewDataSet>

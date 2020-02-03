@@ -1,0 +1,18 @@
+﻿<Window x:Class="CourseworkAppDevelopment.Import"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseworkAppDevelopment"
+        mc:Ignorable="d"
+        Title="Import" Height="450" Width="800">
+    <Grid>
+        <Rectangle Fill="#FF6CA57B" HorizontalAlignment="Left" Height="420" Margin="0,0,-0.4,0" Stroke="Black" VerticalAlignment="Top" Width="794"/>
+        <TextBox x:Name="txtImportBox" HorizontalAlignment="Left" Height="50" Margin="425,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305"/>
+        <Label Content="Import Student Record" HorizontalAlignment="Left" Margin="180,50,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="38"/>
+        <Button x:Name="btnImportBack" Content="Back" HorizontalAlignment="Left" Margin="60,340,0,0" VerticalAlignment="Top" Width="125" Height="40" Click="btnImportBack_Click" FontSize="20" FontFamily="Arial"/>
+        <Button x:Name="btnImport" Content="Import" HorizontalAlignment="Left" Margin="425,270,0,0" VerticalAlignment="Top" Width="135" Click="btnImport_Click" Height="40" FontFamily="Arial" FontSize="20"/>
+        <Label Content="Locate .CSV file from Computer :" HorizontalAlignment="Left" Margin="60,185,0,0" VerticalAlignment="Top" Width="315" FontFamily="Arial" FontSize="20"/>
+        <Label x:Name="msgImport" Content="File Successfully Imported...." HorizontalAlignment="Left" Margin="105,270,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="20" Foreground="#FF003AFF" Visibility="Hidden"/>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="ApplicationDevelopmentCW.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationDevelopmentCW"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+        Title="Chart Window" Height="450" Width="800">
+    <Grid>
+        <DVC:Chart>
+            <DVC:Chart.Background>
+                <ImageBrush ImageSource="Image/backgroundimg.png"/>
+            </DVC:Chart.Background>
+            <DVC:ColumnSeries x:Name="chartEnroll" Title="Students Enrolled" IndependentValueBinding="{Binding Path=Key}"    
+                DependentValueBinding="{Binding Path=Value}"></DVC:ColumnSeries>
+        </DVC:Chart>
+    </Grid>
+</Window>

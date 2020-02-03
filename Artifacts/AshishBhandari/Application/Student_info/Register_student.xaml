@@ -1,0 +1,97 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_info"
+        xmlns:system1="clr-namespace:System;assembly=mscorlib" x:Class="Student_info.Register_student"
+        mc:Ignorable="d"
+        Title="Register_student" Height="700" Width="900.5" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-8,0">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF78D1E4" Offset="0"/>
+                <GradientStop Color="#FFDFF9FF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Button Content="Register" HorizontalAlignment="Left" Margin="689,558,0,0" VerticalAlignment="Top" Width="105" 
+                Click="register_btn" BorderThickness="0" Padding="8" FontSize="18" FontWeight="Bold" Height="44" Foreground="White" Background="#FF6FDE4E"/>
+
+        <Label Content="*Content below are not manadatory" HorizontalAlignment="Left" Margin="235,417,0,0" VerticalAlignment="Top" Height="34" Width="326" Foreground="Red" FontWeight="Bold" FontStyle="Italic"/>
+
+        <TextBox x:Name="student_id" HorizontalAlignment="Left" Height="23" Margin="185,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="198" BorderThickness="0"  FontSize="15" TextChanged="student_id_TextChanged"/>
+        <Label Content="Id Number:" HorizontalAlignment="Left" Margin="55,141,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+
+        <Label Content="&#x9;&#x9;                   New Student Registration Form" Padding="5"  HorizontalAlignment="Left" VerticalAlignment="Top" 
+            Width="900" Height="45"  FontFamily="Yu Gothic UI Semibold" FontSize="22" Foreground="#FFFFFBFB" FontWeight="Bold" Background="#FFE87C4A"  />
+        <TextBox x:Name="first_name" HorizontalAlignment="Left" Height="23" Margin="185,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="198" BorderThickness="0" FontSize="15" TextChanged="first_name_TextChanged" />
+        <Label Content="First Name:" HorizontalAlignment="Left" Margin="55,94,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+
+        <TextBox x:Name="last_name" HorizontalAlignment="Left" Height="23" Margin="619,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="193" BorderThickness="0"  FontSize="15" TextChanged="last_name_TextChanged"/>
+
+        <Label Content="Last Name:" HorizontalAlignment="Left" Margin="456,93,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Select Department:" HorizontalAlignment="Left" Margin="456,140,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Select Faculty:" HorizontalAlignment="Left" Margin="55,187,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Select Program:" HorizontalAlignment="Left" Margin="456,186,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Email Address" HorizontalAlignment="Left" Margin="456,234,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+
+        <TextBox x:Name="mail_id" HorizontalAlignment="Left" Height="23" Margin="619,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="193" BorderThickness="0"  FontSize="15" />
+        <TextBox x:Name="phone" HorizontalAlignment="Left" Height="23" Margin="185,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="144" BorderThickness="0" FontSize="15" TextChanged="phone_TextChanged"   />
+        <Label Content="Contact Number:" HorizontalAlignment="Left" Margin="55,235,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Gender:" HorizontalAlignment="Left" Margin="55,345,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <TextBox x:Name="religion" HorizontalAlignment="Left" Height="23" Margin="185,456,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="203" BorderThickness="0" FontSize="15" />
+        <Label Content="Religion:" HorizontalAlignment="Left" Margin="55,451,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <Label Content="Marital Status:" HorizontalAlignment="Left" Margin="55,500,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+
+        <Label Content="Nationality:" HorizontalAlignment="Left" Margin="456,446,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <TextBox x:Name="nationality" HorizontalAlignment="Left" Height="23" Margin="619,451,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="144" BorderThickness="0" FontSize="15" />
+
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="551,556,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="0.439,3.175" 
+            Click="clear_btn" BorderThickness="0" Padding="8" FontSize="18" FontWeight="Bold" Height="44" Foreground="#FFF9F9F9" Background="#FF30E6DE"/>
+
+        <Button Content="Back" HorizontalAlignment="Left" Margin="55,556,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.439,3.175" 
+            Click="cancel_btn" BorderThickness="0" Padding="8" FontSize="18" FontWeight="Bold" Height="44" Foreground="White" Background="#FF3691EC"/>
+
+        <ComboBox x:Name="departmentBox" HorizontalAlignment="Left" Margin="619,147,0,0" VerticalAlignment="Top" Width="144" Height="23" SelectionChanged="departmentBox_SelectionChanged">
+            <system1:String>Education</system1:String>
+            <system1:String>Management</system1:String>
+            <system1:String>IT</system1:String>
+        </ComboBox>
+
+        <ComboBox x:Name="facultyBox" HorizontalAlignment="Left" Margin="185,194,0,0" VerticalAlignment="Top" Width="144" Height="23" SelectionChanged="FacultyBox_SelectionChanged">
+            <system1:String>Select Department first</system1:String>
+        </ComboBox>
+
+        <TextBox x:Name="tmp_address" HorizontalAlignment="Left" Height="23" Margin="185,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="198" BorderThickness="0" FontSize="15"  />
+        <Label Content="current Address" HorizontalAlignment="Left" Margin="55,281,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+        <TextBox x:Name="permanent_address" HorizontalAlignment="Left" Height="23" Margin="619,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+            Width="193" BorderThickness="0" FontSize="15" />
+        <Label Content="Permanent Address" HorizontalAlignment="Left" Margin="456,280,0,0" VerticalAlignment="Top" FontSize="17" Background="Transparent"/>
+
+        <ComboBox x:Name="programBox" HorizontalAlignment="Left" Margin="619,192,0,0" VerticalAlignment="Top" Width="144" Height="23" >
+            <system1:String>Select Faculty first</system1:String>
+        </ComboBox>
+        <ComboBox x:Name="marritalStatus" HorizontalAlignment="Left" Margin="185,508,0,0" VerticalAlignment="Top" Width="144" Height="23">
+            <system1:String>Unmarried</system1:String>
+            <system1:String>Married</system1:String>
+            <system1:String>Divorced</system1:String>
+            <system1:String>Widow</system1:String>
+        </ComboBox>
+
+        <Button x:Name="faculty_load"  Padding="2" Content="Load" BorderThickness="0" HorizontalAlignment="Left" Margin="341,195,0,0" VerticalAlignment="Top" Width="42" Background="#FF4FC319" Click="faculty_load_Click" FontWeight="Bold" Foreground="White"/>
+        <Button x:Name="program_btn"  Padding="2" Content="Load" BorderThickness="0" HorizontalAlignment="Left" Margin="770,194,0,0" VerticalAlignment="Top" Width="42" Background="#FF60E025" Click="program_load_Click" FontWeight="Bold" Foreground="White"/>
+        <RadioButton x:Name="maleRdb" Content="Male" HorizontalAlignment="Left" FontSize="16" GroupName="genderGrp" Margin="186,352,0,0" VerticalAlignment="Top" Checked="maleRdb_Checked" />
+        <RadioButton x:Name="femaleRdb" Content="Female" HorizontalAlignment="Left" FontSize="16" GroupName="genderGrp" Margin="260,354,0,0" VerticalAlignment="Top" Checked="femaleRdb_Checked"/>
+        <RadioButton x:Name="otherRdb" Content="Other" HorizontalAlignment="Left" FontSize="16" GroupName="genderGrp" Margin="356,354,0,0" VerticalAlignment="Top" Checked="otherRdb_Checked"/>
+
+    </Grid>
+</Window>

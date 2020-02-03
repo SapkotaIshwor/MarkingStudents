@@ -1,0 +1,54 @@
+﻿<Window x:Class="Student_Management.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Management"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF60FD51" Offset="0"/>
+                <GradientStop Color="#FFDDFFD9" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border BorderBrush="Black" CornerRadius="15" BorderThickness="0" HorizontalAlignment="Left" Height="333" Margin="270,51,0,0" VerticalAlignment="Top" Width="265" Background="White">
+            <Label Content="Password" HorizontalAlignment="Center" Margin="21,169,19,0" VerticalAlignment="Top" Height="37" Width="225" Foreground="#FF394038" FontSize="18" FontFamily="Comic Sans MS" FontWeight="Bold"/>
+
+        </Border>
+
+        <Button Content="Login" BorderThickness="0" FontSize="18" Padding="1" HorizontalAlignment="Left" Margin="413,332,0,0" VerticalAlignment="Top" Width="99" RenderTransformOrigin="0.348,0.809" Background="#FF209525" Height="39" Foreground="#FFFDF7F7" FontWeight="Bold" Click="Button_Click"/>
+        <TextBox x:Name="usernameBox" HorizontalAlignment="Left" 
+                 Padding="5" FontSize="18" Height="39" Margin="291,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="225" Panel.ZIndex="1" RenderTransformOrigin="0.5,0.5" FontFamily="Comic Sans MS" FontWeight="Bold" Foreground="#FF443636">
+
+
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC0F9F1" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <CheckBox Content="Show" HorizontalAlignment="Left" Margin="291,302,0,0" VerticalAlignment="Top" Height="30" Width="133" FontWeight="Bold"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" 
+            Padding="5" FontSize="18" Height="39" Margin="291,251,0,0"  VerticalAlignment="Top" Width="225" Panel.ZIndex="1" RenderTransformOrigin="0.5,0.5" FontFamily="Comic Sans MS" FontWeight="Bold" TextOptions.TextFormattingMode="Display" TextOptions.TextHintingMode="Animated">
+            <PasswordBox.Effect>
+                <BlurEffect/>
+            </PasswordBox.Effect>
+
+
+            <PasswordBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC0F9F1" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </PasswordBox.Background>
+        </PasswordBox>
+        <Label Content="         Login Here" HorizontalAlignment="Center" Margin="291,69,76,0" VerticalAlignment="Top" Height="37" Width="225" FontWeight="Bold" FontStyle="Italic" Foreground="#FF118000" FontSize="22"/>
+        <Label Content="Username" HorizontalAlignment="Center" Margin="291,135,76,0" VerticalAlignment="Top" Height="37" Width="225" Foreground="#FF394038" FontSize="18" FontFamily="Comic Sans MS" FontWeight="Bold"/>
+        <Button Content="Exit" BorderThickness="0" FontSize="18" Padding="1" HorizontalAlignment="Left" Margin="291,332,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.348,0.809" Background="#FFE23A1F" Height="39" Foreground="#FFFDF7F7" FontWeight="Bold" Click="Exit_Click"/>
+        <Image Margin="10,135,301,92" Source="login.png" Stretch="Fill"/>
+
+    </Grid>
+</Window>

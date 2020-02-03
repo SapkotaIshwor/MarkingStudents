@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Student_Management
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string username = usernameBox.Text;
+            string password = passwordBox.Password;
+
+            if (username == "")
+            {
+                MessageBox.Show("Empty username! Invalid");
+            }
+            else if (password == "")
+            {
+                MessageBox.Show("Empty password! Invalid");
+            }
+            else if (password == "y" && username == "y")
+            {
+                this.Hide();
+                baseWndo basewndo  = new baseWndo();
+                basewndo.Show();
+            }
+
+            else
+            {
+                MessageBox.Show("Incorrect username and password!");
+            }
+
+        }
+
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Window is being exited");
+            this.Close();
+        }
+    }
+}

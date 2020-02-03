@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Student>
+    <ID>1</ID>
+    <Name>Pratik</Name>
+    <Address>Lamichhane</Address>
+    <ContactNo>9819149349</ContactNo>
+    <Gender>Male</Gender>
+    <DOB>2020-1-1</DOB>
+    <CourseEnrol>BE_IT</CourseEnrol>
+    <RegistrationDate>2020-01-09T00:00:00+05:45</RegistrationDate>
+  </Student>
+</NewDataSet>

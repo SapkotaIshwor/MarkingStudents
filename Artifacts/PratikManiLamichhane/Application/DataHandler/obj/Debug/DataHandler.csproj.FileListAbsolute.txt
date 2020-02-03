@@ -1,0 +1,13 @@
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\bin\Debug\DataHandler.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\bin\Debug\DataHandler.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.csproj.CoreCompileInputs.cache
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.pdb
+E:\Intern\New folder\AppDevelopmentCW\DataHandler\bin\Debug\DataHandler.dll
+E:\Intern\New folder\AppDevelopmentCW\DataHandler\bin\Debug\DataHandler.pdb
+E:\Intern\New folder\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.csproj.CoreCompileInputs.cache
+E:\Intern\New folder\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.dll
+E:\Intern\New folder\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.pdb
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\bin\Debug\WPFtoolkitFramework.dll
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.csproj.CopyComplete
+E:\BIT\Year 3\Application Development\CourseWork\Git\course-work-1-Pratik-Mani-Lamichhane\AppDevelopmentCW\DataHandler\obj\Debug\DataHandler.csprojAssemblyReference.cache

@@ -1,0 +1,40 @@
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.exe.config
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.exe
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\bin\Debug\Coursework.pdb
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\MainWindow.baml
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\App.g.cs
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.g.resources
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.exe
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\Coursework.pdb
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\StudentForm.baml
+c:\users\ashim\documents\visual studio 2013\Projects\Coursework\Coursework\obj\Debug\StudentForm.g.cs
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\Coursework.exe.config
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.exe
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.pdb
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\MainWindow.baml
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\StudentForm.baml
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\MainWindow.g.cs
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\StudentForm.g.cs
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\App.g.cs
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.g.resources
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\Coursework.exe
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\Coursework.pdb
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\Datahandler.dll
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\Datahandler.pdb
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Weekreport.baml
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Weekreport.g.cs
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\WPFToolkit.dll
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\Git\course-work-1-Rikagrg\Coursework\bin\Debug\WPFToolkit.pdb
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Chart.baml
+E:\Git\course-work-1-Rikagrg\Coursework\obj\Debug\Chart.g.cs

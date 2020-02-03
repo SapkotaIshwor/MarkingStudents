@@ -1,0 +1,25 @@
+﻿<Window x:Class="StudentInformationSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" Height="430.168" Width="399.644">
+    <Grid Background="#FFFFC500">
+        <StackPanel HorizontalAlignment="Left" Height="53" Margin="10,42,0,0" VerticalAlignment="Top" Width="372">
+            <Label Content="  LOGIN ACCOUNT" FontSize="36" FontFamily="Arial" FontWeight="Bold" Margin="0,0,10,0" HorizontalAlignment="Right" Width="362"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="148" Margin="0,147,0,0" VerticalAlignment="Top" Width="131">
+            <Label x:Name="txtusername" Content="UserName:" Margin="10,20,10,10" FontFamily="Arial" FontSize="20" Height="40"/>
+            <Label x:Name="txtpassword" Content="Password:" Margin="10,20,10,10" FontFamily="Arial" FontSize="20"  Height="40"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="148" Margin="136,147,0,0" VerticalAlignment="Top" Width="246">
+            <TextBox x:Name="editusername" Height="40" Margin="10,20,10,10" TextWrapping="Wrap" FontFamily="Arial" FontSize="20"  />
+            <PasswordBox x:Name="editpassword"  Height="40" Margin="10,20,10,10" FontFamily="Arial" FontSize="20"/>
+        </StackPanel>
+        <Button x:Name="btnsave" Content="Login" HorizontalAlignment="Left" Margin="22,334,0,0" VerticalAlignment="Top" Width="120" Height="46" FontFamily="Arial" FontSize="22" Background="#FF64E634" Click="btnsave_Click"/>
+        <Button x:Name="btnexit" Content="Exit" HorizontalAlignment="Left" Margin="233,334,0,0" VerticalAlignment="Top" Width="120" Height="46" Background="#FFF92323" FontFamily="Arial" FontSize="22" Click="btnexit_Click"/>
+
+    </Grid>
+</Window>

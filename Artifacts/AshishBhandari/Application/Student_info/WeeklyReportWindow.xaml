@@ -1,0 +1,55 @@
+﻿<Window x:Class="Student_info.WeeklyReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_info"
+        mc:Ignorable="d"
+          Title="Report" Height="700" Width="900" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF63C0D4" Offset="0"/>
+                <GradientStop Color="#FFD5F1F7" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="backBtn"  Content="Back" FontSize="18" HorizontalAlignment="Left" Margin="736,607,0,0" VerticalAlignment="Top" Width="120" BorderThickness="0" Height="44" Background="#FF3A9AFB" Click="back_btn" Foreground="White" FontWeight="Bold" RenderTransformOrigin="0.592,2.929">
+
+        </Button>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="148" Margin="41,128,0,0" VerticalAlignment="Top" Width="819" Background="#FFFBFBFB"/>
+        <Label Content="Student Registered Department" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="41,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="Student Registered Faculty" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="41,303,0,0" VerticalAlignment="Top"/>
+        <Label Content="IT Department" FontSize="16" HorizontalAlignment="Left" Margin="54,160,0,0" VerticalAlignment="Top" Width="158"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="125" Margin="432,148,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+
+        </Border>
+        <Label Content="Management Department" FontSize="16" HorizontalAlignment="Left" Margin="54,191,0,0" VerticalAlignment="Top" Width="198"/>
+        <Label Content="Education Department" FontSize="16" HorizontalAlignment="Left" Margin="54,227,0,0" VerticalAlignment="Top" Width="182"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="32" Margin="41,128,0,0" Stroke="Black" VerticalAlignment="Top" Width="819"/>
+        <Label Content="Department Name" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="54,129,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="Total Number Of Student Registered" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="438,128,0,0" VerticalAlignment="Top" Width="320"/>
+
+        <Label x:Name="itDepartLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,164,0,0" VerticalAlignment="Top" Width="158"/>
+
+        <Label x:Name="mgtDepartLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,195,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="eduDepartLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="438,227,0,0" VerticalAlignment="Top" Width="158"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="249" Margin="35,347,0,0" VerticalAlignment="Top" Width="819" Background="#FFFBFBFB"/>
+        <Label Content="BIT" FontSize="16" HorizontalAlignment="Left" Margin="48,379,0,0" VerticalAlignment="Top" Width="158"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="229" Margin="426,367,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="CSIT" FontSize="16" HorizontalAlignment="Left" Margin="48,410,0,0" VerticalAlignment="Top" Width="198"/>
+        <Label Content="Literature" FontSize="16" HorizontalAlignment="Left" Margin="48,446,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Content="Teaching" FontSize="16" HorizontalAlignment="Left" Margin="48,477,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Content="BBA" FontSize="16" HorizontalAlignment="Left" Margin="48,508,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Content="BBS" FontSize="16" HorizontalAlignment="Left" Margin="48,539,0,0" VerticalAlignment="Top" Width="182"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="32" Margin="35,347,0,0" Stroke="Black" VerticalAlignment="Top" Width="819"/>
+        <Label Content="Faculty Name" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="48,348,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="Total Number Of Student Registered" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="432,347,0,0" VerticalAlignment="Top" Width="320"/>
+        <Label x:Name="bitLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,383,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="CSITLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,414,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="literatureLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,446,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="teachingLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,477,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="bbaLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,508,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="bbsLbl" Content="" FontSize="16" HorizontalAlignment="Left" Margin="432,539,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="                                                           Weekly Student Report" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Height="49" Width="894" Foreground="White" Background="#FF3EB6BB"/>
+    </Grid>
+</Window>
