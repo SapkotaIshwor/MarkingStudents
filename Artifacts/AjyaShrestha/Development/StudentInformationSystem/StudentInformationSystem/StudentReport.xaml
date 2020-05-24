@@ -1,0 +1,22 @@
+﻿<Window x:Class="StudentInformationSystem.StudentReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInformationSystem"
+        mc:Ignorable="d"
+        Title="StudentReport" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="34*"/>
+        </Grid.RowDefinitions>
+        <DataGrid Name="DataGridReport" HorizontalAlignment="Left" Height="400" Margin="0,10,0,0" VerticalAlignment="Top" Width="595" Grid.RowSpan="2" ItemsSource="{Binding}"/>
+        <Button x:Name="btn_retrive" Content="Retrieve" HorizontalAlignment="Left" Margin="675,44,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Click="btn_retrive_Click" Height="30"/>
+        <Button x:Name="btn_sortbydate" Content="Sort by Date" HorizontalAlignment="Left" Margin="675,167,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Click="btn_sortbydate_Click" Height="30"/>
+        <Button x:Name="btn_sortbyname" Content="Sort by Name" HorizontalAlignment="Left" Margin="675,352,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Click="btn_sortbyname_Click" Height="32"/>
+        <Button x:Name="btn_weeklyreport" Content="Weekly Report" HorizontalAlignment="Left" Margin="675,105,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Height="29" Click="btn_weeklyreport_Click"/>
+        <Button x:Name="btn_chart" Content="View Chart" HorizontalAlignment="Left" Margin="675,231,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Height="30" Click="btn_chart_Click"/>
+        <Button x:Name="btn_Csv" Content="Import CSV" HorizontalAlignment="Left" Margin="675,294,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Height="28" Click="btn_Csv_Click"/>
+    </Grid>
+</Window>

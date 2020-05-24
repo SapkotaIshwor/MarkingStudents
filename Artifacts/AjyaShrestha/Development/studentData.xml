@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <StudentInfo>
+    <ID>5</ID>
+    <Name>Ishwor Sapkota</Name>
+    <Address>Kathmandu, Nepal</Address>
+    <Phone>9805832714</Phone>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2019-08-02T00:00:00+05:45</RegistrationDate>
+  </StudentInfo>
+  <StudentInfo>
+    <ID>3</ID>
+    <Name>Bhawana Shrestha</Name>
+    <Address>Dulegaunda, Mugling</Address>
+    <Phone>9804174265</Phone>
+    <CourseEnroll>Multimedia</CourseEnroll>
+    <RegistrationDate>2019-11-02T00:00:00+05:45</RegistrationDate>
+  </StudentInfo>
+  <StudentInfo>
+    <ID>2</ID>
+    <Name>Namuna Shrestha</Name>
+    <Address>Dulegaunda-100</Address>
+    <Phone>9804174232</Phone>
+    <CourseEnroll>Networking</CourseEnroll>
+    <RegistrationDate>2019-11-07T00:00:00+05:45</RegistrationDate>
+  </StudentInfo>
+  <StudentInfo>
+    <ID>1</ID>
+    <Name>Ajay Shrestha</Name>
+    <Address>Fulbari-12, Pkr</Address>
+    <Phone>9806549082</Phone>
+    <CourseEnroll>Computing</CourseEnroll>
+    <RegistrationDate>2019-04-04T00:00:00+05:45</RegistrationDate>
+  </StudentInfo>
+  <StudentInfo>
+    <ID>4</ID>
+    <Name>Prajal</Name>
+    <Address>Trademall</Address>
+    <Phone>986548945</Phone>
+    <CourseEnroll>Multimedia</CourseEnroll>
+    <RegistrationDate>12/1/2019</RegistrationDate>
+  </StudentInfo>
+</NewDataSet>

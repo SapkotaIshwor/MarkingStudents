@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInformationSystem", "StudentInformationSystem\StudentInformationSystem.csproj", "{9C2F5AF1-1D33-443F-BF33-8C26213A47CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handler", "WpfApp1\Handler.csproj", "{465F57F0-CF70-4FCF-8AC3-F8E8982058CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2F5AF1-1D33-443F-BF33-8C26213A47CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2F5AF1-1D33-443F-BF33-8C26213A47CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2F5AF1-1D33-443F-BF33-8C26213A47CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2F5AF1-1D33-443F-BF33-8C26213A47CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465F57F0-CF70-4FCF-8AC3-F8E8982058CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465F57F0-CF70-4FCF-8AC3-F8E8982058CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465F57F0-CF70-4FCF-8AC3-F8E8982058CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465F57F0-CF70-4FCF-8AC3-F8E8982058CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896A118A-B80F-4367-BA0E-A7E3A10C0002}
+	EndGlobalSection
+EndGlobal
