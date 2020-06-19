@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPLICATION DEVELOPMENT", "APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT.csproj", "{B10C892A-A939-489D-95F9-FDEB1ABBE855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datahandler", "Datahandler\Datahandler.csproj", "{D237C170-9429-4D72-9C48-06760018AC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10C892A-A939-489D-95F9-FDEB1ABBE855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10C892A-A939-489D-95F9-FDEB1ABBE855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10C892A-A939-489D-95F9-FDEB1ABBE855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10C892A-A939-489D-95F9-FDEB1ABBE855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D237C170-9429-4D72-9C48-06760018AC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D237C170-9429-4D72-9C48-06760018AC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D237C170-9429-4D72-9C48-06760018AC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D237C170-9429-4D72-9C48-06760018AC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D62DCE4-BF9C-4EC4-995A-EF0A4840CE57}
+	EndGlobalSection
+EndGlobal

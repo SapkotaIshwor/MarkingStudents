@@ -1,0 +1,23 @@
+﻿<Window x:Class="APPLICATION_DEVELOPMENT.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APPLICATION_DEVELOPMENT"
+        mc:Ignorable="d"
+        Title="Login" Height="499.5" Width="752">
+    <Grid Margin="0,0,2,1">
+        <Grid.Background>
+            <ImageBrush ImageSource="IMAGES/nature.png"/>
+        </Grid.Background>
+        <Button x:Name="Submit_Button" Content="Submit" HorizontalAlignment="Left" Margin="273,360,0,0" VerticalAlignment="Top" Width="102" Click="Button_Click" Height="42" FontSize="24" BorderBrush="Black" FontFamily="Algerian" RenderTransformOrigin="0.46,0.774" Background="#FFCFE8F0" Foreground="#FF0E0B0B"/>
+        <Label Content="Student Information System" HorizontalAlignment="Left" Margin="198,48,0,0" VerticalAlignment="Top" Height="50" Width="370" FontSize="24" OpacityMask="#FF470808" FontFamily="Algerian" RenderTransformOrigin="0.503,0.3" Background="{x:Null}" Foreground="#FF0F0F0F"/>
+        <Label x:Name="User_name" Content="Username" HorizontalAlignment="Left" Margin="90,188,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Algerian" Foreground="#FF0C0909"/>
+        <TextBox x:Name="Txt_username" HorizontalAlignment="Left" Height="42" Margin="273,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273" FontSize="24" Background="#FFB29C9B" FontFamily="Algerian" RenderTransformOrigin="0.48,-0.071"/>
+        <Label x:Name="User_name_Copy" Content="Password" HorizontalAlignment="Left" Margin="90,277,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Algerian" RenderTransformOrigin="0.735,0.442" Foreground="#FF0E0C0C"/>
+        <Button x:Name="Cancel_Button" Content="Cancel" HorizontalAlignment="Left" Margin="443,360,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click" Height="42" FontSize="24" Foreground="#FF0F0E0E" BorderBrush="Black" FontFamily="Algerian" Background="#FFB6DDF0"/>
+        <PasswordBox x:Name="Txt_Password" HorizontalAlignment="Left" Margin="273,277,0,0" VerticalAlignment="Top" Height="42" Width="273" Background="#FFB69795" FontSize="24" FontFamily="Algerian"/>
+        <Label Content=" ( hidden )" HorizontalAlignment="Left" Margin="548,277,0,0" VerticalAlignment="Top" Width="184" FontFamily="Algerian" FontSize="20" Height="42" Foreground="#FF0E0E0D"/>
+        <Label Content="(NOTE: Please keep &quot;CAPSLOCK ON &quot;while entering &quot;USERNAME &amp; PASSWORD&quot;)." HorizontalAlignment="Left" Margin="0,432,0,0" VerticalAlignment="Top" Width="742" Height="36" FontFamily="Algerian" FontSize="20" Foreground="#FF141417"/>
+    </Grid>
+</Window>

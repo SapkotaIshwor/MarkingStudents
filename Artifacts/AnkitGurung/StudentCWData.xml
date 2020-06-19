@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Course>
+    <ID>1</ID>
+    <Name>BBA</Name>
+    <DisplayText>BBA Hons</DisplayText>
+  </Course>
+  <Student>
+    <ID>1</ID>
+    <Name />
+    <Address />
+    <ContactNo />
+    <CourseEnroll>1</CourseEnroll>
+    <RegistrationDate>2020-01-04T00:00:00+05:45</RegistrationDate>
+  </Student>
+  <StudentReport>
+    <ID>1</ID>
+    <Name />
+    <Address />
+    <ContactNo />
+    <CourseEnroll>1</CourseEnroll>
+    <RegistrationDate>2020-01-04T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+</NewDataSet>

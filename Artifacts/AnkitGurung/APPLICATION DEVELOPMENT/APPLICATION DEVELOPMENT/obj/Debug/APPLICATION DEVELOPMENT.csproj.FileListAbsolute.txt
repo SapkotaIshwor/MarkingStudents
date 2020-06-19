@@ -1,0 +1,66 @@
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.exe.config
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.exe
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\Datahandler.dll
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\Datahandler.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csprojAssemblyReference.cache
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\MainWindow.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\App.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT_MarkupCompile.cache
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT_MarkupCompile.lref
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\MainWindow.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.g.resources
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION_DEVELOPMENT.Properties.Resources.resources
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csproj.GenerateResource.cache
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csproj.CopyComplete
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.exe
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RetriveWindow.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RetriveWindow.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInDate.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInDate.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInName.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInName.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\WeeklyStudentReport.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\WeeklyStudentReport.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Login.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Login.baml
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Chart Diagram.g.cs
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\WPFToolkit.dll
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\WPFToolkit.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Chart Diagram.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.exe.config
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.exe
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\APPLICATION DEVELOPMENT.pdb
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\Datahandler.dll
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\WPFToolkit.dll
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\Datahandler.pdb
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\bin\Debug\WPFToolkit.pdb
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csprojAssemblyReference.cache
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Chart Diagram.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Login.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\MainWindow.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInDate.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInName.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RetriveWindow.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\WeeklyStudentReport.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\App.g.cs
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT_MarkupCompile.cache
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT_MarkupCompile.lref
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Chart Diagram.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\Login.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\MainWindow.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInDate.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RegisterInName.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\RetriveWindow.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\WeeklyStudentReport.baml
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.g.resources
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION_DEVELOPMENT.Properties.Resources.resources
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csproj.GenerateResource.cache
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.csproj.CopyComplete
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.exe
+F:\Github Application development\gitClass\APPLICATION DEVELOPMENT\APPLICATION DEVELOPMENT\obj\Debug\APPLICATION DEVELOPMENT.pdb

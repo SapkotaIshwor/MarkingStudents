@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <StudentReport>
+    <ID>1</ID>
+    <RegisNo>501</RegisNo>
+    <Name>Pratik Gurung</Name>
+    <Address>Birauta</Address>
+    <ContactNo>9816144631</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>1/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>2</ID>
+    <RegisNo>502</RegisNo>
+    <Name>Anish Thapa</Name>
+    <Address>Birauta</Address>
+    <ContactNo>9861515343</ContactNo>
+    <CourseEnroll>B.B.S</CourseEnroll>
+    <RegistrationDate>2/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>3</ID>
+    <RegisNo>503</RegisNo>
+    <Name>Kale Gurung</Name>
+    <Address>Gharipatan</Address>
+    <ContactNo>9845412532</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>3/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>4</ID>
+    <RegisNo>504</RegisNo>
+    <Name>Piyush Gurung</Name>
+    <Address>Mahendra pool</Address>
+    <ContactNo>980245342</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>4/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>5</ID>
+    <RegisNo>505</RegisNo>
+    <Name>Clara Gurung</Name>
+    <Address>NavinTole</Address>
+    <ContactNo>9876216362</ContactNo>
+    <CourseEnroll>B.B.S</CourseEnroll>
+    <RegistrationDate>2020-01-07T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>6</ID>
+    <RegisNo>506</RegisNo>
+    <Name>Pratik Thapa</Name>
+    <Address>Lekhnath</Address>
+    <ContactNo>9874234338</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>2020-01-07T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>7</ID>
+    <RegisNo>507</RegisNo>
+    <Name>Pratik Mani</Name>
+    <Address>Lekhnath</Address>
+    <ContactNo>9876545644</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>2020-01-07T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>8</ID>
+    <RegisNo>508</RegisNo>
+    <Name>Suman Gurung</Name>
+    <Address>HimaliTole</Address>
+    <ContactNo>9872637528</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>2020-07-01T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>9</ID>
+    <RegisNo>509</RegisNo>
+    <Name>Ishwor Sapkota</Name>
+    <Address>Lekhnath</Address>
+    <ContactNo>98271672767</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>2020-08-01T00:00:00+05:45</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>10</ID>
+    <RegisNo>510</RegisNo>
+    <Name>TARA GURUNG</Name>
+    <Address>POWER HOUSE</Address>
+    <ContactNo>9815138550</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>01/10/2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>11</ID>
+    <RegisNo>511</RegisNo>
+    <Name>TANUJA GRG</Name>
+    <Address>AMARSINGH</Address>
+    <ContactNo>9816114631</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>01/10/2020</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>12</ID>
+    <RegisNo>512</RegisNo>
+    <Name>Sumit Gurung</Name>
+    <Address>Birauta</Address>
+    <ContactNo>9816144631</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>1/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>13</ID>
+    <RegisNo>513</RegisNo>
+    <Name>Hanuman Thapa</Name>
+    <Address>Birauta</Address>
+    <ContactNo>9861515343</ContactNo>
+    <CourseEnroll>B.B.S</CourseEnroll>
+    <RegistrationDate>2/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>14</ID>
+    <RegisNo>514</RegisNo>
+    <Name>Kamli Gurung</Name>
+    <Address>Gharipatan</Address>
+    <ContactNo>9845412532</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>3/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>15</ID>
+    <RegisNo>515</RegisNo>
+    <Name>Karma Gurung</Name>
+    <Address>Mahendra pool</Address>
+    <ContactNo>980245342</ContactNo>
+    <CourseEnroll>BE.IT</CourseEnroll>
+    <RegistrationDate>4/1/2020 5:55:00 AM</RegistrationDate>
+  </StudentReport>
+  <StudentReport>
+    <ID>16</ID>
+    <RegisNo>515</RegisNo>
+    <Name>SANTOSH GRG</Name>
+    <Address>BIRAUTA</Address>
+    <ContactNo>9887654433</ContactNo>
+    <CourseEnroll>BBA</CourseEnroll>
+    <RegistrationDate>01/08/2020</RegistrationDate>
+  </StudentReport>
+</NewDataSet>

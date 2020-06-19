@@ -1,0 +1,103 @@
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe.config
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.g.cs
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.cache
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.lref
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.baml
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.g.resources
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.Properties.Resources.resources
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.exe
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\Dell\source\repos\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csprojAssemblyReference.cache
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe.config
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csprojAssemblyReference.cache
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.g.cs
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.g.cs
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\App.g.cs
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.cache
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.lref
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.baml
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.baml
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.g.resources
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.Properties.Resources.resources
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.GenerateResource.cache
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.exe
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.g.cs
+C:\Users\nirak\Downloads\ApplicationDevelopmentCW\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.baml
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe.config
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csprojAssemblyReference.cache
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.g.cs
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.g.cs
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.g.cs
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\App.g.cs
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.cache
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.lref
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.baml
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.baml
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.baml
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.g.resources
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.Properties.Resources.resources
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.GenerateResource.cache
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.exe
+C:\Users\nirak\Desktop\Coursework\course-work-1-nirakarsigdel\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe.config
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csprojAssemblyReference.cache
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.g.cs
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.g.cs
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.g.cs
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\App.g.cs
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.cache
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.lref
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\DisplayReport.baml
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Login.baml
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\MainWindow.baml
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.g.resources
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.Properties.Resources.resources
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.GenerateResource.cache
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.exe
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.pdb
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Chart.g.cs
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\Chart.baml
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\WPFToolkit.dll
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\bin\Debug\WPFToolkit.pdb
+C:\Users\karan\Desktop\ApplicationDevelopmentCW\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.CopyComplete
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe.config
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.exe
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\ApplicationDevelopmentCW.pdb
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\WPFToolkit.dll
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\bin\Debug\WPFToolkit.pdb
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csprojAssemblyReference.cache
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\DisplayReport.g.cs
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\Login.g.cs
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\MainWindow.g.cs
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\Chart.g.cs
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\App.g.cs
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.cache
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW_MarkupCompile.lref
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\DisplayReport.baml
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\Login.baml
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\MainWindow.baml
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\Chart.baml
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.g.resources
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.Properties.Resources.resources
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.GenerateResource.cache
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.CoreCompileInputs.cache
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.csproj.CopyComplete
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.exe
+D:\Github_Informatics\AD2019_Marking\Artifacts\MilanThapa\Milan Thapa 17031973 CS6004\Development\ApplicationDevelopmentCW\obj\Debug\ApplicationDevelopmentCW.pdb

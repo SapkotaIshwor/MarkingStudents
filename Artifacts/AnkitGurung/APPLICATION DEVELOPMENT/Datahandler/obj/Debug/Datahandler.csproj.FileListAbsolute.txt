@@ -1,0 +1,5 @@
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\Datahandler\bin\Debug\Datahandler.dll
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\Datahandler\bin\Debug\Datahandler.pdb
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\Datahandler\obj\Debug\Datahandler.csprojAssemblyReference.cache
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\Datahandler\obj\Debug\Datahandler.dll
+C:\Users\Ankit Gurung\source\repos\APPLICATION DEVELOPMENT\Datahandler\obj\Debug\Datahandler.pdb
